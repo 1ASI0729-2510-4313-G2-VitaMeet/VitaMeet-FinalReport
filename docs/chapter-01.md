@@ -63,4 +63,24 @@ En el sistema tradicional de atención médica, muchos pacientes enfrentan dific
 
 Esta plataforma busca optimizar la experiencia médica en ambos extremos del servicio, aumentando la asistencia, reduciendo la carga administrativa y permitiendo una atención médica más organizada y accesible.
 
+### 1.2.2.2 Lean UX Assumptions
 
+**Business Assumptions**
+- La demanda de plataformas digitales para citas médicas está en crecimiento.
+- Los médicos están dispuestos a usar herramientas digitales que faciliten la gestión de su agenda.
+- Ofrecer planes gratuitos y premium atraerá tanto a usuarios como a profesionales médicos.
+
+**Business Outcomes Assumptions**
+- Aumentar el número de usuarios registrados mensualmente.
+- Reducir las ausencias a las citas en un 30% gracias a los recordatorios automatizados.
+- Conseguir un porcentaje de conversión del 15% de usuarios gratuitos al plan premium.
+
+**User Assumptions**
+- Los pacientes quieren una forma sencilla, rápida y accesible de agendar citas sin tener que llamar o acudir físicamente al centro médico.
+- Los médicos necesitan una agenda digital confiable y con recordatorios.
+- Los usuarios valoran recibir notificaciones y seguimiento médico.
+
+**User Outcomes Assumptions**
+- Los pacientes usarán la plataforma al menos dos veces al mes para agendar o gestionar sus citas.
+- Los médicos utilizarán diariamente el sistema para revisar y administrar su agenda.
+- Los usuarios que reciban notificaciones asistirán puntualmente a sus citas en un mayor porcentaje.
