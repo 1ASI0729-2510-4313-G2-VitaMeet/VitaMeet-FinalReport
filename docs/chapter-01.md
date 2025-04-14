@@ -94,3 +94,18 @@ Esta plataforma busca optimizar la experiencia médica en ambos extremos del ser
 - *Creemos que* si proporcionamos a los médicos una agenda digital con alertas, historial de pacientes y gestión de disponibilidad,  
   *Entonces* ellos podrán organizar mejor su tiempo y atender más eficazmente,  
   *Porque* tendrán una herramienta centralizada que facilita su trabajo diario y la comunicación con sus pacientes.
+
+  ### 1.2.2.4 Lean UX Canvas
+
+## 1.3. Segmentos Objetivo
+
+Los segmentos objetivo son grupos específicos de usuarios a los que se dirige un producto o servicio en particular.
+
+Los segmentos objetivos identificados para nuestra plataforma de gestión de citas médicas se presentan a continuación:
+
+| Segmento Objetivo                                     | Características Demográficas                                                                                                                                                      | Información estadística de sustento                                                                                                                                                                                                                                                                                                                                                      |
+|--------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Usuarios: Personas adultas que necesitan atención médica** | Edad: 18 a 60 años. <br/> Género: Varía. <br/> Ubicación: Áreas urbanas y semiurbanas. <br/> Tecnología: Uso frecuente de smartphones e internet. <br/> Necesidad: Atención médica general o especializada. | Según el Instituto Nacional de Estadística e Informática (INEI, 2023), el 73% de los adultos peruanos utiliza internet para acceder a información o servicios de salud, lo que evidencia una alta disposición para el uso de plataformas digitales en el ámbito médico. [INEI, 2023](https://www.inei.gob.pe)                                                                                                            |
+| **Médicos: Generales y especialistas con experiencia**       | Edad: 30 a 60 años. <br/> Experiencia: Más de 10 años. <br/> Tipo: Médicos generales y especialistas (pediatría, ginecología, geriatría, etc.). <br/> Interés: Gestionar agenda, reducir ausencias, mejorar la atención. | De acuerdo con el Colegio Médico del Perú (2022), el 68% de los médicos encuestados considera que el uso de plataformas digitales mejora la organización de su agenda y la calidad de la atención al paciente, especialmente en consultas generales y especializadas. [Colegio Médico del Perú, 2022](https://www.cmp.org.pe)                                                                                          |
+
+    
