@@ -29,24 +29,28 @@ Nuestra startup tiene como objetivo transformar la experiencia de los pacientes 
 
 La plataforma aborda problemas comunes como la desorganización de agendas, la falta de disponibilidad visible en tiempo real, la informalidad en la reserva de consultas y la escasa trazabilidad de la atención médica. Con una interfaz intuitiva y procesos automatizados, esta solución mejora significativamente la experiencia tanto de pacientes como de profesionales de la salud.
 
-**Características Principales** 
+** Características Principales** 
 
-**Asignación Inteligente de Citas**  
+**- Asignación Inteligente de Citas**  
 Los pacientes pueden buscar disponibilidad según especialidad, médico, ubicación o fecha. A través de filtros personalizables, el sistema muestra las opciones más adecuadas, permitiendo una reserva rápida y clara.
 
-**Gestión de Agenda Médica Digitalizada**  
+**- Gestión de Agenda Médica Digitalizada**  
 Los médicos pueden administrar su disponibilidad desde cualquier dispositivo. La plataforma permite bloquear fechas, reprogramar, gestionar cancelaciones y acceder a un historial completo de citas, reduciendo errores administrativos y mejorando la eficiencia en la atención.
 
-**Confirmación y Recordatorios Automatizados**  
+**- Confirmación y Recordatorios Automatizados**  
 Cada cita queda registrada formalmente con un comprobante digital. Además, se envían recordatorios automáticos por correo o mensaje para reducir ausencias y olvidos.
 
-**Historial Médico y Seguimiento de Atención**  
+**- Historial Médico y Seguimiento de Atención**  
 Los pacientes pueden revisar su historial de citas, diagnósticos y tratamientos recibidos, mientras que los médicos pueden llevar un seguimiento más preciso de la evolución de cada caso.
 
-**Seguridad y Confidencialidad**  
+**- Seguridad y Confidencialidad**  
 Toda la información es protegida bajo protocolos de seguridad que garantizan la privacidad de los datos personales y médicos, cumpliendo con las normativas vigentes sobre salud digital.
 
-**Evaluación del Servicio**  
+**- Evaluación del Servicio**  
 Luego de cada cita, los usuarios pueden valorar la calidad de atención recibida, lo que fomenta la mejora continua de los profesionales y permite mantener altos estándares en el servicio ofrecido.
 
 La plataforma representa un paso firme hacia la transformación digital en el sector salud, facilitando el acceso a atención médica confiable y moderna para todos los actores involucrados.
+
+### 1.2.2 Lean UX Process
+
+El proceso Lean UX es una metodología ágil enfocada en crear productos digitales centrados en las necesidades reales de los usuarios. Este enfoque se basa en la colaboración continua entre equipos multidisciplinarios, ciclos rápidos de prueba y error, y una validación constante de las ideas antes de invertir grandes recursos en el desarrollo. Aplicado a nuestra plataforma de gestión de citas médicas, Lean UX nos permite construir soluciones útiles y efectivas de forma iterativa, reduciendo riesgos y asegurando que cada funcionalidad responda a un problema real del paciente o del médico.
