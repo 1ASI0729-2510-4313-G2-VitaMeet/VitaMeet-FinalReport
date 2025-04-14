@@ -84,3 +84,13 @@ Esta plataforma busca optimizar la experiencia médica en ambos extremos del ser
 - Los pacientes usarán la plataforma al menos dos veces al mes para agendar o gestionar sus citas.
 - Los médicos utilizarán diariamente el sistema para revisar y administrar su agenda.
 - Los usuarios que reciban notificaciones asistirán puntualmente a sus citas en un mayor porcentaje.
+
+### 1.2.2.3 Lean UX Hypothesis Statements
+
+- *Creemos que* si ofrecemos una plataforma intuitiva para la gestión de citas médicas,  
+  *Entonces* los pacientes la utilizarán para agendar y asistir puntualmente a sus citas,  
+  *Porque* les brindará comodidad, accesibilidad y organización, reduciendo la necesidad de llamadas o visitas presenciales.
+
+- *Creemos que* si proporcionamos a los médicos una agenda digital con alertas, historial de pacientes y gestión de disponibilidad,  
+  *Entonces* ellos podrán organizar mejor su tiempo y atender más eficazmente,  
+  *Porque* tendrán una herramienta centralizada que facilita su trabajo diario y la comunicación con sus pacientes.
