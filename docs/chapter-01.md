@@ -54,3 +54,7 @@ La plataforma representa un paso firme hacia la transformación digital en el se
 ### 1.2.2 Lean UX Process
 
 El proceso Lean UX es una metodología ágil enfocada en crear productos digitales centrados en las necesidades reales de los usuarios. Este enfoque se basa en la colaboración continua entre equipos multidisciplinarios, ciclos rápidos de prueba y error, y una validación constante de las ideas antes de invertir grandes recursos en el desarrollo. Aplicado a nuestra plataforma de gestión de citas médicas, Lean UX nos permite construir soluciones útiles y efectivas de forma iterativa, reduciendo riesgos y asegurando que cada funcionalidad responda a un problema real del paciente o del médico.
+
+### 1.2.2.1 Lean UX Problem Statements
+
+En el sistema tradicional de atención médica, muchos pacientes enfrentan dificultades al momento de agendar o cancelar citas médicas. Los procesos suelen ser lentos, poco accesibles y, en muchos casos, requieren presencia física o llamadas telefónicas, lo que provoca frustración y pérdida de tiempo. Por otro lado, los médicos también tienen complicaciones para gestionar su agenda, ya que muchas veces no cuentan con herramientas digitales eficaces para administrar su disponibilidad y comunicarse con los pacientes.
