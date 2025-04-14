@@ -59,3 +59,8 @@ El proceso Lean UX es una metodología ágil enfocada en crear productos digital
 
 En el sistema tradicional de atención médica, muchos pacientes enfrentan dificultades al momento de agendar o cancelar citas médicas. Los procesos suelen ser lentos, poco accesibles y, en muchos casos, requieren presencia física o llamadas telefónicas, lo que provoca frustración y pérdida de tiempo. Por otro lado, los médicos también tienen complicaciones para gestionar su agenda, ya que muchas veces no cuentan con herramientas digitales eficaces para administrar su disponibilidad y comunicarse con los pacientes.
 
+**VitaMeet**, una plataforma web de gestión de citas médicas, tiene como objetivo eliminar estas barreras, ofreciendo una experiencia fluida tanto para pacientes como para médicos. Los pacientes podrán agendar, modificar o cancelar sus citas desde cualquier dispositivo, recibir notificaciones automáticas y acceder a un historial médico organizado. A su vez, los médicos podrán gestionar su disponibilidad, visualizar sus próximas consultas, registrar observaciones y tener una relación más ordenada con sus pacientes.
+
+Esta plataforma busca optimizar la experiencia médica en ambos extremos del servicio, aumentando la asistencia, reduciendo la carga administrativa y permitiendo una atención médica más organizada y accesible.
+
+
