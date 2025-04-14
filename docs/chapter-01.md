@@ -9,6 +9,7 @@ El **Startup Profile** ofrece una visión clara y concisa sobre la identidad y d
 Se presentan aspectos clave como el origen del proyecto, el problema que pretende resolver, y cómo su enfoque innovador la diferencia en el mercado. Además, se destacan sus objetivos a mediano y largo plazo, así como las estrategias adoptadas para crecer, adaptarse y generar un impacto positivo en el sector al que pertenece.
 
 ### 1.1.1. Descripción de la Startup
+
 Nuestra startup tiene como objetivo transformar la experiencia de los pacientes y profesionales de la salud al momento de gestionar citas médicas. Buscamos ofrecer una plataforma web intuitiva, segura y accesible que permita a los pacientes agendar, modificar o cancelar sus citas médicas de manera rápida y desde cualquier dispositivo. A su vez, brindamos a los médicos una herramienta eficiente para organizar su agenda, consultar historiales clínicos, y comunicarse de forma ordenada con sus pacientes. Nuestra propuesta se enfoca en mejorar la eficiencia, reducir las ausencias y optimizar la atención médica a través de funcionalidades automatizadas como recordatorios y notificaciones.
 
 ### 1.1.2. Perfiles de integrantes del equipo
@@ -21,3 +22,31 @@ Nuestra startup tiene como objetivo transformar la experiencia de los pacientes 
 | ![Alexander ]()   | Me llamo Alexander soy estudiante de Ingeniería de Software en la UPC. Me considero alguien responsable y altamente motivado para completar todos mis trabajos académicos. Me comprometo a cumplir con mis tareas y a alentar a mis compañeros de equipo para alcanzar los objetivos del curso.|                                                                                             |
 | ![Miguel]() | Me llamo Miguel tengo 19 años y estudio la carrera de ingeniería de Software, cursando en el 5to ciclo. Mi hobbie es la programación y entrenar. Siempre estoy dispuesto a ofrecer mi ayuda a mis compañeros cuando la necesiten, para así mantener un buen trabajo grupal. Me considero una persona colaborativa y me comprometo a aportar al equipo siempre que se necesite.| 
 | ![Fabian]() | Me llamo Fabian tengo 19 años. Soy estudiante de la carrera de ingenieria de software. Soy una persona segura de sí misma, capaz de tomar decisiones importantes y brindar ideas rápidas para solucionar un problema. Tengo conocimientos intermedios en C++, Python, HTML.| 
+
+## 1.2. Solution Profile
+
+**VitaMeet** es una plataforma web diseñada para optimizar y transformar la forma en que los pacientes acceden a servicios de salud, conectándolos de manera eficiente con médicos generales y especialistas. Su objetivo principal es digitalizar el proceso de gestión de citas médicas, reducir los tiempos de espera, mejorar la organización de agendas médicas y asegurar una atención oportuna y segura para todos los usuarios.
+
+La plataforma aborda problemas comunes como la desorganización de agendas, la falta de disponibilidad visible en tiempo real, la informalidad en la reserva de consultas y la escasa trazabilidad de la atención médica. Con una interfaz intuitiva y procesos automatizados, esta solución mejora significativamente la experiencia tanto de pacientes como de profesionales de la salud.
+
+**Características Principales** 
+
+**Asignación Inteligente de Citas**  
+Los pacientes pueden buscar disponibilidad según especialidad, médico, ubicación o fecha. A través de filtros personalizables, el sistema muestra las opciones más adecuadas, permitiendo una reserva rápida y clara.
+
+**Gestión de Agenda Médica Digitalizada**  
+Los médicos pueden administrar su disponibilidad desde cualquier dispositivo. La plataforma permite bloquear fechas, reprogramar, gestionar cancelaciones y acceder a un historial completo de citas, reduciendo errores administrativos y mejorando la eficiencia en la atención.
+
+**Confirmación y Recordatorios Automatizados**  
+Cada cita queda registrada formalmente con un comprobante digital. Además, se envían recordatorios automáticos por correo o mensaje para reducir ausencias y olvidos.
+
+**Historial Médico y Seguimiento de Atención**  
+Los pacientes pueden revisar su historial de citas, diagnósticos y tratamientos recibidos, mientras que los médicos pueden llevar un seguimiento más preciso de la evolución de cada caso.
+
+**Seguridad y Confidencialidad**  
+Toda la información es protegida bajo protocolos de seguridad que garantizan la privacidad de los datos personales y médicos, cumpliendo con las normativas vigentes sobre salud digital.
+
+**Evaluación del Servicio**  
+Luego de cada cita, los usuarios pueden valorar la calidad de atención recibida, lo que fomenta la mejora continua de los profesionales y permite mantener altos estándares en el servicio ofrecido.
+
+La plataforma representa un paso firme hacia la transformación digital en el sector salud, facilitando el acceso a atención médica confiable y moderna para todos los actores involucrados.
