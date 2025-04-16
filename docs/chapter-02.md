@@ -130,6 +130,7 @@ Para ello, se utiliza el modelo de análisis "Competitive Analysis Landscape", d
 
 
 <h4 id="competitiveStrategies">2.1.2. Estrategias y tácticas frente a competidores</h4>
+
 Para competir de manera efectiva en el mercado digital de gestión de citas médicas, VitaMeet implementará una serie de estrategias y tácticas orientadas a consolidar su posicionamiento, maximizar su alcance y diferenciarse de sus principales competidores.
 <br>
 </br>
@@ -137,22 +138,27 @@ Para competir de manera efectiva en el mercado digital de gestión de citas méd
 **Estrategias:**
 
 **1) Enfoque Local y Personalización**
+
 A diferencia de plataformas globales como Doctoralia o Docplanner, VitaMeet se enfoca exclusivamente en el mercado peruano, permitiendo personalizar funciones y lenguaje según las necesidades de la población local, incluyendo integración con redes de salud y costumbres del país.
 
 
 **2) Modelo Freemium para Usuarios y Médicos**
+
 Se ofrecerá un plan gratuito funcional para atraer usuarios y profesionales, y un plan premium con características avanzadas, como informes analíticos, gestión de historia clínica ampliada y mayor visibilidad en búsquedas.
 
 
 **3) Alianzas Estratégicas con Clínicas y Farmacias Locales**
+
 VitaMeet establecerá convenios con clínicas privadas, consultorios independientes y farmacias para integrar servicios y ampliar su base de usuarios a través de canales de confianza.
 
 
 **4) Desarrollo de Marca Digital con SEO Local y Contenido Educativo**
+
 A diferencia de competidores que apuestan por un marketing masivo, VitaMeet adoptará una estrategia de contenido (blogs de salud, consejos médicos) y posicionamiento SEO local (ciudades específicas del Perú) para aumentar la relevancia.
 
 
 **5) Automatización para Disminuir Ausencias**
+
 Los recordatorios inteligentes y notificaciones multicanal (SMS, correo y WhatsApp) serán clave para reducir ausencias en un 30%, uno de los principales dolores de cabeza de los profesionales médicos.
 <br>
 </br>
@@ -176,5 +182,66 @@ La presente sección aborda la recolección de información cualitativa mediante
 
 <h4 id="interviewDesign">2.2.1. Diseño de entrevistas</h4>
 
+Se han diseñado dos bloques de preguntas: uno dirigido a pacientes adultos que buscan atención médica, y otro a médicos generales y especialistas con experiencia. Las preguntas incluyen tanto aspectos demográficos como preguntas clave relacionadas con el uso de tecnología, hábitos, objetivos y frustraciones respecto a la gestión de citas médicas.
+
+**A. Entrevistas a Usuarios: Personas adultas que necesitan atención médica**
+
+**Objetivo:** Comprender las necesidades, comportamientos y problemas que enfrentan los pacientes al momento de buscar, reservar o asistir a una cita médica.
+
 <h4 id="interviewDesing">Preguntas para segmento 1:</h4>
+
+1) ¿Podrías contarnos un poco sobre ti? (edad, ocupación, dónde vives, situación familiar, etc.)
+
+
+2) ¿Con qué frecuencia sueles asistir a consultas médicas (generales o especializadas)?
+
+
+3) ¿Cómo sueles agendar tus citas médicas? ¿A través de llamadas, presencialmente, redes sociales, apps, etc.?
+
+
+4) ¿Qué problemas has tenido al momento de intentar reservar una cita médica?
+
+
+5) ¿Qué factores tomas en cuenta para elegir a un médico o centro de salud (ubicación, recomendaciones, experiencia, etc.)?
+
+
+6) ¿Sueles olvidar tus citas médicas o reprogramarlas con frecuencia? ¿Cómo manejas eso actualmente?
+
+
+7) ¿Qué tan cómodo(a) te sientes usando plataformas digitales o apps para reservar citas médicas?
+
+8) Si existiera una plataforma que te permita ver disponibilidad médica en tiempo real, reservar tu cita y recibir recordatorios automáticos, ¿qué tan probable sería que la uses? ¿Por qué?
+<br>
+
+**B. Entrevistas a Médicos: Generales y especialistas con experiencia**
+
+**Objetivo:** Identificar los retos actuales que enfrentan los médicos al momento de gestionar su agenda, comunicarse con pacientes y reducir ausencias o cancelaciones.
+
+<h4 id="interviewDesing">Preguntas para segmento 2:</h4>
+
+1) ¿Podría contarnos un poco sobre usted? (edad, especialidad, años de experiencia, tipo de consultorio, ubicación, etc.)
+
+
+2) ¿Cómo gestiona actualmente su agenda de citas médicas? ¿Utiliza agendas físicas, Excel, asistentes, redes sociales, etc.?
+
+
+3) ¿Con qué frecuencia se presentan pacientes que no asisten a sus citas o que cancelan a última hora?
+
+
+4) ¿Qué impacto tienen estas ausencias o cancelaciones en su día de trabajo?
+
+
+5) ¿Ha usado alguna vez una plataforma digital para gestionar citas? ¿Qué tal fue su experiencia?
+
+
+6) ¿Le resultaría útil una plataforma que permita confirmar citas automáticamente y enviar recordatorios a sus pacientes?
+
+
+7) ¿Qué elementos considera fundamentales en una plataforma digital para que sea funcional y fácil de usar para usted?
+
+
+8) ¿Qué obstáculos cree que podrían impedirle usar una solución digital para la gestión de citas?
+</br>
+
+<h4 id="registerInterview">2.2.2. Registro de entrevistas</h4>
 
