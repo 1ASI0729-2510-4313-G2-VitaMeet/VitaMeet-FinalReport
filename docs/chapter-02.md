@@ -245,3 +245,85 @@ Se han diseñado dos bloques de preguntas: uno dirigido a pacientes adultos que 
 
 <h4 id="registerInterview">2.2.2. Registro de entrevistas</h4>
 
+Para cada uno de nuestros segmentos objetivos, ...
+
+**Segmento 1:**
+
+<table>
+    <thead>
+        <tr>
+            <th scope="row" colspan="2">Entrevista #1</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td style="text-align:center">
+                <strong>Nombres</strong>
+            </td>
+            <td></td>
+        </tr>
+        <tr>
+            <td style="text-align:center">
+                <strong>Apellidos</strong>
+                <td></td>
+            </td>
+        </tr>
+       <tr>
+            <td style="text-align:center">
+                <strong>Edad</strong>
+            </td>
+            <td></td>
+        </tr>
+        <tr>
+            <td style="text-align:center">
+                <strong>Distrito</strong>
+            </td>
+            <td></td>
+        </tr>
+        <tr>
+            <td style="text-align:center">
+                <strong>Timing</strong>
+            </td>
+            <td></td>
+        </tr>
+        <tr>
+            <td style="text-align:center">
+                <strong>Duración</strong>
+            </td>
+            <td></td>
+        </tr>
+        <tr>
+            <td style="text-align:center">
+                <strong>URL</strong>
+            </td>
+            <td>
+                <a href="#">
+                    #
+                </a>
+            </td>
+        </tr>
+    </tbody>
+</table>
+
+<br>
+
+<p style="text-align:center">
+    <img src="" alt="Entrevista#1" style="width:400px"/>
+</p>
+
+**Resumen:**
+<p style="text-align: justify">
+    Info
+</p>
+
+<h4 id="analysisInterview">2.2.3. Análisis de entrevistas</h4>
+
+<h3 id="needfinding">2.3. Needfinding</h3>
+
+En esta sección se presenta el proceso de “Needfinding” o búsqueda de necesidades, el cual permite identificar, a partir de entrevistas, observaciones y análisis de mercado, los problemas reales que enfrentan los usuarios potenciales.
+
+
+Este proceso es clave para construir una solución centrada en el usuario. Para ello, se desarrollaron perfiles representativos conocidos como User Personas, los cuales reflejan a los distintos segmentos objetivo de VitaMeet y permiten analizar en mayor profundidad sus contextos, motivaciones, frustraciones y objetivos.
+
+
+<h4 id="userPersonas">2.3.1. User Personas</h4>
