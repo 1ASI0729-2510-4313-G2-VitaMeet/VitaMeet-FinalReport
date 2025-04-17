@@ -327,3 +327,22 @@ Este proceso es clave para construir una solución centrada en el usuario. Para 
 
 
 <h4 id="userPersonas">2.3.1. User Personas</h4>
+
+Para fortalecer el enfoque centrado en el usuario de la solución VitaMeet, se han desarrollado dos perfiles de User Persona, uno por cada segmento objetivo identificado durante el proceso de análisis. Estos perfiles permiten representar las necesidades, comportamientos, frustraciones y objetivos de los principales usuarios de la plataforma. La información ha sido construida a partir del análisis de entrevistas, referencias estadísticas y comportamientos comunes detectados en plataformas similares.
+
+**1) Segmento 1: Personas adultas que necesitan atención médica** 
+
+<img src="../assets/User_Persona_Segmento 1.jpg" alt="User Persona Usuarios" width="auto" height="430"/>
+
+<br>
+
+**2) Segmento 2: Médicos generales y especialistas con experiencia**
+
+<img src="../assets/User_Persona_Segmento 2.jpg" alt="User Persona Medicos" width="auto" height="430"/>
+
+
+<h4 id="userTaskMatrix">2.3.2. User Task Matrix</h4>
+
+
+En este cuadro se utilizan los números del uno al tres para representar cuánta importancia y frecuencia posee una actividad frente al usuario que la realiza. En el caso de la frecuencia, el uno equivale a una actividad poco frecuente; el dos, más o menos frecuente y; el tres, muy frecuente. Por otro lado, en el caso de la importancia, el uno significa que la actividad no tiene mucha importancia para el usuario; el dos, que no es tan importante y; el tres, que es una actividad de suma importancia.
+
