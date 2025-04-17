@@ -343,6 +343,87 @@ Para fortalecer el enfoque centrado en el usuario de la solución VitaMeet, se h
 
 <h4 id="userTaskMatrix">2.3.2. User Task Matrix</h4>
 
+<table border="1" cellspacing="0" cellpadding="5" style="border-collapse: collapse; text-align: center;">
+    <thead>
+        <tr>
+            <th rowspan="2">User Task Matrix</th>
+            <th colspan="2">Gabriela Ríos (Usuario)</th>
+            <th colspan="2">Dr. Luis Fernández (Médico)</th>
+        </tr>
+        <tr>
+            <th>Frecuencia</th>
+            <th>Importancia</th>
+            <th>Frecuencia</th>
+            <th>Importancia</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Buscar un médico por especialidad y ubicación</td>
+            <td>3</td>
+            <td>3</td>
+            <td>2</td>
+            <td>3</td>
+        </tr>
+        <tr>
+            <td>Agendar una cita médica desde el celular</td>
+            <td>3</td>
+            <td>3</td>
+            <td>3</td>
+            <td>3</td>
+        </tr>
+        <tr>
+            <td>Consultar historial de citas o diagnósticos</td>
+            <td>2</td>
+            <td>3</td>
+            <td>2</td>
+            <td>3</td>
+        </tr>
+        <tr>
+            <td>Recibir recordatorios de cita</td>
+            <td>3</td>
+            <td>2</td>
+            <td>3</td>
+            <td>3</td>
+        </tr>
+        <tr>
+            <td>Leer reseñas o experiencias de otros pacientes</td>
+            <td>2</td>
+            <td>3</td>
+            <td>1</td>
+            <td>1</td>
+        </tr>
+        <tr>
+            <td>Gestionar la agenda diaria de consultas</td>
+            <td>1</td>
+            <td>1</td>
+            <td>3</td>
+            <td>3</td>
+        </tr>
+        <tr>
+            <td>Confirmar o reprogramar una cita</td>
+            <td>2</td>
+            <td>2</td>
+            <td>3</td>
+            <td>3</td>
+        </tr>
+        <tr>
+            <td>Comunicarse con el médico a través de la app</td>
+            <td>3</td>
+            <td>3</td>
+            <td>2</td>
+            <td>3</td>
+        </tr>
+        <tr>
+            <td>Acceder a información sobre el médico (perfil, especialidad, experiencia)</td>
+            <td>2</td>
+            <td>3</td>
+            <td>1</td>
+            <td>2</td>
+        </tr>
+    </tbody>
+</table>
 
 En este cuadro se utilizan los números del uno al tres para representar cuánta importancia y frecuencia posee una actividad frente al usuario que la realiza. En el caso de la frecuencia, el uno equivale a una actividad poco frecuente; el dos, más o menos frecuente y; el tres, muy frecuente. Por otro lado, en el caso de la importancia, el uno significa que la actividad no tiene mucha importancia para el usuario; el dos, que no es tan importante y; el tres, que es una actividad de suma importancia.
 
+<h4 id="userJourneyMapping">2.3.3. User Journey Mapping</h4>
