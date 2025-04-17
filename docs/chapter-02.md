@@ -450,4 +450,21 @@ En esta imagen, observamos el viaje del usuario del Dr. Luis Fernández al adopt
 
 <h4 id="empathyMap">2.3.4. Empathy Mapping</h4>
 
+En esta sección, se utilizará la herramienta del mapa de empatía para analizar a profundidad los sentimientos de los usuarios de cada segmento objetivo. Con esto, el objetivo que se quiere lograr es comprender aún más al usuario y cómo vive alrededor de la situación problemática. Cada gráfico contiene cuatro cuadrantes donde se evalúa lo que siente, lo que piensa, lo que dice y lo que hace cada usuario en su situación.
+
+- **Segmento 1: Personas adultas que necesitan atención médica**
+
+<img src="../assets/Empathy_Mapping_Segmento 1.jpg" alt="User Persona Usuarios" width="auto" height="420"/>
+
+En esta imagen, se utilizó la herramienta descrita previamente para analizar los sentimientos y la situación del usuario que representa al segmento objetivo de los usuarios de servicios médicos. De este cuadro, se concluye que el usuario valora la rapidez y la facilidad para encontrar y agendar citas con médicos de confianza a través de medios digitales. Además, siente desconfianza si los procesos son complicados o la información es insuficiente. También, el usuario observa cómo otros consumidores prefieren servicios que ofrecen transparencia y comodidad. Finalmente, aspira a tener un mayor control sobre sus decisiones médicas y a contar con herramientas confiables que agilicen todo el proceso.
+
+<br>
+
+- **Segmento 2: Médicos generales y especialistas con experiencia**
+
+<img src="../assets/Empathy_Mapping_Segmento 2.jpg" alt="User Persona Usuarios" width="auto" height="420"/>
+
+En esta imagen, se utilizó la herramienta descrita previamente para analizar los sentimientos y la situación del usuario que representa al segmento objetivo de los médicos independientes. De este cuadro, se concluye que el usuario reconoce la necesidad de modernizar su forma de gestionar citas y pacientes para ser más eficiente. Además, siente frustración frente a los métodos tradicionales que le hacen perder tiempo y afectar la calidad de su atención. También, el usuario observa cómo sus colegas adoptan soluciones digitales, lo que incrementa su interés por hacer el cambio. Finalmente, aspira a utilizar una herramienta que le permita optimizar su agenda, comunicarse mejor con sus pacientes y reducir errores administrativos.
+
+
 <h4 id="asIsScenario">2.3.5. As-is Scenario Mapping</h4>
