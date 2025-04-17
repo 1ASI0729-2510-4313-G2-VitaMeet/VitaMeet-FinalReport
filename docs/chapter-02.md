@@ -468,3 +468,21 @@ En esta imagen, se utilizó la herramienta descrita previamente para analizar lo
 
 
 <h4 id="asIsScenario">2.3.5. As-is Scenario Mapping</h4>
+
+Para el mapeo actual de las situaciones de los usuarios de VitaMeet, se tuvieron en cuenta las experiencias reales y cotidianas que enfrentan al gestionar su atención médica y servicios relacionados.
+
+- **Segmento 1: Personas adultas que necesitan atención médica**
+
+<img src="../assets/As-Is_Scenario_Mapping_Segmento 1.jpg" alt="User Persona Usuarios" width="auto" height="400"/>
+
+Por un lado, para los usuarios pacientes (personas adultas que necesitan atención médica), se consideran actividades como la búsqueda de médicos especializados, la comparación de opciones disponibles, la programación de citas médicas y la experiencia durante la consulta. Se evaluó cómo estas acciones impactan emocionalmente en los usuarios, detectando tanto experiencias positivas como negativas.
+
+
+<br>
+
+- **Segmento 2: Médicos generales y especialistas con experiencia**
+
+<img src="../assets/As-Is_Scenario_Mapping_Segmento 2.jpg" alt="User Persona Usuarios" width="auto" height="400"/>
+
+Por otro lado, para los médicos (médicos generales y especialistas con experiencia), se analizaron las fases relacionadas con la organización de sus agendas, la atención directa a los pacientes, la gestión de reprogramaciones y el registro de información médica. Se identificaron puntos de satisfacción por optimizar tiempos, pero también frustraciones relacionadas a sobrecarga administrativa y falta de herramientas digitales adecuadas.
+
