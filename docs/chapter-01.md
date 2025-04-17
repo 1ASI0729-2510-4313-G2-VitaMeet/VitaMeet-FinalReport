@@ -100,7 +100,7 @@ Esta plataforma busca optimizar la experiencia médica en ambos extremos del ser
 
 Lean UX Canvas es una guía visual para crear, probar y mejorar ideas de productos enfocadas en el usuario.
 
-![Lean Ux Canva]()
+![Lean Ux Canva](../assets/LeanUxCanva.png)
 
 ## 1.3. Segmentos Objetivo
 
