@@ -426,4 +426,28 @@ Para fortalecer el enfoque centrado en el usuario de la solución VitaMeet, se h
 
 En este cuadro se utilizan los números del uno al tres para representar cuánta importancia y frecuencia posee una actividad frente al usuario que la realiza. En el caso de la frecuencia, el uno equivale a una actividad poco frecuente; el dos, más o menos frecuente y; el tres, muy frecuente. Por otro lado, en el caso de la importancia, el uno significa que la actividad no tiene mucha importancia para el usuario; el dos, que no es tan importante y; el tres, que es una actividad de suma importancia.
 
+
 <h4 id="userJourneyMapping">2.3.3. User Journey Mapping</h4>
+
+En esta sección se detalla la experiencia vivida por los usuarios pertenecientes a los segmentos objetivos al interactuar con la solución digital propuesta por VitaMeet. El análisis considera todo el recorrido, desde la toma de conciencia del problema hasta la etapa de fidelización, y pone énfasis en los puntos de contacto, emociones, dificultades y soluciones propuestas.
+
+- **Segmento 1: Personas adultas que necesitan atención médica**
+
+<img src="../assets/User_Journey_Mapping_Segmento 1.jpg" alt="User Persona Usuarios" width="auto" height="430"/>
+
+
+En esta imagen, se utilizó la herramienta de Journey Map para analizar el uso de la plataforma VitaMeet por parte de Gabriela Rios. Desde la fase de descubrimiento, Gabriela valora la posibilidad de agendar citas médicas de forma rápida y desde el celular, especialmente para su hija. Aunque al inicio tuvo dudas sobre la confiabilidad de la disponibilidad mostrada en la app, su experiencia mejora con funciones como recordatorios automáticos, reprogramaciones rápidas y una interfaz amigable. Con el tiempo, Gabriela confía plenamente en VitaMeet y la recomienda a sus amigas y colegas del trabajo.
+
+<br>
+
+- **Segmento 2: Médicos generales y especialistas con experiencia**
+
+<img src="../assets/User_Journey_Mapping_Segmento 2.jpg" alt="User Persona Usuarios" width="auto" height="430"/>
+
+
+En esta imagen, observamos el viaje del usuario del Dr. Luis Fernández al adoptar VitaMeet. En la fase de consideración, muestra escepticismo sobre reemplazar su sistema tradicional (secretaria y papel) por una plataforma digital. Sin embargo, al probar VitaMeet y notar cómo reduce las ausencias y mejora la organización de su agenda, su percepción cambia positivamente. Con funciones como confirmación automática, alertas de cita, y reportes de flujo de pacientes, el Dr. Fernández logra optimizar su tiempo. Su fidelización se fortalece cuando se da cuenta de que también puede usar la plataforma para enviar recomendaciones a sus pacientes y gestionar consultas en línea de forma sencilla.
+
+
+<h4 id="empathyMap">2.3.4. Empathy Mapping</h4>
+
+<h4 id="asIsScenario">2.3.5. As-is Scenario Mapping</h4>
