@@ -19,7 +19,7 @@ Segmento 2: Médicos generales y especialistas con experiencia
 
 Segmento 1: Personas adultas que necesitan atención médica
 
-<img src="../assets/Impact map-paciente.png "alt="IMpaciente" height="500" />
+<img src="../assets/Impact map-paciente.png" alt="IMpaciente" height="500" />
 
 Segmento 2: Médicos generales y especialistas con experiencia
 
