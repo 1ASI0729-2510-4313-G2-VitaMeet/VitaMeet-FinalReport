@@ -23,6 +23,6 @@ Segmento 1: Personas adultas que necesitan atención médica
 
 Segmento 2: Médicos generales y especialistas con experiencia
 
-<img src="../assets/Impact map-medico.png" alt="IMmedico" height="500" />
+<img src="../assets/Impact map-médico.png" alt="IMmedico" height="500" />
 
 ## Product Backlog.
