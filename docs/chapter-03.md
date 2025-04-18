@@ -4,7 +4,7 @@
 
 Segmento 1: Personas adultas que necesitan atención médica
 
-![TBSM paciente](assets/TBSM-paciente.png)
+![TBSM paciente](../assets/TBSM-paciente.png)
 
 Segmento 2: Médicos generales y especialistas con experiencia
 
