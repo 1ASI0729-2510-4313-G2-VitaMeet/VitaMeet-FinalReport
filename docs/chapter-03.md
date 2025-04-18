@@ -23,6 +23,8 @@ Segmento 2: Médicos generales y especialistas con experiencia
 | EP07 | Gestionar servicios de pago de citas médicas | Como paciente Quiero poder separar y pagar las citas médicas Para poder atenderme generando un comprobante de pago | No corresponde | No corresponde |
 | EP08 | Visualizar la información del servicio del médico | Como paciente Quiero poder visualizar el historial de pacientes atendidos y las métricas del doctor Para estar seguro de escoger el médico correcto | No corresponde | No corresponde | 
 | EP09 | Gestionar citas médicas e historial de pacientes | Como médico Quiero poder visualizar las citas médicas programadas y acceder al historial médico del paciente Para poder atender de forma óptima | No corresponde | No corresponde | 
+| US01 | Implementación de la sección “Home” en la Landing Page | Como usuario de la plataforma web Quiero poder visualizar la sección "Home" para tener una primera vista del producto | Scenario 1: Visualizar Sección Home <br>  Dado que el visitante ingresa a la página Cuando la página cargue Entonces se muestra una sección llamativa que anime al usuario a usar la aplicación. <br> Scenario 2: Error en el sistema <br> Dado que el usuario se encuentre dentro de la landing page Cuando ocurra algún problema con el sistema Entonces no se muestra la sección Home Y se muestra un mensaje de error.
+
  
 
 
