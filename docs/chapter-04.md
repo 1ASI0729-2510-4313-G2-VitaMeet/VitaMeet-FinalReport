@@ -20,7 +20,7 @@ Imagen del uso de la tipografía “IBM Plex Sans”
 
 ![Image](https://github.com/user-attachments/assets/3dc1d791-82fb-4ee2-b97f-864ea657fce5)
 
-1001 Fonts. (s.f.). IBM Plex Sans [Imagen de muestra]. https://www.1001fonts.com/ibm-plexsans-font.html
+1001 Fonts. (s.f.). **IBM Plex Sans** [Imagen de muestra]. https://www.1001fonts.com/ibm-plexsans-font.html
 
 ### Figura 2
 
@@ -28,7 +28,7 @@ Imagen del uso de la tipografía “Nunito”
 
 ![Image](https://github.com/user-attachments/assets/f33fe73f-2bcf-4dcb-89ab-675ba25ff456)
 
-1001 Fonts. (s.f.). Nunito [Imagen de muestra].https://www.1001fonts.com/ibm-plexsans-font.html
+1001 Fonts. (s.f.). **Nunito** [Imagen de muestra].https://www.1001fonts.com/ibm-plexsans-font.html
 
 ### Colors: 
 La selección de colores es clave para la primera impresión visual de los usuarios. Se optó por el color verde/azul, que transmite calma, confianza y cercanía. Este color principal se complementa con tonos neutros como blancos y grises claros, que aportan equilibrio y limpieza visual a la plataforma. También se incluyen acentos en colores más vivos para destacar botones o llamadas a la acción, sin romper la armonía general. Esta paleta no solo refleja los valores de bienestar y conexión de la marca, sino que también mejora la legibilidad y facilita la navegación.
@@ -65,13 +65,38 @@ Cada especialida médica puede tener subcategorías, como: Medicina general(cont
 
 #### 4.2.2. Labelling System
 
-En esta seccion se describe el sistema de etiquetado utilizado para nombrar elementos dentro de la plataforma.
+En VitaMeet, las etiquetas textuales están presentes en todas las pantallas, facilitando la comprensión del contenido que el usuario está visualizando. Las secciones del sitio, como “Planes”, “Servicios”, “FAQ” y “Beneficios”, están claramente identificadas en el menú superior con labels consistentes, lo que permite una navegación directa e intuitiva. Además, cada bloque de contenido cuenta con encabezados destacados y títulos que resumen claramente su función, como “¿Qué ofrece la aplicación?” o “Elige tu plan”, lo que ayuda al usuario a orientarse en todo momento. Las tarjetas que agrupan beneficios, médicos disponibles o características del plan están acompañadas por etiquetas que reflejan con precisión su contenido, garantizando así una experiencia clara y coherente.
 
 #### 4.2.3. SEO Tags and Meta Tags
+La plataforma VitaMeet incorpora metaetiquetas esenciales que permiten mejorar el posicionamiento en buscadores y estructurar correctamente la información para navegadores y motores de búsqueda.
+Las meta tags que utilizaremos:
+- **Título:**
+La etiqueta <title> es de las más importantes, ya que generalmente se pone antes de cualquier meta etiqueta y ofrece una vista previa clara del propósito principal de la plataforma.
+
+![Image](https://github.com/user-attachments/assets/965436d4-332e-4947-8c1d-0f6b76833843)
+
+- **Codificación de caracteres:**
+Esta etiqueta garantiza que los caracteres especiales se muestren correctamente.
+![Image](https://github.com/user-attachments/assets/4d4c3fd9-95a4-43c9-b35a-83fe41033536)
+
+- **Descripción:**
+En esta etiqueta se muestra un resumen breve del contenido del sitio para mejorar la visibilidad en motores de búsqueda.
+![Image](https://github.com/user-attachments/assets/4a6a7430-706b-435d-baea-875666b30170)
+
+- **Palabras clave:**
+Esta etiqueta permite mejorar el rastreo del sitio según las búsquedas relacionadas.
+![Image](https://github.com/user-attachments/assets/b6eec1fd-76c6-404e-9bec-5cf2b3890828)
+
+- **Derechos de autor:**
+Esta etiqueta detalla el autor y los derechos reservados del contenido.
+![Image](https://github.com/user-attachments/assets/84ccde27-d253-482d-b76e-463e7e4175c7)
 
 #### 4.2.4. Searching System
+Uno de los elementos clave de VitaMeet es permitir que tanto pacientes como médicos puedan acceder rápidamente a información específica. Por ello, se ha implementado un sistema de búsqueda que facilita la localización de citas pasadas, médicos por especialidad, fechas disponibles y planes contratados. Los filtros permiten refinar las búsquedas por fecha, tipo de atención o nombre del profesional. En el caso de los médicos, se puede buscar también por nombre del paciente, fecha de consulta o tipo de tratamiento, optimizando la gestión de historiales clínicos. Esta función garantiza que los usuarios no pierdan tiempo revisando grandes volúmenes de información.
 
 #### 4.2.5. Navigation System
+La navegación principal de VitaMeet se organiza a través de un menú superior persistente que contiene accesos directos a las secciones más importantes de la plataforma: inicio, servicios, planes, preguntas frecuentes y beneficios. Este sistema permite desplazarse de forma no lineal por el contenido, pero también ofrece una experiencia descendente intuitiva para aquellos usuarios que prefieren explorar el sitio sin hacer clics.
+En el flujo dentro de la aplicación, la navegación se adapta a cada tipo de usuario: los pacientes acceden a sus citas próximas y notificaciones desde el inicio, mientras que los médicos ingresan directamente a su panel de agenda. Además, los botones permiten realizar acciones claves como agendar, cancelar o confirmar citas, o bien revisar historiales, todo dentro de una interfaz fluida que prioriza la experiencia del usuario.
 
 ### 4.3 Landing Page UI Design
 
@@ -232,9 +257,12 @@ Permite a los pacientes evaluar al médico después de una cita.
 | id         | int          | Identificador único de la evaluación.        |
 | puntuacion | int          | Calificación numérica asignada al médico.    |
 | comentario | string       | Comentario adicional del paciente.           |
+<<<<<<< HEAD
 
 ### 4.8. Database desing
 #### 4.8.1 Database Diagrams
 Para nuestro sistema, también hemos implementado un diagrama de base de datos. Este diagrama proporciona una representación visual de la estructura de nuestra base de datos, incluyendo tablas, columnas y relaciones entre ellas. Es una herramienta clave para comprender la arquitectura de datos de nuestro sistema y cómo se relacionan entre sí las entidades de nuestra aplicación.
 
 <a href="https://ibb.co/C36WPrbQ"><img src="https://i.ibb.co/JwqC3hvH/Imagen-de-Whats-App-2025-04-16-a-las-21-01-01-666e1334.jpg" alt="Database-Diagram" border="0"></a>
+=======
+>>>>>>> 9ab6f5dd49b3e3bdd5a26069b5c0555e391347d4
