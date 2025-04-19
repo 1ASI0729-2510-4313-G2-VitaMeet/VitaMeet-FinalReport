@@ -54,14 +54,14 @@ Gracias a un diseño responsivo, y el uso de elementos gráficos que no sean dem
 
 #### 4.2.1. Organization System
 
-En esta sección se definirá los sistemas de organización que permitirán estructurar y etiquetar el contenido de manera que resulte comprensible y fácil de encontrar para los usuarios.
+En esta sección se definirá los sistemas de organización que permitirán estructurar y etiquetar el contenido de manera que resulte comprensible y fácil de encontrar para los usuarios. La organización de los contenidos en la plataforma se estructura utilizando distintos sistemas, adaptándose a las necesidades de los usuarios ya sean clientes o cuidadores.
 
-- **Jerarquía de contenido:** Diseñaremos una jerarquía de contenido basada en los servicios de salud que se ofrecen. Las secciones principales usadas son citas médicas, especialidades (Medicina general, Pediatría, Giencología, Dermatología. etc.), médicos, historial clínico, perfil del paciente/médico, ayuda y soporte, entre otras opciones.
+- **Jerarquía de contenido:** •	Primero, se aplica una jerarquía visual que permite dar mayor relevancia a los elementos más importantes de cada pantalla. Las secciones principales usadas son citas médicas, especialidades (Medicina general, Pediatría, Giencología, Dermatología. etc.), médicos, historial clínico, perfil del paciente/médico, ayuda y soporte, entre otras opciones.
 Cada especialida médica puede tener subcategorías, como: Medicina general(control mediante citas, consulta por sintomas, prescripción de medicamentos).
 
-- **Categorización:** Los contenidos de citas se pueden agrupar por especialidad, horario disponible, idioma del profesional (de ser necesario), etc.
+- **Organización secuencial:** En cuanto a la organización secuencial, el usuario sigue un flujo lógico desde la selección del tipo de servicio, el profesional disponible, la hora deseada, hasta la confirmación final. Este proceso está diseñado para que se realice de manera intuitiva, asegurando que el cliente complete la reserva sin complicaciones y con claridad sobre cada caso.
 
-- **Funcionalidad de comparación:** Esta funcionalidad les permitirá seleccionar a sus médicos por especialidad, experiencia, opinion de otros pacientes y precio.
+- **Organización matricial** Por otro lado, se emplea una organización matricial a través del menú y la estructura de navegación general de la aplicación. Desde la pantalla de inicio, los usuarios acceden de forma clara a secciones como los servicios, planes, preguntas/respuestas y comentarios. Cada módulo está representado visualmente mediante tarjetas, lo que permite una navegación rápida e intuitiva. Además, la vista inicial está adaptada según el tipo de usuario: los pacientes acceden primero los servicios que requieren, eligen planes a su preferencia, agendan su cita y reciben notificaciones antes de la cita agendada. Esto mientras que los profesionales de la salud visualizan directamente su agenda diaria y la información necesaria para atender a sus pacientes, asegurando una experiencia eficiente y personalizada.
 
 #### 4.2.2. Labelling System
 
@@ -69,6 +69,8 @@ En VitaMeet, las etiquetas textuales están presentes en todas las pantallas, fa
 
 #### 4.2.3. SEO Tags and Meta Tags
 La plataforma VitaMeet incorpora metaetiquetas esenciales que permiten mejorar el posicionamiento en buscadores y estructurar correctamente la información para navegadores y motores de búsqueda.
+
+
 Las meta tags que utilizaremos:
 - **Título:**
 La etiqueta <title> es de las más importantes, ya que generalmente se pone antes de cualquier meta etiqueta y ofrece una vista previa clara del propósito principal de la plataforma.
