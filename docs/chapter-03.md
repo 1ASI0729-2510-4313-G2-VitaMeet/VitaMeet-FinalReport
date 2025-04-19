@@ -56,11 +56,6 @@ Segmento 2: Médicos generales y especialistas con experiencia
 | US31 | Acceder al historial médico del paciente | Como médico Quiero acceder al historial médico de mis pacientes Para ofrecer una atención más adecuada. | Scenario 1: Acceder al historial médico del paciente <br> Dado que soy un médico Cuando accedo al perfil de un paciente Entonces debo poder ver su historial médico completo. | EP09 |
 
 
-
-
- 
-
-
 ## Impact Mapping.
 
 Segmento 1: Personas adultas que necesitan atención médica
@@ -72,3 +67,37 @@ Segmento 2: Médicos generales y especialistas con experiencia
 <img src="../assets/Impact map-médico.png" alt="IMmedico" height="650"  />
 
 ## Product Backlog.
+
+| # Orden | User Story Id | Título | Descripción | Story Points (1 / 2 / 3 / 5 / 8) |
+|---------|---------------|--------|-------------|----------------------------------|
+| 1       | US08          | Acceder a la aplicación desde la landing page | Como usuario de la página Quiero poder acceder a la aplicación desde la landing page Para empezar a usarla. | 1 |
+| 2       | US11          | Confirmación de registro de cuenta | Como usuario Quiero recibir una confirmación al registrar mi cuenta Para saber que el proceso se completó correctamente. | 1 |
+| 3       | US16          | Cerrar sesión | Como usuario Quiero cerrar sesión Para proteger mi cuenta cuando termine de usar la aplicación. | 1 |
+| 4       | US22          | Ver información del médico | Como paciente Quiero ver los detalles de un médico Para tomar una decisión informada. | 1 |
+| 5       | US30          | Visualizar citas médicas programadas | Como paciente Quiero ver las citas médicas que tengo programadas Para estar al tanto de mi agenda. | 1 |
+| 6       | US12          | Iniciar sesión | Como usuario registrado Quiero iniciar sesión Para acceder a mi cuenta. | 2 |
+| 7       | US17          | Editar datos del médico | Como médico registrado Quiero editar mis datos personales Para mantener mi información actualizada. | 2 |
+| 8       | US18          | Editar datos del paciente | Como paciente registrado Quiero editar mis datos personales Para mantener mi información actualizada. | 2 |
+| 9       | US13          | Restablecer contraseña | Como usuario Quiero restablecer mi contraseña si la olvido Para poder acceder a mi cuenta. | 2 |
+| 10      | US23          | Revisar valoraciones y reseñas sobre el médico | Como paciente Quiero ver las valoraciones y reseñas de un médico Para tomar una mejor decisión al elegirlo. | 2 | 
+| 11      | US20          | Buscar médico especializado | Como paciente Quiero buscar médicos según especialidad Para encontrar el adecuado para mis necesidades. | 3 |
+| 12      | US21          | Filtrar búsqueda de médicos | Como paciente Quiero filtrar la búsqueda de médicos por disponibilidad Para facilitar la elección. | 3 |
+| 13      | US24          | Generar valoraciones y reseñas sobre el médico | Como paciente Quiero poder valorar y dejar una reseña sobre un médico Para compartir mi experiencia con otros usuarios. | 3 |
+| 14      | US26          | Pagar la cita | Como paciente Quiero pagar mi cita médica Para confirmar mi asistencia. | 3 |
+| 15      | US27          | Generar comprobante electrónico | Como paciente Quiero recibir un comprobante electrónico del pago de mi cita Para tener un registro. | 3 |
+| 16      | US01          | Implementación de la sección “Home” en la Landing Page | Como usuario de la plataforma web Quiero poder visualizar la sección "Home" de la landing page para tener una primera vista del producto. | 3 |
+| 17      | US02          | Implementación de la sección “About us” en la Landing Page | Como usuario de la plataforma Quiero visualizar la sección "About us" de la landing page Para tener información de la startup. | 3 |
+| 18      | US03          | Implementación de la sección "Services" en la Landing Page | Como usuario de la plataforma Quiero visualizar la sección "Services" en la landing page Para tener información de los servicios ofrecidos por la aplicación | 3 |
+| 19      | US04          | Implementación de la sección "Plans" en la Landing Page | Como usuario de la plataforma Quiero visualizar los planes de suscripción Para tener información de las membresías | 3 |
+| 20      | US05          | Implementación de la sección "About the Team" en la Landing Page. | Como usuario Quiero conocer al equipo detrás de la startup Para entender la experiencia y misión de la plataforma. | 3 |
+| 21     | US06          | Implementación de las reseñas de la landing page. | Como usuario Quiero conocer las reseñas de otras personas usando la plataforma Para saber si me conviene usarlo | 3 |
+| 22      | US10          | Registrar paciente | Como paciente Quiero poder registrar mi cuenta Para hacer uso de la aplicación | 5 |
+| 23      | US14          | Autenticar la cuenta del médico | Como médico Quiero autenticar mi cuenta Para poder verificar mi identidad. | 5 |
+| 24      | US15          | Autenticar la cuenta del paciente |Como paciente Quiero autenticar mi cuenta Para verificar mi identidad | 5 |
+| 25      | US19          | Eliminar cuenta | Como usuario Quiero eliminar mi cuenta Para dejar de utilizar la plataforma. | 5 |
+| 26      | US07          | Landing Page Responsive a diferentes tamaños de pantalla. | Como usuario de la página Quiero que la landing page sea responsive Para que se vea bien en dispositivos móviles y escritorios. | 5 |
+| 27      | US28          | Ver historial de pacientes atendidos | Como médico Quiero ver el historial de los pacientes atendidos Para un mejor seguimiento de su tratamiento. | 5 |
+| 28      | US29          | Ver métricas de servicio del médico | Como médico Quiero ver las métricas de mis servicios Para evaluar mi desempeño y mejorar la atención. | 5 |
+| 29      | US30          | Visualizar citas médicas programadas | Como paciente Quiero ver las citas médicas que tengo programadas Para estar al tanto de mi agenda. | 5 |
+| 30      | US25          | Separar cita con el médico | Como paciente Quiero separar una cita con el médico Para agendar una consulta. | 8 |
+| 31      | US09          | Registrar médico | Como médico Quiero registrar mi cuenta Para hacer uso de la aplicación. | 8 |
