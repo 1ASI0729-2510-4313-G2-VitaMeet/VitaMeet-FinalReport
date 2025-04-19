@@ -61,8 +61,29 @@ En el sistema tradicional de atención médica, muchos pacientes enfrentan dific
 
 **VitaMeet**, una plataforma web de gestión de citas médicas, tiene como objetivo eliminar estas barreras, ofreciendo una experiencia fluida tanto para pacientes como para médicos. Los pacientes podrán agendar, modificar o cancelar sus citas desde cualquier dispositivo, recibir notificaciones automáticas y acceder a un historial médico organizado. A su vez, los médicos podrán gestionar su disponibilidad, visualizar sus próximas consultas, registrar observaciones y tener una relación más ordenada con sus pacientes.
 
-Esta plataforma busca optimizar la experiencia médica en ambos extremos del servicio, aumentando la asistencia, reduciendo la carga administrativa y permitiendo una atención médica más organizada y accesible.
+Esta plataforma busca optimizar la experiencia médica en ambos extremos del servicio, aumentando la asistencia, reduciendo la carga administrativa y permitiendo una atención médica más organizada y accesible. El proceso actual para agendar y gestionar citas médicas en Perú es ineficiente y poco accesible, lo que conduce a una alta tasa de ausentismo, sobrecarga administrativa para el personal de salud y una atención médica desorganizada.
 
+Según un estudio publicado en la revista Horizonte Médico, se determinó que la proporción de ausentismo en citas médicas en un hospital nacional peruano fue del 19.64%. Este estudio analizó factores personales e institucionales asociados al ausentismo, utilizando registros de programación de citas y bases de datos de atenciones médicas. Los resultados destacan la necesidad de implementar estrategias modernas que optimicen la gestión de citas médicas.
+
+Aunque el 99% de los peruanos está afiliado a algún seguro de salud, 7 de cada 10 personas no pueden acceder a la atención que necesitan, debido a demoras, burocracia o falta de disponibilidad.
+
+El modelo de gestión del sistema de salud en Perú está sobrecargado de procesos manuales y burocráticos, reduciendo la eficiencia del personal médico y afectando negativamente la experiencia del paciente.
+
+Creemos que al proporcionar una plataforma digital como VitaMeet para la gestión de citas médicas, lograremos reducir el ausentismo, disminuir la carga administrativa y mejorar la organización del servicio médico, lo que resultará en una atención más eficiente, ágil y accesible tanto para pacientes como para profesionales de la salud.
+
+1.) Disminución del ausentismo en un 30% en los primeros 6 meses.
+
+2.) Aumento del número de citas agendadas online en un 50%.
+
+3.) Reducción de tiempo administrativo en recepción y coordinación médica.
+
+4.) Mayor facilidad para programar o cancelar citas desde el celular o PC.
+
+5.) Reducción de tiempos de espera en consultorios.
+
+6.) Notificaciones automáticas para evitar olvidos.
+
+7.) Acceso al historial de citas y observaciones médicas de forma organizada.
 
 ### 1.2.2.2 Lean UX Assumptions
 
