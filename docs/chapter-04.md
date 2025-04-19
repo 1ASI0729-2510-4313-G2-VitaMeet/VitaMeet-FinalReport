@@ -79,3 +79,10 @@ Este es el diagrama de Contenedores de nuestro sistema:
 #### 4.6.3. Software Architecture Components Diagram
 Este es el diagrama de componentes de nuestro sistema:
 <a href="https://ibb.co/rG50zcWY"><img src="https://i.ibb.co/mChT2Xxk/structurizr-Component-001.png" alt="structurizr-90643-Container-001" border="0"></a>
+
+### 4.7. Software Object-Oriented Design
+#### 4.7.1. Class Diagrams
+Para nuestro sistema, hemos implementado un diagrama de clases. Este diagrama visualiza la estructura estática del software, mostrando las clases, sus atributos y las relaciones entre ellas. Es una herramienta esencial que nos ayuda a comprender cómo se organizan y comunican las diferentes partes de nuestro sistema de software.
+Diagrama de clases:
+
+<a href="https://ibb.co/qGgrYSr"><img src="https://i.ibb.co/4ySVRqV/Untitled-diagram-2025-04-19-020330.png" alt="Class-Diagram" border="0"></a>
