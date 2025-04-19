@@ -1,9 +1,10 @@
-
 ## CAPÍTULO 4: PRODUCT DESIGN
 
 ### 4.1. Style Guidelines.
 
 #### 4.1.1 General Style Guidelines
+
+Esta sección, “style guidelines”, reúne un conjunto de reglas y pautas que definen cómo deben redactarse y diseñarse los documentos de un proyecto. Estas guías aseguran coherencia en el tono, la estructura, el lenguaje y los elementos visuales, lo que facilita una comunicación efectiva entre los miembros del equipo y garantiza una presentación profesional y uniforme.
 
 ### Brand Name:
 El nombre de nuestra propuesta de solución es VitaMeet, una combinación de las palabras “Vita” del latín, vida y “Meet” en inglés, reunirse. Por un lado, “Vita” hace referencia a la vitalidad, lo cual refleja el enfoque de la solución hacia el cuidado y la mejora de la calidad de vida. Por otro lado, “Meet” destaca el componente social y colaborativo de la plataforma, centrada en encuentros, ya sean virtuales o presenciales, entre los usuarios y médicos. Al unir los términos, VitaMeet representa una solución centrada en la conexión entre el médico y el paciente, con el propósito de cuidar su salud y vitalidad.
@@ -43,8 +44,6 @@ La selección de colores es clave para la primera impresión visual de los usuar
 
 ### Wireframe:
 ![Image](https://github.com/user-attachments/assets/69c93ce3-fe4a-483b-950a-be9564440155)
-
-Esta sección, “style guidelines”, reúne un conjunto de reglas y pautas que definen cómo deben redactarse y diseñarse los documentos de un proyecto. Estas guías aseguran coherencia en el tono, la estructura, el lenguaje y los elementos visuales, lo que facilita una comunicación efectiva entre los miembros del equipo y garantiza una presentación profesional y uniforme.
 
 #### 4.1.2. Web Style Guidelines
 
