@@ -257,12 +257,10 @@ Permite a los pacientes evaluar al médico después de una cita.
 | id         | int          | Identificador único de la evaluación.        |
 | puntuacion | int          | Calificación numérica asignada al médico.    |
 | comentario | string       | Comentario adicional del paciente.           |
-<<<<<<< HEAD
 
 ### 4.8. Database desing
 #### 4.8.1 Database Diagrams
 Para nuestro sistema, también hemos implementado un diagrama de base de datos. Este diagrama proporciona una representación visual de la estructura de nuestra base de datos, incluyendo tablas, columnas y relaciones entre ellas. Es una herramienta clave para comprender la arquitectura de datos de nuestro sistema y cómo se relacionan entre sí las entidades de nuestra aplicación.
 
 <a href="https://ibb.co/C36WPrbQ"><img src="https://i.ibb.co/JwqC3hvH/Imagen-de-Whats-App-2025-04-16-a-las-21-01-01-666e1334.jpg" alt="Database-Diagram" border="0"></a>
-=======
->>>>>>> 9ab6f5dd49b3e3bdd5a26069b5c0555e391347d4
+
