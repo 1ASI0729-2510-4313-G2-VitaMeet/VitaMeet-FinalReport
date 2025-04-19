@@ -1,14 +1,54 @@
-
 ## CAPÍTULO 4: PRODUCT DESIGN
 
 ### 4.1. Style Guidelines.
+
 #### 4.1.1 General Style Guidelines
+
+Esta sección, “style guidelines”, reúne un conjunto de reglas y pautas que definen cómo deben redactarse y diseñarse los documentos de un proyecto. Estas guías aseguran coherencia en el tono, la estructura, el lenguaje y los elementos visuales, lo que facilita una comunicación efectiva entre los miembros del equipo y garantiza una presentación profesional y uniforme.
+
+### Brand Name:
+El nombre de nuestra propuesta de solución es VitaMeet, una combinación de las palabras “Vita” del latín, vida y “Meet” en inglés, reunirse. Por un lado, “Vita” hace referencia a la vitalidad, lo cual refleja el enfoque de la solución hacia el cuidado y la mejora de la calidad de vida. Por otro lado, “Meet” destaca el componente social y colaborativo de la plataforma, centrada en encuentros, ya sean virtuales o presenciales, entre los usuarios y médicos. Al unir los términos, VitaMeet representa una solución centrada en la conexión entre el médico y el paciente, con el propósito de cuidar su salud y vitalidad.
+
+![Image](https://github.com/user-attachments/assets/cec13e4b-9993-4df3-92e8-0c49b52992ad)
+
+### Tipografía:
+La tipografía es esencial en cualquier diseño porque no solo organiza visualmente la información, sino que también influye en la percepción del usuario sobre la plataforma. En VitaMeet, elegimos las fuentes “IBM Plex Sans” y “Secular One”. IBM Plex Sans es una tipografía moderna y legible, ideal para el texto largo, lo que facilita la lectura en dispositivos de cualquier tamaño. Secular One, con su estilo único, se usa en los encabezados para dar un toque distintivo y dinámico, destacando las secciones clave. Ambas fuentes aportan claridad y funcionalidad, y juntas crean una jerarquía visual que mejora la navegación. En conjunto, estas tipografías logran un balance perfecto entre accesibilidad y profesionalismo, ayudando a que el usuario tenga una experiencia fluida y agradable.
+
+### Figura 1
+
+Imagen del uso de la tipografía “IBM Plex Sans”
+
+![Image](https://github.com/user-attachments/assets/3dc1d791-82fb-4ee2-b97f-864ea657fce5)
+
+1001 Fonts. (s.f.). IBM Plex Sans [Imagen de muestra]. https://www.1001fonts.com/ibm-plexsans-font.html
+
+### Figura 2
+
+Imagen del uso de la tipografía “Nunito”
+
+![Image](https://github.com/user-attachments/assets/f33fe73f-2bcf-4dcb-89ab-675ba25ff456)
+
+1001 Fonts. (s.f.). Nunito [Imagen de muestra].https://www.1001fonts.com/ibm-plexsans-font.html
+
+### Colors: 
+La selección de colores es clave para la primera impresión visual de los usuarios. Se optó por el color verde/azul, que transmite calma, confianza y cercanía. Este color principal se complementa con tonos neutros como blancos y grises claros, que aportan equilibrio y limpieza visual a la plataforma. También se incluyen acentos en colores más vivos para destacar botones o llamadas a la acción, sin romper la armonía general. Esta paleta no solo refleja los valores de bienestar y conexión de la marca, sino que también mejora la legibilidad y facilita la navegación.
+
+### Text Colors:
+![Image](https://github.com/user-attachments/assets/167fe760-1fc3-4226-ba2d-53ed6d57c73c)
+
+### Primary Colors:
+![Image](https://github.com/user-attachments/assets/0e2abda2-0bee-4e3f-a35a-636b54d44124)
+
+### Secondary Colors:
+![Image](https://github.com/user-attachments/assets/231148f6-3621-4f09-a782-ce922a25e126)
+
+### Wireframe:
+![Image](https://github.com/user-attachments/assets/69c93ce3-fe4a-483b-950a-be9564440155)
 
 #### 4.1.2. Web Style Guidelines
 
 Una aplicación como la nuestra depende explicitamente que sea lo más sencilla de navegar por cualquier usuario que la tenga a su alcance; por lo tanto, aplicando todos los elementos descritos en el apartado anterior, se buscará diseñar una aplicación que pueda ser explorada por los usuarios de forma efectiva mientras se transmite un aire de seguridad al tener que manejar dinero y otros bienes dentro del sistema.
 Gracias a un diseño responsivo, y el uso de elementos gráficos que no sean demasiado rígidos a la vista, se espera que la aplicación de una buena imagen para mantener al usuario interesado y al mismo tiempo bien informado de todo el funcionamiento interno de la aplicación.
-
 
 ### 4.2 Information Architecture.
 
@@ -86,3 +126,109 @@ Para nuestro sistema, hemos implementado un diagrama de clases. Este diagrama vi
 Diagrama de clases:
 
 <a href="https://ibb.co/qGgrYSr"><img src="https://i.ibb.co/4ySVRqV/Untitled-diagram-2025-04-19-020330.png" alt="Class-Diagram" border="0"></a>
+
+#### 4.7.2. Class Dictionary
+Para la siguiente explicacion de los atributos de las clases, es crucial comprender los atributos de estas clases, ya que proporcionan información clave sobre la estructura y el funcionamiento del sistema. Documentar adecuadamente estos atributos facilita el desarrollo, la depuración y el mantenimiento del código, asegurando un sistema robusto y seguro
+
+- **Clase: User**
+
+El atributo 'id' es un identificador único del usuario, mientras que 'password' representa la contraseña necesaria para acceder al sistema.
+
+| Atributo  | Tipo de Dato | Descripción                         |
+|-----------|--------------|-------------------------------------|
+| id        | int          | Identificador único del usuario.    |
+| nombre    | string       | Nombre del usuario elegido.         |
+| email     | string       | Correr registrado del usuario.      |
+| password  | string       | Contraseña para acceder al sistema. |
+| rol       | string       | Rol establecido por el usuario.     |
+
+
+- **Clase: Paciente** 
+Esta clase recibe los atributos de la clase usuario y se le agregan datos del rol paciente.
+
+| Atributo  | Tipo de Dato | Descripción                         |
+|-----------|--------------|-------------------------------------|
+| id        | int          | Identificador único del usuario.    |
+| dni       | int          | Documento nacional del paciente.    |
+| fechaNacimiento | string | Fecha de nacimiento del paciente.   |
+| sexo      | string       | Sexo del paciente.                  |
+| telefono  | int       | Número de contacto del paciente.       |
+
+- **Clase: Médico**
+Define los datos clave del médico como su especialidad, número de colegiatura y teléfono.
+
+| Atributo           | Tipo de Dato | Descripción                                     |
+|--------------------|--------------|-------------------------------------------------|
+| id                 | int          | Identificador único del médico.                |
+| especialidad       | string       | Especialidad médica del profesional.           |
+| numeroColegiatura  | string       | Número de colegiatura del médico.              |
+| telefono           | int          | Número de contacto del médico.                 |
+
+- **Clase: Cita**
+Representa una consulta médica agendada entre un paciente y un médico.
+
+| Atributo  | Tipo de Dato | Descripción                              |
+|-----------|--------------|------------------------------------------|
+| id        | int          | Identificador único de la cita.          |
+| fecha     | DateTime     | Fecha y hora programada para la cita.    |
+| estado    | string       | Estado de la cita (pendiente, finalizada). |
+| motivo    | string       | Motivo o razón de la consulta médica.    |
+
+- **Clase: Dirección**
+Ubicación asociada al paciente o médico, dividida por departamento, provincia y distrito.
+
+| Atributo     | Tipo de Dato | Descripción                                      |
+|--------------|--------------|--------------------------------------------------|
+| id           | int          | Identificador único de la dirección.            |
+| departamento | string       | Departamento en el que se encuentra.            |
+| provincia    | string       | Provincia correspondiente a la dirección.       |
+| distrito     | string       | Distrito donde se encuentra la dirección.       |
+| detalle      | string       | Descripción adicional de la dirección.          |
+
+- **Clase: Agenda**
+Bloques de tiempo disponibles por parte del médico para agendar citas.
+
+| Atributo        | Tipo de Dato | Descripción                                          |
+|------------------|--------------|------------------------------------------------------|
+| id               | int          | Identificador único de la agenda.                   |
+| fechaDisponible  | Date         | Fecha en que el médico estará disponible.           |
+| horaInicio       | Time         | Hora de inicio de disponibilidad.                   |
+| horaFin          | Time         | Hora de finalización de disponibilidad.             |
+| estado           | string       | Estado de la disponibilidad (activo/inactivo).      |
+
+- **Clase: Especialidad**
+Define las especialidades médicas ofrecidas por los médicos.
+
+| Atributo    | Tipo de Dato | Descripción                              |
+|-------------|--------------|------------------------------------------|
+| id          | int          | Identificador único de la especialidad.  |
+| nombre      | string       | Nombre de la especialidad médica.        |
+| descripcion | string       | Descripción detallada de la especialidad.|
+
+- **Clase: Recordatorio**
+Almacena datos de notificaciones enviadas al paciente para recordar una cita médica.
+
+| Atributo     | Tipo de Dato | Descripción                                            |
+|--------------|--------------|--------------------------------------------------------|
+| id           | int          | Identificador único del recordatorio.                 |
+| fechaEnvio   | DateTime     | Fecha y hora en que se envió el recordatorio.         |
+| medio        | string       | Medio por el cual se envió (email, SMS, etc.).        |
+
+- **Clase: Historial Médico**
+Registro clínico asociado a una cita médica, incluyendo diagnóstico y tratamiento.
+
+| Atributo       | Tipo de Dato | Descripción                                           |
+|----------------|--------------|-------------------------------------------------------|
+| id             | int          | Identificador único del historial médico.            |
+| diagnostico    | string       | Diagnóstico dado por el médico.                      |
+| tratamiento    | string       | Tratamiento recomendado o prescrito.                 |
+| fechaRegistro  | DateTime     | Fecha en la que se registró el historial médico.     |
+
+- **Clase: Evaluación**
+Permite a los pacientes evaluar al médico después de una cita.
+
+| Atributo   | Tipo de Dato | Descripción                                  |
+|------------|--------------|----------------------------------------------|
+| id         | int          | Identificador único de la evaluación.        |
+| puntuacion | int          | Calificación numérica asignada al médico.    |
+| comentario | string       | Comentario adicional del paciente.           |
