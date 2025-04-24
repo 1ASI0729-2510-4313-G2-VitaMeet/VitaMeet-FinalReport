@@ -47,6 +47,33 @@ Segmento 2: Médicos generales y especialistas con experiencia
 | US-06        | Editar datos del usuario           |
 | US-07        | Eliminar cuenta                    |
 
+**Epic 02:  Gestión de citas médicas** 
+
+| **Story ID** | **Título**                     |
+|--------------|--------------------------------|
+| US08         | Filtrar búsqueda de médicos    |
+| US09         | Ver información del médico     |
+| US10         | Pagar la cita                  |
+| US11         | Cancelar cita médica           |
+| US12         | Agendar cita médica            |
+
+**Epic 03: Interacción con los médicos y seguimiento**
+| **Story ID** | **Título**                               |
+|--------------|------------------------------------------|
+| US13         | Ver historial de pacientes atendidos     |
+| US14         | Acceder al historial médico del paciente |
+| US15         | Dejar una reseña sobre un médico         |
+
+**Epic 04: Interaccion con la landing page**
+
+| **Story ID** | **Título**                                    |
+|--------------|-----------------------------------------------|
+| US16         | Navegación por la landing page                |
+| US17         | Acceder a la aplicación desde la landing page |
+| TS18         | Cambiar el Idioma de la Landing Page          |
+| TS19         | Contactar al Equipo de Soporte                |
+| TS20         | Solucionar Errores Reportados                 |
+
 ## 3.3. Impact Mapping.
 
 Segmento 1: Personas adultas que necesitan atención médica
