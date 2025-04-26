@@ -73,7 +73,7 @@ La plataforma VitaMeet incorpora metaetiquetas esenciales que permiten mejorar e
 
 Las meta tags que utilizaremos:
 - **Título:**
-La etiqueta <title> es de las más importantes, ya que generalmente se pone antes de cualquier meta etiqueta y ofrece una vista previa clara del propósito principal de la plataforma.
+La etiqueta "Title" es de las más importantes, ya que generalmente se pone antes de cualquier meta etiqueta y ofrece una vista previa clara del propósito principal de la plataforma.
 
 ![Image](https://github.com/user-attachments/assets/965436d4-332e-4947-8c1d-0f6b76833843)
 
@@ -136,23 +136,25 @@ Para el modelo de negocio que utilizaremos para desarrollar nuestro software com
 
 #### 4.6.1. Software Architecture Context Diagram
 Este es el diagrama de Contexto de nuestro sistema:
-<a href="https://ibb.co/1Yc19fCk"><img src="https://i.ibb.co/p6qc3vHS/structurizr-System-Context-001-1.png" alt="structurizr-90643-System-Context-001" border="0"></a>
+
+![Image](../assets/contexto.png)
 
 #### 4.6.2. Software Architecture Container Diagram
 Este es el diagrama de Contenedores de nuestro sistema:
-<a href="https://ibb.co/dsQDDVzW"><img src="https://i.ibb.co/Ps5ggPfm/structurizr-Container-001.png" alt="structurizr-90643-Container-001" border="0"></a>
 
+![Image](../assets/contenedores.png)
 
 #### 4.6.3. Software Architecture Components Diagram
 Este es el diagrama de componentes de nuestro sistema:
-<a href="https://ibb.co/rG50zcWY"><img src="https://i.ibb.co/mChT2Xxk/structurizr-Component-001.png" alt="structurizr-90643-Container-001" border="0"></a>
+
+![Image](../assets/componentes.png)
 
 ### 4.7. Software Object-Oriented Design
 #### 4.7.1. Class Diagrams
 Para nuestro sistema, hemos implementado un diagrama de clases. Este diagrama visualiza la estructura estática del software, mostrando las clases, sus atributos y las relaciones entre ellas. Es una herramienta esencial que nos ayuda a comprender cómo se organizan y comunican las diferentes partes de nuestro sistema de software.
 Diagrama de clases:
 
-<a href="https://ibb.co/qGgrYSr"><img src="https://i.ibb.co/4ySVRqV/Untitled-diagram-2025-04-19-020330.png" alt="Class-Diagram" border="0"></a>
+![Image](../assets/class_diagram.png)
 
 #### 4.7.2. Class Dictionary
 Para la siguiente explicacion de los atributos de las clases, es crucial comprender los atributos de estas clases, ya que proporcionan información clave sobre la estructura y el funcionamiento del sistema. Documentar adecuadamente estos atributos facilita el desarrollo, la depuración y el mantenimiento del código, asegurando un sistema robusto y seguro
@@ -264,5 +266,4 @@ Permite a los pacientes evaluar al médico después de una cita.
 #### 4.8.1 Database Diagrams
 Para nuestro sistema, también hemos implementado un diagrama de base de datos. Este diagrama proporciona una representación visual de la estructura de nuestra base de datos, incluyendo tablas, columnas y relaciones entre ellas. Es una herramienta clave para comprender la arquitectura de datos de nuestro sistema y cómo se relacionan entre sí las entidades de nuestra aplicación.
 
-<a href="https://ibb.co/C36WPrbQ"><img src="https://i.ibb.co/JwqC3hvH/Imagen-de-Whats-App-2025-04-16-a-las-21-01-01-666e1334.jpg" alt="Database-Diagram" border="0"></a>
-
+![Image](../assets/vitameet_db_diagram.jpg)
