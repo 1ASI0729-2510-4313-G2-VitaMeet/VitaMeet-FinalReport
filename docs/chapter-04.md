@@ -9,7 +9,7 @@ Esta sección, “style guidelines”, reúne un conjunto de reglas y pautas que
 ### Brand Name:
 El nombre de nuestra propuesta de solución es VitaMeet, una combinación de las palabras “Vita” del latín, vida y “Meet” en inglés, reunirse. Por un lado, “Vita” hace referencia a la vitalidad, lo cual refleja el enfoque de la solución hacia el cuidado y la mejora de la calidad de vida. Por otro lado, “Meet” destaca el componente social y colaborativo de la plataforma, centrada en encuentros, ya sean virtuales o presenciales, entre los usuarios y médicos. Al unir los términos, VitaMeet representa una solución centrada en la conexión entre el médico y el paciente, con el propósito de cuidar su salud y vitalidad.
 
-![Image](https://github.com/user-attachments/assets/cec13e4b-9993-4df3-92e8-0c49b52992ad)
+![Image](../assets/logo.jpg)
 
 ### Tipografía:
 La tipografía es esencial en cualquier diseño porque no solo organiza visualmente la información, sino que también influye en la percepción del usuario sobre la plataforma. En VitaMeet, elegimos las fuentes “IBM Plex Sans” y “Secular One”. IBM Plex Sans es una tipografía moderna y legible, ideal para el texto largo, lo que facilita la lectura en dispositivos de cualquier tamaño. Secular One, con su estilo único, se usa en los encabezados para dar un toque distintivo y dinámico, destacando las secciones clave. Ambas fuentes aportan claridad y funcionalidad, y juntas crean una jerarquía visual que mejora la navegación. En conjunto, estas tipografías logran un balance perfecto entre accesibilidad y profesionalismo, ayudando a que el usuario tenga una experiencia fluida y agradable.
@@ -18,7 +18,7 @@ La tipografía es esencial en cualquier diseño porque no solo organiza visualme
 
 Imagen del uso de la tipografía “IBM Plex Sans”
 
-![Image](https://github.com/user-attachments/assets/3dc1d791-82fb-4ee2-b97f-864ea657fce5)
+![Image](../assets/ibm.jpg)
 
 1001 Fonts. (s.f.). **IBM Plex Sans** [Imagen de muestra]. https://www.1001fonts.com/ibm-plexsans-font.html
 
@@ -26,7 +26,7 @@ Imagen del uso de la tipografía “IBM Plex Sans”
 
 Imagen del uso de la tipografía “Nunito”
 
-![Image](https://github.com/user-attachments/assets/f33fe73f-2bcf-4dcb-89ab-675ba25ff456)
+![Image](../assets/nunito.jpg)
 
 1001 Fonts. (s.f.). **Nunito** [Imagen de muestra].https://www.1001fonts.com/ibm-plexsans-font.html
 
@@ -34,16 +34,16 @@ Imagen del uso de la tipografía “Nunito”
 La selección de colores es clave para la primera impresión visual de los usuarios. Se optó por el color verde/azul, que transmite calma, confianza y cercanía. Este color principal se complementa con tonos neutros como blancos y grises claros, que aportan equilibrio y limpieza visual a la plataforma. También se incluyen acentos en colores más vivos para destacar botones o llamadas a la acción, sin romper la armonía general. Esta paleta no solo refleja los valores de bienestar y conexión de la marca, sino que también mejora la legibilidad y facilita la navegación.
 
 ### Text Colors:
-![Image](https://github.com/user-attachments/assets/167fe760-1fc3-4226-ba2d-53ed6d57c73c)
+![Image](../assets/text.jpg)
 
 ### Primary Colors:
-![Image](https://github.com/user-attachments/assets/0e2abda2-0bee-4e3f-a35a-636b54d44124)
+![Image](../assets/primary.jpg)
 
 ### Secondary Colors:
-![Image](https://github.com/user-attachments/assets/231148f6-3621-4f09-a782-ce922a25e126)
+![Image](../assets/secondary.jpg)
 
 ### Wireframe:
-![Image](https://github.com/user-attachments/assets/69c93ce3-fe4a-483b-950a-be9564440155)
+![Image](../assets/wireframe.jpg)
 
 #### 4.1.2. Web Style Guidelines
 
@@ -75,23 +75,23 @@ Las meta tags que utilizaremos:
 - **Título:**
 La etiqueta "Title" es de las más importantes, ya que generalmente se pone antes de cualquier meta etiqueta y ofrece una vista previa clara del propósito principal de la plataforma.
 
-![Image](https://github.com/user-attachments/assets/965436d4-332e-4947-8c1d-0f6b76833843)
+![Image](../assets/1tag.jpg)
 
 - **Codificación de caracteres:**
 Esta etiqueta garantiza que los caracteres especiales se muestren correctamente.
-![Image](https://github.com/user-attachments/assets/4d4c3fd9-95a4-43c9-b35a-83fe41033536)
+![Image](../assets/2tag.jpg)
 
 - **Descripción:**
 En esta etiqueta se muestra un resumen breve del contenido del sitio para mejorar la visibilidad en motores de búsqueda.
-![Image](https://github.com/user-attachments/assets/4a6a7430-706b-435d-baea-875666b30170)
+![Image](../assets/3tag.jpg)
 
 - **Palabras clave:**
 Esta etiqueta permite mejorar el rastreo del sitio según las búsquedas relacionadas.
-![Image](https://github.com/user-attachments/assets/b6eec1fd-76c6-404e-9bec-5cf2b3890828)
+![Image](../assets/4tag.jpg)
 
 - **Derechos de autor:**
 Esta etiqueta detalla el autor y los derechos reservados del contenido.
-![Image](https://github.com/user-attachments/assets/84ccde27-d253-482d-b76e-463e7e4175c7)
+![Image](../assets/5tag.jpg)
 
 #### 4.2.4. Searching System
 Uno de los elementos clave de VitaMeet es permitir que tanto pacientes como médicos puedan acceder rápidamente a información específica. Por ello, se ha implementado un sistema de búsqueda que facilita la localización de citas pasadas, médicos por especialidad, fechas disponibles y planes contratados. Los filtros permiten refinar las búsquedas por fecha, tipo de atención o nombre del profesional. En el caso de los médicos, se puede buscar también por nombre del paciente, fecha de consulta o tipo de tratamiento, optimizando la gestión de historiales clínicos. Esta función garantiza que los usuarios no pierdan tiempo revisando grandes volúmenes de información.
@@ -104,19 +104,24 @@ En el flujo dentro de la aplicación, la navegación se adapta a cada tipo de us
 
 #### 4.3.1 Landing Page Wireframe
 
-![Image](https://github.com/user-attachments/assets/5123bca0-e8a4-4607-83fd-2c93b1eeab5b)
-![Image](https://github.com/user-attachments/assets/1a8b0315-02dc-454c-893f-9a44ac97f691)
-![Image](https://github.com/user-attachments/assets/d240b665-c40a-46c2-b0f8-a44a7e75fdc2)
-![Image](https://github.com/user-attachments/assets/0dec02cc-3ebf-4fdc-9f79-1ed143014553)
-![Image](https://github.com/user-attachments/assets/8c3eacfe-d261-4d6f-8678-21b55b464b05)
-
+![Image](../assets/lpw1.jpg)
+![Image](../assets/lpw2.jpg)
+![Image](../assets/lpw3.jpg)
+![Image](../assets/lpw4.jpg)
+![Image](../assets/lpw5.jpg)
+![Image](../assets/lpw6.jpg)
+![Image](../assets/lpwlogin.jpg)
+![Image](../assets/lpwregister.jpg)
 #### 4.3.2 Landing Page Mock-up
 
-![Image](https://github.com/user-attachments/assets/db6b8586-d276-47c1-86c4-aabbee73fc01)
-![Image](https://github.com/user-attachments/assets/6fdcc4a7-4d27-4ea0-96b2-321da71192ff)
-![Image](https://github.com/user-attachments/assets/3d5a0c3d-9a7d-4705-9792-3504c7a4346a)
-![Image](https://github.com/user-attachments/assets/4f517478-5f2b-476b-88e4-4123ff7e10eb)
-![Image](https://github.com/user-attachments/assets/b290ea54-0d43-43f5-919b-fb59f5ed2008)
+![Image](../assets/lpm1.jpg)
+![Image](../assets/lpm2.jpg)
+![Image](../assets/lpm3.jpg)
+![Image](../assets/lpm4.jpg)
+![Image](../assets/lpm5.jpg)
+![Image](../assets/lpm6.jpg)
+![Image](../assets/lpmlogin.jpg)
+![Image](../assets/lpmregister.jpg)
 
 ### 4.4. Web Applications UX/UI Design.
 
