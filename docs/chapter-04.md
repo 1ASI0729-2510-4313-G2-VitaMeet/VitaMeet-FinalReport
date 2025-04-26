@@ -155,20 +155,31 @@ Diseño para visualizar el registro y login
 
 ![Image](../assets/img1.jpg)
 
+Diseño para visualizar la traducción
+
+![Image](../assets/lan1.jpg)
+
 #### 4.4.2. Web Applications Wireflow Diagrams.
 
 Diagrama de interacción de registro y login del usuario
 
 ![Image](../assets/img2.jpg)
 
+Diagrama de interacción de la traducción
+
+![Image](../assets/lan2.jpg)
+
 #### 4.4.3. Web Applications Mock-Ups.
 
 ![Image](../assets/img3.jpg)
+
+![Image](../assets/lan3.jpg)
 
 #### 4.4.4. Web Applications User Flow Diagrams.
 
 ![Image](../assets/img4.jpg)
 
+![Image](../assets/lan4.jpg)
 
 ### 4.5. Web Applications Prototyping.
 
