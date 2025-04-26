@@ -109,29 +109,66 @@ En el flujo dentro de la aplicación, la navegación se adapta a cada tipo de us
 ![Image](../assets/lpw3.jpg)
 ![Image](../assets/lpw4.jpg)
 ![Image](../assets/lpw5.jpg)
-![Image](../assets/lpw6.jpg)
 ![Image](../assets/lpwlogin.jpg)
 ![Image](../assets/lpwregister.jpg)
+
 #### 4.3.2 Landing Page Mock-up
 
+Seccion Home
+
 ![Image](../assets/lpm1.jpg)
+
+Seccion Services
+
 ![Image](../assets/lpm2.jpg)
+
+Seccion Plans
+
 ![Image](../assets/lpm3.jpg)
+
+Seccion FAQ
+
 ![Image](../assets/lpm4.jpg)
+
+Seccion Benefits
+
 ![Image](../assets/lpm5.jpg)
+
+Seccion Comments
+
 ![Image](../assets/lpm6.jpg)
+
+Login
+
 ![Image](../assets/lpmlogin.jpg)
+
+Register
+
 ![Image](../assets/lpmregister.jpg)
+
 
 ### 4.4. Web Applications UX/UI Design.
 
 #### 4.4.1. Web Applications Wireframes.
 
+Diseño para visualizar el registro y login
+
+![Image](../assets/img1.jpg)
+
 #### 4.4.2. Web Applications Wireflow Diagrams.
+
+Diagrama de interacción de registro y login del usuario
+
+![Image](../assets/img2.jpg)
 
 #### 4.4.3. Web Applications Mock-Ups.
 
+![Image](../assets/img3.jpg)
+
 #### 4.4.4. Web Applications User Flow Diagrams.
+
+![Image](../assets/img4.jpg)
+
 
 ### 4.5. Web Applications Prototyping.
 
