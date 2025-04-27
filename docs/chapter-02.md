@@ -307,17 +307,17 @@ Se han diseñado dos bloques de preguntas: uno dirigido a pacientes adultos que 
 
 <table border="1" cellpadding="8" cellspacing="0">
     <tr><th colspan="2">Entrevista 4</th></tr>
-    <tr><td>Segmento Objetivo</td><td>.....</td></tr>
-    <tr><td>Fecha Entrevista</td><td>00/04/2025</td></tr>
-    <tr><td>Entrevistador</td><td>.....</td></tr>
-    <tr><td>Entrevistado</td><td>....</td></tr>
-    <tr><td>Edad</td><td>000 años</td></tr>
-    <tr><td>Distrito</td><td>.....</td></tr>
+    <tr><td>Segmento Objetivo</td><td>Cliente</td></tr>
+    <tr><td>Fecha Entrevista</td><td>23/04/2025</td></tr>
+    <tr><td>Entrevistador</td><td>Alexander Paolo Justo Yauricasa</td></tr>
+    <tr><td>Entrevistado</td><td>Camila Conde</td></tr>
+    <tr><td>Edad</td><td>21 años</td></tr>
+    <tr><td>Distrito</td><td>Callao</td></tr>
     <tr><td>Link del Video</td><td><a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202312932_upc_edu_pe/EVs_IHAn7wRKp6xgyJYl29ABUpgqNDGHl30AI-GwDatDSg?e=YdzzyO&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D">Ver Video</a></td></tr>
     <tr><td>Minuto de Inicio</td><td>17:11</td></tr>
     <tr><td>Duración</td><td>04:03 minutos</td></tr>
     <tr><td>Imagen</td><td><img src="../assets/Foto_Entrevista4.png" alt="Entrevista 4" height="380"/></td></tr>
-    <tr><td>Resumen</td><td>.....</td></tr>
+    <tr><td>Resumen</td><td>Camila es una estudiante de diseño grafico de 21 años, ella comenta que le ha sido complicado llevar sus citas medicas por los timepos y las distancias que le agendan su cita, porque lleva una vida atareada.Ademas, Comenta que le gustaria un aplicacion que le facilitara la comunicacion con especialistas de la salud.</td></tr>
 </table><br>
 
 
