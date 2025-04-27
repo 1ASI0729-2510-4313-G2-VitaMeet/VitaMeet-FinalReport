@@ -259,33 +259,33 @@ Se han diseñado dos bloques de preguntas: uno dirigido a pacientes adultos que 
 
 <table border="1" cellpadding="8" cellspacing="0">
     <tr><th colspan="2">Entrevista 1</th></tr>
-    <tr><td>Segmento Objetivo</td><td>.....</td></tr>
-    <tr><td>Fecha Entrevista</td><td>00/04/2025</td></tr>
-    <tr><td>Entrevistador</td><td>.....</td></tr>
-    <tr><td>Entrevistado</td><td>....</td></tr>
-    <tr><td>Edad</td><td>000 años</td></tr>
-    <tr><td>Distrito</td><td>.....</td></tr>
+    <tr><td>Segmento Objetivo</td><td>Paciente</td></tr>
+    <tr><td>Fecha Entrevista</td><td>15/04/2025</td></tr>
+    <tr><td>Entrevistador</td><td>Eddo Su Caletti</td></tr>
+    <tr><td>Entrevistado</td><td>Juan Diego Leon Farias</td></tr>
+    <tr><td>Edad</td><td>20 años</td></tr>
+    <tr><td>Distrito</td><td>Montreal, Canadá</td></tr>
     <tr><td>Link del Video</td><td><a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202312932_upc_edu_pe/EVs_IHAn7wRKp6xgyJYl29ABUpgqNDGHl30AI-GwDatDSg?e=YdzzyO&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D">Ver Video</a></td></tr>
     <tr><td>Minuto de Inicio</td><td>00:01</td></tr>
     <tr><td>Duración</td><td>08:52 minutos</td></tr>
     <tr><td>Imagen</td><td><img src="../assets/Foto_Entrevista1.png" alt="Entrevista 1" height="380"/></td></tr>
-    <tr><td>Resumen</td><td>....</td></tr>
+    <tr><td>Resumen</td><td>El entrevistado informa que se mudo al extranjero a completar sus estudios. De adulto no tiende a enfermarse muy seguido a pesar de sufrir mayormente de joven. Informa que debido a las precaria situción del estado peruano, tuvo que sacar citas de forma presencial y lo compara con el sistema de salud extranjero; afirma tambien que sus principales factores al elegir una forma de agendar citas médicas es la ubicación del médico y la experiencia de este. Actualmente utiliza aplicaciones como "Calendario" para mantener un orden en sus citas médicas. El entrevistador comenta que la idea de una plataforma que te permita automatizar este proceso seria muy buena propuesta.</td></tr>
 </table><br>
 
 
 <table border="1" cellpadding="8" cellspacing="0">
     <tr><th colspan="2">Entrevista 2</th></tr>
-    <tr><td>Segmento Objetivo</td><td>.....</td></tr>
-    <tr><td>Fecha Entrevista</td><td>00/04/2025</td></tr>
-    <tr><td>Entrevistador</td><td>.....</td></tr>
-    <tr><td>Entrevistado</td><td>....</td></tr>
-    <tr><td>Edad</td><td>000 años</td></tr>
-    <tr><td>Distrito</td><td>.....</td></tr>
+    <tr><td>Segmento Objetivo</td><td>Médico (estudiante de medicina)</td></tr>
+    <tr><td>Fecha Entrevista</td><td>23/04/2025</td></tr>
+    <tr><td>Entrevistador</td><td>Fabian Reyes Trujillano</td></tr>
+    <tr><td>Entrevistado</td><td>Facundo Torres Pereyra</td></tr>
+    <tr><td>Edad</td><td>24 años</td></tr>
+    <tr><td>Distrito</td><td>Los Olivos</td></tr>
     <tr><td>Link del Video</td><td><a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202312932_upc_edu_pe/EVs_IHAn7wRKp6xgyJYl29ABUpgqNDGHl30AI-GwDatDSg?e=YdzzyO&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D">Ver Video</a></td></tr>
     <tr><td>Minuto de Inicio</td><td>08:52</td></tr>
     <tr><td>Duración</td><td>05:42 minutos</td></tr>
     <tr><td>Imagen</td><td><img src="../assets/Foto_Entrevista2.png" alt="Entrevista 2" height="380"/></td></tr>
-    <tr><td>Resumen</td><td>.....</td></tr>
+    <tr><td>Resumen</td><td>El entrevistado es un estudiante de medicina con experiencia trabajando en prácticas en un hospital nacional. Informa que el sistema de citas médicas en el Perú es deplorable y que tiende a colgarse el sistema. Informa también que dos de cada diez (2/10) personas tienden a faltar a sus citas debido al largo tiempo de espera que tienen. Opina también que la idea de una plataforma que mejore este sistema sería una opción genial para el sistema de salud peruano; además, indica que la plataforma debería ser intuitiva para el uso tanto para el paciente como para el médico de turno y sugiere que debe ser accesible para distintas computadoras en los hospitales nacionales.</td></tr>
 </table><br>
 
 
