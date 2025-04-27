@@ -245,76 +245,85 @@ Se han diseñado dos bloques de preguntas: uno dirigido a pacientes adultos que 
 
 <h4 id="registerInterview">2.2.2. Registro de entrevistas</h4>
 
-Para cada uno de nuestros segmentos objetivos, ...
+<table border="1" cellpadding="8" cellspacing="0">
+    <tr><th colspan="2">Entrevista 1</th></tr>
+    <tr><td>Segmento Objetivo</td><td>Conductores</td></tr>
+    <tr><td>Fecha Entrevista</td><td>00/04/2025</td></tr>
+    <tr><td>Entrevistador</td><td>.....</td></tr>
+    <tr><td>Entrevistado</td><td>....</td></tr>
+    <tr><td>Edad</td><td>000 años</td></tr>
+    <tr><td>Distrito</td><td>.....</td></tr>
+    <tr><td>Link del Video</td><td><a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202312932_upc_edu_pe/EVs_IHAn7wRKp6xgyJYl29ABUpgqNDGHl30AI-GwDatDSg?e=YdzzyO&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D">Ver Video</a></td></tr>
+    <tr><td>Minuto de Inicio</td><td>00:03</td></tr>
+    <tr><td>Duración</td><td>6:18 minutos</td></tr>
+    <tr><td>Imagen</td><td><img src="../images/......png" alt="Entrevista 1" height="440"/></td></tr>
+    <tr><td>Resumen</td><td>....</td></tr>
+</table><br>
 
-**Segmento 1:**
 
-<table>
-    <thead>
-        <tr>
-            <th scope="row" colspan="2">Entrevista #1</th>
-        </tr>
-    </thead>
-    <tbody>
-        <tr>
-            <td style="text-align:center">
-                <strong>Nombres</strong>
-            </td>
-            <td></td>
-        </tr>
-        <tr>
-            <td style="text-align:center">
-                <strong>Apellidos</strong>
-                <td></td>
-            </td>
-        </tr>
-       <tr>
-            <td style="text-align:center">
-                <strong>Edad</strong>
-            </td>
-            <td></td>
-        </tr>
-        <tr>
-            <td style="text-align:center">
-                <strong>Distrito</strong>
-            </td>
-            <td></td>
-        </tr>
-        <tr>
-            <td style="text-align:center">
-                <strong>Timing</strong>
-            </td>
-            <td></td>
-        </tr>
-        <tr>
-            <td style="text-align:center">
-                <strong>Duración</strong>
-            </td>
-            <td></td>
-        </tr>
-        <tr>
-            <td style="text-align:center">
-                <strong>URL</strong>
-            </td>
-            <td>
-                <a href="#">
-                    #
-                </a>
-            </td>
-        </tr>
-    </tbody>
-</table>
+<table border="1" cellpadding="8" cellspacing="0">
+    <tr><th colspan="2">Entrevista 2</th></tr>
+    <tr><td>Segmento Objetivo</td><td>Conductores</td></tr>
+    <tr><td>Fecha Entrevista</td><td>00/04/2025</td></tr>
+    <tr><td>Entrevistador</td><td>.....</td></tr>
+    <tr><td>Entrevistado</td><td>....</td></tr>
+    <tr><td>Edad</td><td>000 años</td></tr>
+    <tr><td>Distrito</td><td>.....</td></tr>
+    <tr><td>Link del Video</td><td><a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202312932_upc_edu_pe/EVs_IHAn7wRKp6xgyJYl29ABUpgqNDGHl30AI-GwDatDSg?e=YdzzyO&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D">Ver Video</a></td></tr>
+    <tr><td>Minuto de Inicio</td><td>00:03</td></tr>
+    <tr><td>Duración</td><td>6:18 minutos</td></tr>
+    <tr><td>Imagen</td><td><img src="../images/......png" alt="Entrevista 2" height="440"/></td></tr>
+    <tr><td>Resumen</td><td>.....</td></tr>
+</table><br>
 
-<br>
 
-<p style="text-align:center">
-    <img src="" alt="Entrevista#1" style="width:400px"/>
-</p>
+<table border="1" cellpadding="8" cellspacing="0">
+    <tr><th colspan="2">Entrevista 3</th></tr>
+    <tr><td>Segmento Objetivo</td><td>Conductores</td></tr>
+    <tr><td>Fecha Entrevista</td><td>00/04/2025</td></tr>
+    <tr><td>Entrevistador</td><td>.....</td></tr>
+    <tr><td>Entrevistado</td><td>....</td></tr>
+    <tr><td>Edad</td><td>000 años</td></tr>
+    <tr><td>Distrito</td><td>.....</td></tr>
+    <tr><td>Link del Video</td><td><a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202312932_upc_edu_pe/EVs_IHAn7wRKp6xgyJYl29ABUpgqNDGHl30AI-GwDatDSg?e=YdzzyO&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D">Ver Video</a></td></tr>
+    <tr><td>Minuto de Inicio</td><td>00:03</td></tr>
+    <tr><td>Duración</td><td>6:18 minutos</td></tr>
+    <tr><td>Imagen</td><td><img src="../images/......png" alt="Entrevista 3" height="440"/></td></tr>
+    <tr><td>Resumen</td><td>...</td></tr>
+</table><br>
 
-**Resumen:**
-<p style="text-align: justify">
-    Info
-</p>
+
+<table border="1" cellpadding="8" cellspacing="0">
+    <tr><th colspan="2">Entrevista 4</th></tr>
+    <tr><td>Segmento Objetivo</td><td>Conductores</td></tr>
+    <tr><td>Fecha Entrevista</td><td>00/04/2025</td></tr>
+    <tr><td>Entrevistador</td><td>.....</td></tr>
+    <tr><td>Entrevistado</td><td>....</td></tr>
+    <tr><td>Edad</td><td>000 años</td></tr>
+    <tr><td>Distrito</td><td>.....</td></tr>
+    <tr><td>Link del Video</td><td><a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202312932_upc_edu_pe/EVs_IHAn7wRKp6xgyJYl29ABUpgqNDGHl30AI-GwDatDSg?e=YdzzyO&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D">Ver Video</a></td></tr>
+    <tr><td>Minuto de Inicio</td><td>00:03</td></tr>
+    <tr><td>Duración</td><td>6:18 minutos</td></tr>
+    <tr><td>Imagen</td><td><img src="../images/......png" alt="Entrevista 4" height="440"/></td></tr>
+    <tr><td>Resumen</td><td>.....</td></tr>
+</table><br>
+
+
+<table border="1" cellpadding="8" cellspacing="0">
+    <tr><th colspan="2">Entrevista 5</th></tr>
+    <tr><td>Segmento Objetivo</td><td>Conductores</td></tr>
+    <tr><td>Fecha Entrevista</td><td>00/04/2025</td></tr>
+    <tr><td>Entrevistador</td><td>.....</td></tr>
+    <tr><td>Entrevistado</td><td>....</td></tr>
+    <tr><td>Edad</td><td>000 años</td></tr>
+    <tr><td>Distrito</td><td>.....</td></tr>
+    <tr><td>Link del Video</td><td><a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202312932_upc_edu_pe/EVs_IHAn7wRKp6xgyJYl29ABUpgqNDGHl30AI-GwDatDSg?e=YdzzyO&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D">Ver Video</a></td></tr>
+    <tr><td>Minuto de Inicio</td><td>00:03</td></tr>
+    <tr><td>Duración</td><td>6:18 minutos</td></tr>
+    <tr><td>Imagen</td><td><img src="../images/......png" alt="Entrevista 5" height="440"/></td></tr>
+    <tr><td>Resumen</td><td>......</td></tr>
+</table><br>
+
 
 <h4 id="analysisInterview">2.2.3. Análisis de entrevistas</h4>
 
