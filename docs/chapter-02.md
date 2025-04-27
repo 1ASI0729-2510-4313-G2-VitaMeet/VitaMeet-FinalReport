@@ -323,17 +323,19 @@ Se han diseñado dos bloques de preguntas: uno dirigido a pacientes adultos que 
 
 <table border="1" cellpadding="8" cellspacing="0">
     <tr><th colspan="2">Entrevista 5</th></tr>
-    <tr><td>Segmento Objetivo</td><td>.....</td></tr>
-    <tr><td>Fecha Entrevista</td><td>00/04/2025</td></tr>
-    <tr><td>Entrevistador</td><td>.....</td></tr>
-    <tr><td>Entrevistado</td><td>....</td></tr>
-    <tr><td>Edad</td><td>000 años</td></tr>
-    <tr><td>Distrito</td><td>.....</td></tr>
+    <tr><td>Segmento Objetivo</td><td>Personas adultas que necesitan atención médica</td></tr>
+    <tr><td>Fecha Entrevista</td><td>26/04/2025</td></tr>
+    <tr><td>Entrevistador</td><td>Miguel Angel Vidal Castro</td></tr>
+    <tr><td>Entrevistado</td><td>Jade Nahi Torres Carranza</td></tr>
+    <tr><td>Edad</td><td>21 años<td></tr>
+    <tr><td>Distrito</td><td>San Luis</td></tr>
     <tr><td>Link del Video</td><td><a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202312932_upc_edu_pe/EVs_IHAn7wRKp6xgyJYl29ABUpgqNDGHl30AI-GwDatDSg?e=YdzzyO&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D">Ver Video</a></td></tr>
     <tr><td>Minuto de Inicio</td><td>21:15</td></tr>
     <tr><td>Duración</td><td>03:14 minutos</td></tr>
     <tr><td>Imagen</td><td><img src="../assets/Foto_Entrevista5.png" alt="Entrevista 5" height="380"/></td></tr>
-    <tr><td>Resumen</td><td>......</td></tr>
+    <tr><td>Resumen</td><td>Jade es una adulta mayor de 19 años que a su preferencia le gusta la idea que haya una plataforma 
+    donde pueda reservar citas médicas, recibir notificaciones automáticamente, verificar disponibilidad y atenderse con médicos
+    especializados para cierta enfermedad que padece.</td></tr>
 </table><br>
 
 
