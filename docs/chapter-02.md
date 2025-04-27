@@ -342,8 +342,37 @@ Se han diseñado dos bloques de preguntas: uno dirigido a pacientes adultos que 
 <h4 id="analysisInterview">2.2.3. Análisis de entrevistas</h4>
 
 
+Las entrevistas revelan diversas perspectivas sobre el sistema de citas médicas en el Perú y las necesidades de los usuarios. En general, hay consenso en que el sistema actual es deficiente y presenta múltiples problemas, desde la lentitud del sistema hasta la falta de un mecanismo eficiente para gestionar las citas y los historiales médicos.
 
+<b>Estudiante de Medicina:</b> Este entrevistado señaló que el sistema de citas en los hospitales nacionales es "deplorable", con frecuentes caídas del sistema y tiempos de espera muy largos, lo que lleva a una alta tasa de ausencias (2 de cada 10 personas). También destacó que una plataforma de citas médicas podría mejorar enormemente la situación, siempre y cuando sea intuitiva y accesible tanto para pacientes como para médicos. La accesibilidad desde distintas computadoras en los hospitales nacionales es un aspecto clave.
 
+<b>Médico General (Luis Alberto Quispe Díaz):</b> Este profesional enfrenta dificultades con la gestión de citas, principalmente debido a cancelaciones de última hora, falta de respuestas por parte de los pacientes y citas mal registradas. Aunque actualmente usa herramientas como llamadas, WhatsApp y una agenda física, le gustaría contar con una plataforma que centralice todas estas funciones y le permita acceder al historial médico de los pacientes de manera organizada. La inclusión de recordatorios automáticos para reducir las ausencias también es una de sus prioridades.
+
+<b>Estudiante de Diseño Gráfico (Camila):</b> Camila comparte que la organización de sus citas médicas es complicada debido a la falta de flexibilidad en los horarios y las distancias, ya que lleva una vida atareada. Sugiere que una aplicación que facilite la comunicación con los especialistas de la salud sería una solución ideal para su situación.
+
+<b>Adulta Mayor (Jade):</b> Jade opina positivamente sobre la idea de una plataforma que le permita reservar citas médicas, recibir notificaciones automáticas y verificar la disponibilidad de los médicos. Esta funcionalidad sería especialmente útil para ella, ya que le permitiría atenderse con especialistas según sus necesidades médicas específicas.
+
+En resumen, la principal necesidad común entre los entrevistados es la creación de una plataforma que no solo facilite la gestión de citas, sino que también sea intuitiva, accesible y que permita a los médicos y pacientes gestionar mejor sus tiempos y recursos. Además, la automatización de recordatorios y la centralización de historiales médicos también son funciones altamente demandadas.
+
+<b>- Porcentaje de personas que enfrentan problemas con el sistema actual de citas médicas:</b>
+
+<img src="../assets/Grafico_1.jpg" alt="Grafico 1" height="430"/>
+<br>
+
+<b>- Porcentaje de personas que prefieren una plataforma para gestionar citas médicas:</b>
+
+<img src="../assets/Grafico_2.jpg" alt="Grafico 2" height="430"/>
+<br>
+
+<b>- Porcentaje de personas que enfrentan cancelaciones de citas médicas:</b>
+
+<img src="../assets/Grafico_3.jpg" alt="Grafico 3" height="430"/>
+<br>
+  
+<b>- Porcentaje de personas que consideran importantes los recordatorios automáticos:</b>
+
+<img src="../assets/Grafico_4.jpg" alt="Grafico 4" height="430"/>
+<br>
 
 <h3 id="needfinding">2.3. Needfinding</h3>
 
