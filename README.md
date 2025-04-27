@@ -29,7 +29,7 @@ Grupo: 02
 |  Ariana Lizeth Ramirez Carrasco   | U202312932 |
 | Fabian Alonso Reyes Trujillano | U202218233 |
 |         Eddo Su Caletti          | U20221A390 |
-|        Miguel Angel Vidal Castro       | codigo de alumno |
+|        Miguel Angel Vidal Castro       | U202314186 |
 
 Abril 2025
 
