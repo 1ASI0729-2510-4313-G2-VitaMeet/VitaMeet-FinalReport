@@ -1,5 +1,5 @@
 # Final-Report
-![Logo de UPC](/assets/UPC-logo.webp)
+![Logo de UPC](../VitaMeet-FinalReport/assets/UPC-logo.png)
 
 # Universidad Peruana de Ciencias Aplicadas
 
@@ -40,7 +40,7 @@ Abril 2025
 
 # Project Report Collaboration Insights
 
-URL Project Report (Github): https://github.com/1ASI0729-2510-4313-G2-VitaMeetv
+URL Project Report (Github): https://github.com/1ASI0729-2510-4313-G2-VitaMeet
 
 TB1:
 
