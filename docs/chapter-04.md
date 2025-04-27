@@ -181,8 +181,6 @@ Diagrama de interacción de la traducción
 
 ![Image](../assets/lan4.jpg)
 
-### 4.5. Web Applications Prototyping.
-
 ### 4.6. Domain-Driven Software Architecture
 
 Para el modelo de negocio que utilizaremos para desarrollar nuestro software complejo que se centra en la problematica que abordamos. para ello utilizaremos la tecnica de modelado C4 Model.
