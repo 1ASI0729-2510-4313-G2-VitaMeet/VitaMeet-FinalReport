@@ -38,10 +38,22 @@ Para ello, se utiliza el modelo de análisis "Competitive Analysis Landscape", d
   </tr>
   <tr>
     <td colspan="3"></td>
-    <td>VitaMeet <img src="" alt="Logo VitaMeet" style="width:100%;"></td>
-    <td>Doctoralia <img src="" alt="Logo Doctoralia" style="width:100%;"></td>
-    <td>CitaMedica.pe <img src="" alt="Logo CitaMedica.pe" style="width:100%;"></td>
-    <td>Docplanner <img src="" alt="Logo Docplanner" style="width:100%;"></td>
+    <td style="text-align: center;">
+      VitaMeet<br>
+      <img src="../assets/logo.jpg" alt="Logo VitaMeet" style="width:auto; height:80px;">
+    </td>
+    <td style="text-align: center;">
+      Doctoralia<br>
+      <img src="../assets/Competidor1_Image.png" alt="Logo Doctoralia" style="width:auto; height:80px;">
+    </td>
+    <td style="text-align: center;">
+      CitaMedica<br>
+      <img src="../assets/Competidor3_Image.png" alt="Logo CitaMedica" style="width:auto; height:80px;">
+    </td>
+    <td style="text-align: center;">
+      Docplanner<br>
+      <img src="../assets/Competidor2_Image.png" alt="Logo Docplanner" style="width:auto; height:80px;">
+    </td>
   </tr>
   <tr>
     <td rowspan="2">Perfil</td>
