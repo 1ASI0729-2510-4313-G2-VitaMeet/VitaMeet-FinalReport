@@ -1,5 +1,5 @@
 # Final-Report
-![Logo de UPC](/assets/upcLogo.png)
+![Logo de UPC](/assets/UPC-logo.webp)
 
 # Universidad Peruana de Ciencias Aplicadas
 
