@@ -34,7 +34,7 @@ Imagen del uso de la tipografía “Nunito”
 La selección de colores es clave para la primera impresión visual de los usuarios. Se optó por el color verde/azul, que transmite calma, confianza y cercanía. Este color principal se complementa con tonos neutros como blancos y grises claros, que aportan equilibrio y limpieza visual a la plataforma. También se incluyen acentos en colores más vivos para destacar botones o llamadas a la acción, sin romper la armonía general. Esta paleta no solo refleja los valores de bienestar y conexión de la marca, sino que también mejora la legibilidad y facilita la navegación.
 
 ### Text Colors:
-![Image](../assets/text.jpg)
+![Image](../assets/text.png)
 
 ### Primary Colors:
 ![Image](../assets/primary.jpg)
