@@ -27,7 +27,7 @@ Grupo: 02
 |    Carlos Alejandro De La Cruz Villarreal    | codigo de alumno |
 |    Alexander Paolo Justo Yauricasa     | codigo de alumno |
 |  Ariana Lizeth Ramirez Carrasco   |codigo de alumno |
-| Fabian Alonso Reyes Trujillano | codigo de alumno |
+| Fabian Alonso Reyes Trujillano | U202218233 |
 |         Eddo Su Caletti          | U20221A390 |
 |        Miguel Angel Vidal Castro       | codigo de alumno |
 
