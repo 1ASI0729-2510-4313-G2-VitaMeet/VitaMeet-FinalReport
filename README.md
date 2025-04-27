@@ -10,7 +10,7 @@ Ciclo: 2025 - 01
 
 Curso: Open Source
 
-Sección: 4370
+Sección: 4313
 
 Profesor: Alberto Wilmer Sánchez Seña
 
