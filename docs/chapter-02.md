@@ -291,17 +291,17 @@ Se han diseñado dos bloques de preguntas: uno dirigido a pacientes adultos que 
 
 <table border="1" cellpadding="8" cellspacing="0">
     <tr><th colspan="2">Entrevista 3</th></tr>
-    <tr><td>Segmento Objetivo</td><td>......</td></tr>
-    <tr><td>Fecha Entrevista</td><td>00/04/2025</td></tr>
-    <tr><td>Entrevistador</td><td>.....</td></tr>
-    <tr><td>Entrevistado</td><td>....</td></tr>
-    <tr><td>Edad</td><td>000 años</td></tr>
-    <tr><td>Distrito</td><td>.....</td></tr>
+    <tr><td>Segmento Objetivo</td><td>Médicos: generales y especialistas</td></tr>
+    <tr><td>Fecha Entrevista</td><td>18/04/2025</td></tr>
+    <tr><td>Entrevistador</td><td>Carlos Alejandro de la Cruz Villareal</td></tr>
+    <tr><td>Entrevistado</td><td>Luis Alberto Quispe Díaz</td></tr>
+    <tr><td>Edad</td><td>38 años</td></tr>
+    <tr><td>Distrito</td><td>San Juan de Lurigancho</td></tr>
     <tr><td>Link del Video</td><td><a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202312932_upc_edu_pe/EVs_IHAn7wRKp6xgyJYl29ABUpgqNDGHl30AI-GwDatDSg?e=YdzzyO&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D">Ver Video</a></td></tr>
     <tr><td>Minuto de Inicio</td><td>14:34</td></tr>
     <tr><td>Duración</td><td>02:37 minutos</td></tr>
     <tr><td>Imagen</td><td><img src="../assets/Foto_Entrevista3.png" alt="Entrevista 3" height="380"/></td></tr>
-    <tr><td>Resumen</td><td>...</td></tr>
+    <tr><td>Resumen</td><td>Luis Alberto Quispe Díaz, médico general de 38 años, con 12 años de experiencia en el rubro, trabaja tanto en un consultorio particular como en una clínica en San Juan de Lurigancho, Lima. Gestiona sus citas médicas principalmente mediante llamadas, WhatsApp y una agenda física. Las principales dificultades que enfrenta incluyen cancelaciones de última hora, falta de respuestas de pacientes y citas mal registradas. Utiliza principalmente WhatsApp para comunicarse con los pacientes y tiene dificultades para acceder al historial clínico de los mismos, ya que se encuentra desordenado. Le interesaría una plataforma que le permita organizar su agenda y acceder al historial de manera centralizada, además de recibir recordatorios automáticos para reducir las ausencias de los pacientes. Para su trabajo, usa principalmente su celular, aunque también utiliza su laptop para revisar informes.</td></tr>
 </table><br>
 
 
