@@ -1,5 +1,5 @@
 # Final-Report
-![Logo de UPC](../VitaMeet-FinalReport/assets/UPC-logo.png)
+![Logo de UPC](/assets/UPC-logo.png)
 
 # Universidad Peruana de Ciencias Aplicadas
 
