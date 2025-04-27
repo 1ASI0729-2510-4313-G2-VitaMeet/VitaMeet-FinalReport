@@ -23,7 +23,7 @@ Grupo: 02
 
 |           Integrantes            |   Código   |
 | :------------------------------: | :--------: |
-|    Carlos Alejandro De La Cruz Villarreal    | codigo de alumno |
+|    Carlos Alejandro De La Cruz Villarreal    | U20211C036 |
 |    Alexander Paolo Justo Yauricasa     | codigo de alumno |
 |  Ariana Lizeth Ramirez Carrasco   |codigo de alumno |
 | Fabian Alonso Reyes Trujillano | U202218233 |
