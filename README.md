@@ -1,5 +1,5 @@
 # Final-Report
-![Logo de UPC](/assets/UPC-logo.png)
+![Logo de UPC](/assets/UPC-logo.webp)
 
 # Universidad Peruana de Ciencias Aplicadas
 
@@ -23,12 +23,12 @@ Grupo: 02
 
 |           Integrantes            |   Código   |
 | :------------------------------: | :--------: |
-|    Carlos Alejandro De La Cruz Villarreal    | U20211C036 |
-|    Alexander Paolo Justo Yauricasa     | U20191C054 |
-|  Ariana Lizeth Ramirez Carrasco   | U202312932 |
-| Fabian Alonso Reyes Trujillano | U202218233 |
+|    Carlos Alejandro De La Cruz Villarreal    | codigo de alumno |
+|    Alexander Paolo Justo Yauricasa     | codigo de alumno |
+|  Ariana Lizeth Ramirez Carrasco   |codigo de alumno |
+| Fabian Alonso Reyes Trujillano | codigo de alumno |
 |         Eddo Su Caletti          | U20221A390 |
-|        Miguel Angel Vidal Castro       | U202314186 |
+|        Miguel Angel Vidal Castro       | codigo de alumno |
 
 Abril 2025
 
@@ -40,7 +40,7 @@ Abril 2025
 
 # Project Report Collaboration Insights
 
-URL Project Report (Github): https://github.com/1ASI0729-2510-4313-G2-VitaMeet
+URL Project Report (Github): https://github.com/1ASI0729-2510-4313-G2-VitaMeetv
 
 TB1:
 
@@ -56,8 +56,8 @@ En el siguiente cuadro se describe las acciones realizadas y enunciados de concl
 
 | Criterio Específico | Acciones Realizadas | Conclusiones |
 |---------------------|---------------------|--------------|
-| **Trabaja en equipo para proporcionar liderazgo en forma conjunta** | **TB1**<br>-Fabian Reyes Trujillano: Participe en la reuniones respectivas de equipo, complete las partes que me tocaron de forma exitosa y en las fecjas dadas. <br>-Eddo Su Caletti: Participe en todas las reuniones del equipo  y tambien complete todas mis partes del trabajo que me han encomendado y enviados antes de las fechas dadas y, ademas, hice retroalimentación en algunas partes del trabajo .<br>-Carlos De La Cruz Villarreal: Participe en las reuniones respectivas de equipo, así como también realicé mis partes asignadas del proyecto en su respectiva fecha asignada. <br>-Ariana Lizeth Ramirez Carrasco:<br> Asistí a las reuniones del equipo, completé exitosamente las secciones que me fueron asignadas y las entregué dentro de los plazos establecidos. <br>-Alexander Paolo Justo Yauricasa: Asistí a las reuniones correspondientes del equipo, cumplí con mis tareas asignadas de manera exitosa y dentro de los plazos establecidos.<br>-Miguel Angel Vidal Castro: Asistí en todas las reuniones posibles, colaboré y definí plazos de entrega sobre mis avances aunque en algunos tuve complicaciones. Cumplí con todo el avance de mi entrega y apoyé en las dudas de mis compañeros. <br>- | **TB1**<br>Se trabajó en equipo tanto en nuestras sesiones presenciales como en nuestras reuniones remotas, proporcionamos conjuntamente un liderazgo de equipo integro para elaborar de nuestro producto y el desarrollo profesional de cada miembro del equipo. |
-| **Crea un entorno colaborativo e inclusivo, establece metas, planifica tareas y cumple objetivos** | **TB1**<br>-Fabian Reyes Trujillano: Participe en la reuniones respectivas de equipo, complete las partes que me tocaron de forma exitosa y en las fecjas dadas.  <br>-Eddo Su Caletti: Asistencia en todas las llamadas grupales, ayuda a otros mienbros del equipo me encarguedel capitulo 1 del proyecto y el student outcome. <br>-Carlos De La Cruz Villarreal: Asistí y participé activamente en cada reunión pautada, así como también la realización del capítulo 3 del proyecto y student outcome. <br>-Ariana Lizeth Ramirez Carrasco:<br> Asistí a las reuniones del equipo, completé exitosamente las secciones que me fueron asignadas y las entregué dentro de los plazos establecidos. <br>-Alexander Paolo Justo Yauricasas: Participé de manera activa en cada reunión establecida, así como en la elaboración del capítulo 3 del proyecto y su student outcome. <br>-Miguel Angel Vidal Castro: En mi avance de este capítulo, presento las pautas de diseño para VitaMeet, enfocándome en la tipografía y colores para asegurar claridad y coherencia visual. La arquitectura de la información está estructurada para facilitar la navegación intuitiva. Diseñé wireframes y mock-ups para la página de inicio y los flujos de interacción, garantizando una experiencia de usuario fluida y coherente. <br>-| **TB1**<br>Cada miembro de nuestro equipo mostró disposición y estableció un entorno colaborativo a través de medios de comunicación efectivos, se establecieron reuniones, llamadas, entregas tempranas y constantes revisiones de cada capítulo de nuestro proyecto. Nos reunimos en periodos continuos para opinar y colaborar en cada proceso del desarrollo de nuestro producto y su documentación. Nos establecimos metas tempranas con la planificación de tareas y las mejoramos conjuntamente con la revisión de la calidad del proceso culminado. |
+| **Comunica oralmente con efectividad a diferentes rangos de audiencia** | **TB1** <br>-Fabian Reyes Trujillano: Participe en la reuniones respectivas de equipo, complete las partes que me tocaron de forma exitosa y en las fecjas dadas. <br>-Eddo Su Caletti: Participe en todas las reuniones del equipo  y tambien complete todas mis partes del trabajo que me han encomendado y enviados antes de las fechas dadas y, ademas, hice retroalimentación en algunas partes del trabajo .<br>-Carlos De La Cruz Villarreal: Participe en las reuniones respectivas de equipo, así como también realicé mis partes asignadas del proyecto en su respectiva fecha asignada. <br>-Ariana Lizeth Ramirez Carrasco:<br> Asistí a las reuniones del equipo, completé exitosamente las secciones que me fueron asignadas y las entregué dentro de los plazos establecidos. <br>-Alexander Paolo Justo Yauricasa: Asistí a las reuniones correspondientes del equipo, cumplí con mis tareas asignadas de manera exitosa y dentro de los plazos establecidos.<br>-Miguel Angel Vidal Castro: Asistí en todas las reuniones posibles, colaboré y definí plazos de entrega sobre mis avances aunque en algunos tuve complicaciones. Cumplí con todo el avance de mi entrega y apoyé en las dudas de mis compañeros.  | **TB1**<br>Se trabajó en equipo tanto en nuestras sesiones presenciales como en nuestras reuniones remotas, proporcionamos conjuntamente un liderazgo de equipo integro para elaborar de nuestro producto y el desarrollo profesional de cada miembro del equipo. |
+| **Comunica por escrito con efectividad a diferentes rangos de audiencia** | **TB1**<br>-Fabian Reyes Trujillano: Participe en la reuniones respectivas de equipo, complete las partes que me tocaron de forma exitosa y en las fecjas dadas.  <br>-Eddo Su Caletti: Asistencia en todas las llamadas grupales, ayuda a otros mienbros del equipo me encarguedel capitulo 1 del proyecto y el student outcome. <br>-Carlos De La Cruz Villarreal: Asistí y participé activamente en cada reunión pautada, así como también la realización del capítulo 3 del proyecto y student outcome. <br>-Ariana Lizeth Ramirez Carrasco:<br> Asistí a las reuniones del equipo, completé exitosamente las secciones que me fueron asignadas y las entregué dentro de los plazos establecidos. <br>-Alexander Paolo Justo Yauricasas: Participé de manera activa en cada reunión establecida, así como en la elaboración del capítulo 3 del proyecto y su student outcome. <br>-Miguel Angel Vidal Castro: En mi avance de este capítulo, presento las pautas de diseño para VitaMeet, enfocándome en la tipografía y colores para asegurar claridad y coherencia visual. La arquitectura de la información está estructurada para facilitar la navegación intuitiva. Diseñé wireframes y mock-ups para la página de inicio y los flujos de interacción, garantizando una experiencia de usuario fluida y coherente.| **TB1**<br>Cada miembro de nuestro equipo mostró disposición y estableció un entorno colaborativo a través de medios de comunicación efectivos, se establecieron reuniones, llamadas, entregas tempranas y constantes revisiones de cada capítulo de nuestro proyecto. Nos reunimos en periodos continuos para opinar y colaborar en cada proceso del desarrollo de nuestro producto y su documentación. Nos establecimos metas tempranas con la planificación de tareas y las mejoramos conjuntamente con la revisión de la calidad del proceso culminado. |
 
 # Contenido
 ## Tabla de Contenidos
