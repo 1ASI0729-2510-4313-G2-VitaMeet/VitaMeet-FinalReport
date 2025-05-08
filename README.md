@@ -107,7 +107,7 @@ El primer sprint es una etapa importante en nuestro marco de gestión de proyect
 | Prepared By                |                                                                                                  Eddo Su Caletti                                              |
 | Attendees                  |  Alexander Paolo Justo Yauricasa, Carlos De La Cruz Villarreal, Miguel Angel Vidal Castro, Fabian Alonso Reyes Trujillano, Ariana Ramirez Carrasco |
 | Sprint Goal & User Stories |                                                                                                                                                                                                        |
-| Sprint 1 Goal              | Realizar y desplegar el Landing Page                                                                                                                                                                   |
+  | Sprint 1 Goal              | Implementar y desplegar la landing page implica desarrollar una versión funcional basada en los diseños aprobados, integrando elementos clave como formularios, llamados a acción y seguimiento analítico.                                                                                                                                                                |
 | Sprint 1 Velocity          |                                                 35               |
 | Sum of Story Points        |                                                       30            |
 
