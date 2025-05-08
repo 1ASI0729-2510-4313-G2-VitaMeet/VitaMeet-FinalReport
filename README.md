@@ -125,7 +125,7 @@ El primer sprint es una etapa importante en nuestro marco de gestión de proyect
 | CC08 | Register           | C08 | Sección Register       | Desarrollo e implementación los estilos que corresponden a la seccion Register       | 2                   |        | Done   |
 | CC09 |  Button translator	          | C09 | Sección Button translator       | Desarrollo e implementación los estilos que corresponden a la seccion Button translator       | 4                   |        | Done   |
 
-<img src="./assets/tello.png" alt="Captura Sprint 1 en Trello" width="80%">
+<img src="./assets/trello.png" alt="Captura Sprint 1 en Trello" width="80%">
    
 Link del trello: https://trello.com/b/E7ZyFdYk/vitameet
 
