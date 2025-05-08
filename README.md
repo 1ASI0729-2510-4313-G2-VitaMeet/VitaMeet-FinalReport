@@ -115,15 +115,11 @@ El primer sprint es una etapa importante en nuestro marco de gestión de proyect
 
 | Id   | Title            | Id   | Title                           | Description                                                                           | Estimations (Hours) | Assigned To                       | Status |
 |------|------------------|------|---------------------------------|---------------------------------------------------------------------------------------|---------------------|-----------------------------------|--------|
-| CC01 | Toolbar     | C01  | Barra de ayuda | Desarrollo de la barra superior para ayudar al usuario a encontrar secciones. | 3                   |      | Done   |
-| CC02 | Button component | C02  | Button Design responsive        | Desarrollo e implementación de los estilos que corresponden al Button                 | 2                   |  | Done   |
-| CC03 | Navbar component | C03  | Sección Navbar responsive       | Desarrollo e implementación de los estilos que corresponden a la sección Navbar       | 3                   |  | Done   |
-| CC04 | Contact          | C04  | Sección Contact responsive      | Desarrollo e implementación de los estilos que corresponden a la sección Contact      | 3                   |   | Done   |
-| CC05 | Footer           | C05  | Sección Footer responsive       | Desarrollo e implementación de los estilos que corresponden a la sección Footer       | 2                   |   | Done   |
-| CC06 | Service          | C06  | Sección Service responsive      | Desarrollo e implementación de los estilos que corresponden a la sección Service      | 2                   |              | Done   |
-| CC07 | Prices           | C07 | Sección Prices responsive       | Desarrollo e implementación de los estilos que corresponden a la sección Prices       | 2                   |        | Done   |
-| CC08 | Register           | C08 | Sección Register       | Desarrollo e implementación los estilos que corresponden a la seccion Register       | 2                   |        | Done   |
-| CC09 |  Button translator	          | C09 | Sección Button translator       | Desarrollo e implementación los estilos que corresponden a la seccion Button translator       | 4                   |        | Done   |
+| US16  | Navegación por la landing page     | US16  | Desarrollo del navegación por el Landing Page	 | Como visitante Quiero navegar por la landing page del software Para obtener la información que deseo del producto.	 | 5           |      | Done   |
+| US17 | Acceder a la aplicación desde la landing page | US17  | Desarrollo del acceder a la aplicación desde la landing page       | Como visitante de la página Quiero poder acceder a la aplicación desde la landing page Para empezar a usarla.	                 | 6                   |  | Done   |
+| TS18 | Cambiar el Idioma de la Landing Page | TS18  | Desarrollo del cambiar el Idioma de la Landing Page       | Como visitante de la página Quiero poder acceder a la aplicación desde la landing page Para empezar a usarla.	       | 5                   |  | Done   |
+| TS19 | Contactar al Equipo de Soporte          | TS19  | Desarrollo del Contactar al Equipo de Soporte	      | Como visitante Quiero contactar al equipo de soporte Para obtener ayuda o resolver dudas sobre la plataforma.	      | 7                   |   | Done   |
+| TS20 | Contactar al Equipo de Soporte           | TS20  | Desarrollo del Contactar al Equipo de Soporte      | Como desarrollador Quiero corregir los errores del software notificados por el equipo de QA Para mejorar la calidad del producto.	       | 7                   |   | Done   |
 
 <img src="./assets/Trello.png" alt="Captura Sprint 1 en Trello" width="80%">
    
