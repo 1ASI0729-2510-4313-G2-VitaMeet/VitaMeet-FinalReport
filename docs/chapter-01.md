@@ -57,44 +57,51 @@ El proceso Lean UX es una metodología ágil enfocada en crear productos digital
 
 ### 1.2.2.1 Lean UX Problem Statements
 
+# VitaMeet: Plataforma de Gestión de Citas Médicas
+
 En el sistema tradicional de atención médica, muchos pacientes enfrentan dificultades al momento de agendar o cancelar citas médicas. Los procesos suelen ser lentos, poco accesibles y, en muchos casos, requieren presencia física o llamadas telefónicas, lo que provoca frustración y pérdida de tiempo. Por otro lado, los médicos también tienen complicaciones para gestionar su agenda, ya que muchas veces no cuentan con herramientas digitales eficaces para administrar su disponibilidad y comunicarse con los pacientes.
 
-VitaMeet, una plataforma web de gestión de citas médicas, tiene como objetivo eliminar estas barreras, ofreciendo una experiencia fluida tanto para pacientes como para médicos. Los pacientes podrán agendar, modificar o cancelar sus citas desde cualquier dispositivo, recibir notificaciones automáticas y acceder a un historial médico organizado. A su vez, los médicos podrán gestionar su disponibilidad, visualizar sus próximas consultas, registrar observaciones y tener una relación más ordenada con sus pacientes.
+**VitaMeet**, una plataforma web de gestión de citas médicas, tiene como objetivo eliminar estas barreras, ofreciendo una experiencia fluida tanto para pacientes como para médicos. Los pacientes podrán agendar, modificar o cancelar sus citas desde cualquier dispositivo, recibir notificaciones automáticas y acceder a un historial médico organizado. A su vez, los médicos podrán gestionar su disponibilidad, visualizar sus próximas consultas, registrar observaciones y tener una relación más ordenada con sus pacientes.
 
 Esta plataforma busca optimizar la experiencia médica en ambos extremos del servicio, aumentando la asistencia, reduciendo la carga administrativa y permitiendo una atención médica más organizada y accesible. El proceso actual para agendar y gestionar citas médicas en Perú es ineficiente y poco accesible, lo que conduce a una alta tasa de ausentismo, sobrecarga administrativa para el personal de salud y una atención médica desorganizada.
 
-Según un estudio publicado en la revista Horizonte Médico, se determinó que la proporción de ausentismo en citas médicas en un hospital nacional peruano fue del 19.64%. Este estudio analizó factores personales e institucionales asociados al ausentismo, utilizando registros de programación de citas y bases de datos de atenciones médicas (Horizonte Médico, USMP).
+Según un estudio publicado en la revista *Horizonte Médico*, se determinó que la proporción de ausentismo en citas médicas en un hospital nacional peruano fue del **19.64%**. Este estudio analizó factores personales e institucionales asociados al ausentismo, utilizando registros de programación de citas y bases de datos de atenciones médicas.  
+🔗 [Fuente: Horizonte Médico, USMP](https://www.horizontemedico.usmp.edu.pe/index.php/horizontemed/article/view/2185)
 
-Aunque el 99% de los peruanos está afiliado a algún seguro de salud, 7 de cada 10 personas no pueden acceder a la atención que necesitan, debido a demoras, burocracia o falta de disponibilidad (Banco Mundial).
+Aunque el **99% de los peruanos** está afiliado a algún seguro de salud, **7 de cada 10 personas no pueden acceder** a la atención que necesitan, debido a demoras, burocracia o falta de disponibilidad.  
+🔗 [Fuente: Banco Mundial](https://blogs.worldbank.org/es/latinamerica/cobertura-salud-peru)
 
-El modelo de gestión del sistema de salud en Perú está sobrecargado de procesos manuales y burocráticos, reduciendo la eficiencia del personal médico y afectando negativamente la experiencia del paciente. Según un reporte de Infobae basado en datos del Banco Mundial, el 98% de los establecimientos médicos carece de infraestructura adecuada y el 52% no se abastece con profesionales médicos (Infobae).
+El modelo de gestión del sistema de salud en Perú está sobrecargado de procesos manuales y burocráticos, reduciendo la eficiencia del personal médico y afectando negativamente la experiencia del paciente. Según un reporte de *Infobae* basado en datos del Banco Mundial, el **98% de los establecimientos médicos carece de infraestructura adecuada** y el **52% no se abastece con profesionales médicos**.  
+🔗 [Fuente: Infobae](https://www.infobae.com/peru/2023/11/11/banco-mundial-7-de-10-personas-que-necesitan-atencion-medica-no-la-reciben-en-peru/)
 
-Asimismo, a pesar de contar con seguro, más del 50% de los usuarios opta por atenderse en centros privados o farmacias debido a la ineficiencia del sistema público (Propuestas del Bicentenario, ENAHO-INEI).
+Asimismo, a pesar de contar con seguro, **más del 50% de los usuarios** opta por atenderse en centros privados o farmacias debido a la ineficiencia del sistema público.  
+🔗 [Fuente: Propuestas del Bicentenario, ENAHO-INEI](https://propuestasdelbicentenario.pe/blog/2023/09/25/de-la-teoria-a-la-practica-que-significa-que-mas-del-95-de-peruanos-tenga-un-seguro-de-salud/)
 
-Creemos que al proporcionar una plataforma digital como VitaMeet para la gestión de citas médicas, lograremos reducir el ausentismo, disminuir la carga administrativa y mejorar la organización del servicio médico, lo que resultará en una atención más eficiente, ágil y accesible tanto para pacientes como para profesionales de la salud.
+---
 
-Objetivos esperados con VitaMeet:
+## Objetivos esperados con VitaMeet
 
-.Disminución del ausentismo en un 30% en los primeros 6 meses
-(Basado en la evidencia del 19.64% de ausentismo actual en hospitales nacionales peruanos)
+-  Disminución del ausentismo en un **30% en los primeros 6 meses**  
+  _Basado en la evidencia del 19.64% de ausentismo actual en hospitales nacionales peruanos._
 
-.Aumento del número de citas agendadas online en un 50%
-(Estimación proyectada por la mejora de accesibilidad digital)
+-  Aumento del número de citas agendadas online en un **50%**  
+  _Estimación proyectada por la mejora de accesibilidad digital._
 
-.Reducción de tiempo administrativo en recepción y coordinación médica
-(Al reemplazar procesos telefónicos y presenciales por flujos digitales)
+-  Reducción de tiempo administrativo en recepción y coordinación médica  
+  _Al reemplazar procesos telefónicos y presenciales por flujos digitales._
 
-.Mayor facilidad para programar o cancelar citas desde el celular o PC
-(Accesibilidad multiplataforma garantizada)
+-  Mayor facilidad para programar o cancelar citas desde el celular o PC  
+  _Accesibilidad multiplataforma garantizada._
 
-.Reducción de tiempos de espera en consultorios
-(Gracias a la programación ordenada y gestión eficiente de agenda)
+-  Reducción de tiempos de espera en consultorios  
+  _Gracias a la programación ordenada y gestión eficiente de agenda._
 
-.Notificaciones automáticas para evitar olvidos
-(Con sistema de recordatorios por SMS, correo o app)
+-  Notificaciones automáticas para evitar olvidos  
+  _Con sistema de recordatorios por SMS, correo o app._
 
-.Acceso al historial de citas y observaciones médicas de forma organizada
-(Base de datos segura con información médica estructurada)
+-  Acceso al historial de citas y observaciones médicas de forma organizada  
+  _Base de datos segura con información médica estructurada._
+
 
 ### 1.2.2.2 Lean UX Assumptions
 
