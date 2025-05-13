@@ -14,7 +14,7 @@ Segmento 2: Médicos generales y especialistas con experiencia
 ## 3.2. User Stories.
 | Epic/Story ID | Titulo | Descripción | Criterios de Aceptación | Relacionado con (Epic ID)|
 |-------|-----------------|----------------------------|----------------------------------------|---------|
-| US01 | Registrar usuario | Como visitante del segmento objetivo médico/paciente Quiero registrar mi cuenta Para hacer uso de la aplicación. | Escenario 1: Visitante del segmento objetivo médico/paciente ingresa credenciales válidas. <br> Dado que el visitante desee crear una cuenta personal en la aplicación Cuando ingrese las credenciales de una cuenta inexistente en la base de datos y una contraseña que cumple con todos los requisitos de seguridad, y acepte los términos y condiciones de uso Entonces se creará la cuenta del médico. <br> Escenario 2: Visitante ingresa credenciales incorrectas. <br> Dado que el visitante ingresa credenciales de una cuenta ya existe  Cuando ingrese una dirección de correo electrónico o contraseña que no cumplen con los requisitos especificados Entonces se le denegará la operación | EP01 |
+| US01 | Registrar usuario | Como visitante del segmento objetivo médico/paciente Quiero registrar mi cuenta Para hacer uso de la aplicación. | Escenario 1: Visitante del segmento objetivo médico/paciente ingresa credenciales válidas. <br> Dado que el visitante del segmento objetivo médico/paciente desee crear una cuenta personal en la aplicación Cuando ingrese las credenciales de una cuenta inexistente en la base de datos y una contraseña que cumple con todos los requisitos de seguridad, y acepte los términos y condiciones de uso Entonces se creará la cuenta del médico. <br> Escenario 2: Visitante ingresa credenciales incorrectas. <br> Dado que el visitante del segmento objetivo médico/paciente ingresa credenciales de una cuenta ya existe  Cuando ingrese una dirección de correo electrónico o contraseña que no cumplen con los requisitos especificados Entonces se le denegará la operación | EP01 |
 | US02 | Confirmación de registro de cuenta | Como usuario del segmento objetivo médico/paciente Quiero recibir una confirmación al registrar mi cuenta Para saber que el proceso se completó correctamente. | Escenario 1: Confirmar registro de cuenta <br> Dado que el médico/paciente ha completado el formulario de registro Cuando envío mis datos Entonces debería recibir un correo de confirmación para activar mi cuenta. <br> Escenario 2: Error en la confirmación de cuenta <br>  Dado que el médico/paciente no he completado el formulario de registro correctamente Cuando envío mis datos Entonces debería recibir un mensaje diciendo "Error en la confirmación". | EP01 |
 | US03 | Iniciar sesión | Como usuario del segmento objetivo médico/paciente registrado Quiero iniciar sesión Para acceder a mi cuenta. | Escenario 1: Inicio de sesión exitoso <br> Dado que soy un médico/paciente registrado Cuando ingreso mi nombre de usuario y contraseña Entonces debería acceder a mi cuenta. <br> Escenario 2: Inicio de sesión erróneo <br> Dado que soy un médico/paciente registrado Cuando ingreso mi nombre de usuario o contraseña incorrecto Entonces saldrá en pantalla una mensaje "Usuario o contraseña incorrecto" | EP01 | 
 | US04 | Restablecer contraseña | Como usuario del segmento objetivo médico/paciente Quiero restablecer mi contraseña si la olvido Para poder acceder a mi cuenta. | Escenario 1: Restablecer contraseña exitoso <br> Dado que el médico/paciente ha olvidado mi contraseña Cuando ingreso mi correo para restablecerla Entonces debería recibir un enlace para crear una nueva contraseña. <br> Escenario 2:  Error de restablecer contraseña <br> Dado que el médico/paciente he olvidado mi contraseña Cuando ingreso un correo inválido para restablecerla Entonces aparecera un mensaje "Correo inválido" | EP01 |
@@ -26,14 +26,14 @@ Segmento 2: Médicos generales y especialistas con experiencia
 | US10 | Pagar la cita | Como paciente Quiero pagar mi cita médica Para confirmar mi asistencia. | Escenario 1: Pago exitoso <br> Dado que tengo una cita programada Cuando elijo el método de pago y completo la transacción Entonces debo recibir un comprobante de pago y la cita debe ser confirmada. <br> Escenario 2: Error en el pago <br> Dado que tengo una cita programada Cuando intento completar el pago con una tarjeta inválida Entonces debo recibir un mensaje indicando "El pago no pudo ser procesado. Verifique los datos de pago." | EP02 | 
 | US11 | Cancelar cita médica | Como paciente Quiero poder cancelar una cita médica si no puedo asistir para liberar el espacio para otro paciente. | Escenario: Cancelación exitosa. <br> Dado que soy un paciente Cuando selecciono una cita y elijo "Cancelar" Entonces la cita se cancela y se me notifica. | EP02 |
 |US12 |  Agendar Cita Médica | Como paciente Quiero poder separar o agendar una cita con un médico cuando elijo una fecha y hora disponibles Para asegurarme de que mi consulta esté confirmada. | Escenario: Separar cita exitosa. <br> Dado que soy un paciente y estoy navegando por el perfil de un médico Cuando selecciono una fecha y hora disponible para la cita Entonces la cita se agenda automáticamente en el sistema| EP02 |
-| US13 | Ver historial de pacientes atendidos | Como médico Quiero ver el historial de los pacientes atendidos Para un mejor seguimiento de su tratamiento. | Escenario : Ver historial de pacientes <br> Dado que soy un médico Cuando accedo al perfil de un paciente Entonces debo poder ver su historial médico con las visitas anteriores. | EP03 |
-| US14 | Acceder al historial médico del paciente | Como médico Quiero acceder al historial médico de mis pacientes Para ofrecer una atención más adecuada. | Escenario : Acceder al historial médico del paciente <br> Dado que soy un médico Cuando accedo al perfil de un paciente Entonces debo poder ver su historial médico completo. | EP03 | 
-| US15 | Dejar una reseña sobre un médico | Como paciente Quiero poder dejar una reseña sobre un médico después de una cita Para compartir mi experiencia con otros usuarios. | Escenario : Reseña publicada. <br> Dado que soy un paciente Cuando termino mi cita con un médico Entonces puedo dejar una reseña con mi calificación o comentarios | EP03 |
-| US16 | Navegación por el Landing Page | Como visitante del segmento objetivo médico/paciente Quiero navegar por la landing page del software Para obtener la información que deseo del producto. | Escenario 1: Visualizar información en la landing page <br>  Dado que el visitante del segmento objetivo médico/paciente está en la landing page Cuando navega por las secciones y reseñas Entonces debe encontrar información clara y relevante sobre las funcionalidades y beneficios del software. <br> Escenario 2: Error en el sistema <br> Dado que el visitante del segmento objetivo médico/paciente  se encuentre dentro de la landing page Cuando ocurra algún problema con el sistema Entonces no se muestra ninguna sección o reseña y se muestra un mensaje de error. | EP04 | 
-| US17 | Acceder a la aplicación desde la landing page | Como visitante del segmento objetivo médico/paciente de la página Quiero poder acceder a la aplicación desde la landing page Para empezar a usarla. | Escenario : Acceder a la aplicación <br> Dado que soy un visitante del segmento objetivo médico/paciente Cuando hago clic en "Comienza ya" Entonces debería ser redirigido a la página de inicio de sesión de la aplicación. | EP04 |
-| TS18 | Cambiar el Idioma de la Landing Page | Como visitante Quiero cambiar el idioma de la landing page Para poder entender mejor la información presentada. | Escenario : Cambio de idioma exitoso. <br>Dado que el visitante está en la landing page Cuando selecciona un idioma diferente en el menú de idiomas Entonces la página debe cambiar al idioma seleccionado.| EP04 |
-| TS19 | Contactar al Equipo de Soporte | Como visitante Quiero contactar al equipo de soporte Para obtener ayuda o resolver dudas sobre la plataforma. | Escenario: Contacto exitoso. <br> Dado que el visitante está en la landing page Cuando selecciona la opción de contacto Entonces debe poder enviar un mensaje al equipo de soporte con su consulta o solicitud.| EP04 |
-| TS20 | Solucionar Errores Reportados | Como desarrollador Quiero corregir los errores del software notificados por el equipo de QA Para mejorar la calidad del producto. | Escenario: Errores corregidos. <br> Dado que  el desarrollador recibe un reporte de error Cuando identifica y soluciona el problema Entonces debe confirmar la corrección con el equipo de QA.| EP04 |
+| US13 | Notificaciones de las citas médicas | Como médico Quiero poder enviar notificaciones de las citas a los pacientes Para evitar ausentismos. | Escenario : Enviar notificaciones de citas médicas exitosas <br> Dado que el médico tiene una cita agendada con un paciente Cuando el médico envía una notificación de la cita al paciente Entonces el paciente recibe la notificación en su dispositivo.| EP04 |
+| US14 | Ver historial de pacientes atendidos | Como médico Quiero ver el historial de los pacientes atendidos Para un mejor seguimiento de su tratamiento. | Escenario : Ver historial de pacientes <br> Dado que soy un médico Cuando accedo al perfil de un paciente Entonces debo poder ver su historial médico con las visitas anteriores. | EP03 |
+| US15 | Acceder al historial médico del paciente | Como médico Quiero acceder al historial médico de mis pacientes Para ofrecer una atención más adecuada. | Escenario : Acceder al historial médico del paciente <br> Dado que soy un médico Cuando accedo al perfil de un paciente Entonces debo poder ver su historial médico completo. | EP03 | 
+| US16 | Dejar una reseña sobre un médico | Como paciente Quiero poder dejar una reseña sobre un médico después de una cita Para compartir mi experiencia con otros usuarios. | Escenario : Reseña publicada. <br> Dado que soy un paciente Cuando termino mi cita con un médico Entonces puedo dejar una reseña con mi calificación o comentarios | EP03 |
+| US17 | Navegación por el Landing Page | Como visitante del segmento objetivo médico/paciente Quiero navegar por la landing page del software Para obtener la información que deseo del producto. | Escenario 1: Visualizar información en la landing page <br>  Dado que el visitante del segmento objetivo médico/paciente está en la landing page Cuando navega por las secciones y reseñas Entonces debe encontrar información clara y relevante sobre las funcionalidades y beneficios del software. <br> Escenario 2: Error en el sistema <br> Dado que el visitante del segmento objetivo médico/paciente  se encuentre dentro de la landing page Cuando ocurra algún problema con el sistema Entonces no se muestra ninguna sección o reseña y se muestra un mensaje de error. | EP04 | 
+| TS18 | Cambiar el Idioma de la Landing Page |  Como desarrollador Quiero implementar un sistema de cambio de idioma en la landing page Para que los usuarios puedan cambiar el idioma de la página. | Escenario : Implementación del cambio de idioma exitoso. <br> Dado que la aplicación tiene la opción de cambiar de idioma  Cuando el visitante del segmento objetivo médico/paciente selecciona un idioma diferente Entonces la página debe reflejar el idioma seleccionado en todo el contenido.| EP04 |
+| TS19 | Contactar al Equipo de Soporte | Como desarrollador Quiero implementar un sistema de contacto con el equipo de soporte Para que los usuarios puedan enviar consultas. | Escenario: Contacto exitoso con soporte. <br> Dado que el visitante del segmento objetivo médico/paciente está en la landing page Cuando selecciona la opción de contacto Entonces debe poder enviar un mensaje al equipo de soporte con su consulta o solicitud. | EP04 |
+| TS20 | Solucionar Errores Reportados | Como desarrollador Quiero corregir los errores reportados por el equipo de QA Para garantizar que el software funcione correctamente y cumplir con los estándares de calidad. | Escenario: Errores corregidos. <br> Dado que el desarrollador recibe un reporte de error Cuando analiza y soluciona el problema Entonces debe confirmar la corrección con el equipo de QA y verificar que el error no se repita en el sistema.| EP04 |
 
 **Epic 01: Gestión de cuentas de usuario**
 
@@ -49,27 +49,27 @@ Segmento 2: Médicos generales y especialistas con experiencia
 
 **Epic 02:  Gestión de citas médicas** 
 
-| **Story ID** | **Título**                     |
-|--------------|--------------------------------|
-| US08         | Filtrar búsqueda de médicos    |
-| US09         | Ver información del médico     |
-| US10         | Pagar la cita                  |
-| US11         | Cancelar cita médica           |
-| US12         | Agendar cita médica            |
+| **Story ID** | **Título**                          |
+|--------------|-------------------------------------|
+| US08         | Filtrar búsqueda de médicos         |
+| US09         | Ver información del médico          |
+| US10         | Pagar la cita                       |
+| US11         | Cancelar cita médica                |
+| US12         | Agendar cita médica                 |
+| US13         | Notificaciones de las citas médicas |
 
 **Epic 03: Interacción con los médicos y seguimiento**
 | **Story ID** | **Título**                               |
 |--------------|------------------------------------------|
-| US13         | Ver historial de pacientes atendidos     |
-| US14         | Acceder al historial médico del paciente |
-| US15         | Dejar una reseña sobre un médico         |
+| US14         | Ver historial de pacientes atendidos     |
+| US15         | Acceder al historial médico del paciente |
+| US16         | Dejar una reseña sobre un médico         |
 
 **Epic 04: Interaccion con la landing page**
 
 | **Story ID** | **Título**                                    |
 |--------------|-----------------------------------------------|
-| US16         | Navegación por la landing page                |
-| US17         | Acceder a la aplicación desde la landing page |
+| US17         | Navegación por el Landing Page                |
 | TS18         | Cambiar el Idioma de la Landing Page          |
 | TS19         | Contactar al Equipo de Soporte                |
 | TS20         | Solucionar Errores Reportados                 |
