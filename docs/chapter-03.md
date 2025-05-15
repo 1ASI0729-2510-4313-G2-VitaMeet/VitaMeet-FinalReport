@@ -22,7 +22,7 @@ Segmento 2: Médicos generales y especialistas con experiencia
 | US06 | Ver citas médicas | Como médico Quiero visualizar la lista de mis citas médicas programadas durante el día Para organizar mi agenda y prepararme para atender a los pacientes | Escenario : visualización exitosa <br> Dado que soy un médico en la plataforma Cuando ingreso a la sección “Mis citas” Entonces debería mostrarse un listado con las citas del día ordenadas por hora.| EP02 |
 | US07 | Notificar a los pacientes | Como médico Quiero enviar una notificación al paciente sobre su cita programada Para ayudarle a recordar y evitar que falte a la consulta médica | Escenario :  Envío de notificación exitoso <br> Dado que soy un médico  Cuando selecciono una cita próxima y elijo “Enviar recordatorio” Entonces el paciente debería recibir un mensaje con la fecha, hora y nombre del médico.| EP02 |
 | US08 | Consultar horario | Como paciente Quiero consultar los horarios disponibles de un médico Para elegir una fecha y hora conveniente para agendar mi cita médica | Escenario : Visualización de disponibilidad <br> Dado que soy un paciente autenticado Cuando selecciono un médico en la plataforma Entonces debería mostrarse un calendario con los días y horarios disponibles para citas. | EP03 |
-| US09 | Filtrar búsqueda de médicos | Como paciente Quiero filtrar médicos por especialidad  Para encontrar fácilmente al profesional adecuado para agendar mi cita <br> Filtro exitoso de médicos <br> Dado que soy un paciente Cuando accedo a la opción de agendar una cita y aplico filtros Entonces debería mostrarse una lista de médicos que coincidan con los criterios seleccionados . | EP03 | 
+| US09 | Filtrar búsqueda de médicos | Como paciente Quiero filtrar médicos por especialidad Para encontrar fácilmente al profesional adecuado para agendar mi cita | Escenario: Filtro exitoso de médicos <br> Dado que soy un paciente Cuando accedo a la opción de agendar una cita y aplico filtros Entonces debería mostrarse una lista de médicos que coincidan con los criterios seleccionados . | EP03 | 
 | US10 | Detalles de la cita | Como paciente Quiero ver los detalles completos de una cita médica agendada Para saber las características y detalles de la cita| Escenario : Visualización de detalle exitosa <br> Dado que soy un paciente autenticado Cuando selecciono una cita de mi historial o lista de próximas citas Entonces debería mostrarse el nombre del médico, la especialidad, la fecha y hora de la cita, el lugar de atención. | EP03 | 
 | US11 | Pagar la cita | Como paciente Quiero poder pagar mi cita médica desde la aplicación Para confirmar la reserva de manera rápida y segura | Escenario: Pago exitoso <br> Dado que soy un paciente Cuando selecciono una cita pendiente de pago y elijo un método de pago Entonces debería procesarse el pago y marcar la cita como “pagada”, mostrando un mensaje de confirmación.  | EP03 |
 | US12 |  Calificar médico | Como paciente Quiero poder calificar al médico después de mi cita Para compartir mi experiencia y ayudar a otros pacientes | Escenario 1: Calificación exitosa <br>Dado que soy un paciente autenticado que ya tuvo una cita Cuando selecciono la opción “Calificar médico” desde el historial de citas Entonces eliges la puntuación. <br> Escenario 2: Cita aún no atendida <br> Dado que soy un paciente con una cita pendiente Cuando intento calificar al médico Entonces debería aparecer un mensaje que diga: “Solo puedes calificar después de haber asistido a tu cita.” | EP04 |
@@ -30,7 +30,7 @@ Segmento 2: Médicos generales y especialistas con experiencia
 | US14 | Ver calificaciones de médicos | Como paciente Quiero ver las calificaciones y comentarios de otros pacientes Para tomar una mejor decisión antes de agendar una cita médica | Escenario : Visualización de valoraciones <br> Dado que soy un paciente  Cuando consulto el perfil de un médico Entonces debería ver la calificación promedio, número de evaluaciones y algunos comentarios recientes. | EP04 |
 | US15 | Editar perfil | Como usuario de los segmentos objetivo médico y paciente Quiero poder editar mis datos personales Para mantener mi información actualizada en la plataforma | Escenario : Edición exitosa <br> Dado que soy un usuario de los segmentos objetivo médico o paciente Cuando modifico mis datos personales en la sección “Mi perfil” Entonces estos cambios deben guardarse correctamente. | EP05 | 
 | US16 | Ver mi perfil | Como usuario de los segmentos objetivos médico y paciente Quiero poder visualizar mi información personal registrada Para verificar que mis datos estén correctos | Escenario : Visualización de perfil <br> Dado que soy un usuario autenticado Cuando accedo a la opción “Mi perfil” Entonces debería mostrarse mi nombre, correo, número, y otros datos personales. | EP05 |
-| US17 | Configurar idioma | Como usuario de los segmento objetivo médico y pacienteQuiero poder seleccionar el idioma de mi preferencia Para usar la plataforma en el idioma que me resulte más cómodo | Escenario : Cambio de idioma exitoso <br> Dado que soy un usuario del segmento objetivo médico y paciente Cuando de click en el botón para cambiar idioma  Entonces toda la interfaz debería actualizarse al idioma seleccionado. | EP05 |
+| US17 | Traducir idioma | Como usuario de los segmento objetivo médico y pacienteQuiero poder seleccionar el idioma de mi preferencia Para usar la plataforma en el idioma que me resulte más cómodo | Escenario : Cambio de idioma exitoso <br> Dado que soy un usuario del segmento objetivo médico y paciente Cuando de click en el botón para cambiar idioma  Entonces toda la interfaz debería actualizarse al idioma seleccionado. | EP05 |
 | US18 | Actualizar correo electrónico | Como usuario de los segmento objetivo médico y paciente Quiero actualizar mi dirección de correo electrónico en mi perfil Para recibir notificaciones y comunicaciones importantes | Escenario : Correo actualizado correctamente <br> Dado que soy un usuario autenticado Cuando ingreso una nueva dirección de correo válida y la guardo Entonces el sistema debe actualizar mi correo y enviarme un correo de confirmación. | EP05 |
 | US19 | Navegación por el Landing Page | Como visitante del segmento objetivo médico/paciente Quiero navegar por la landing page del software Para obtener la información que deseo del producto. | Escenario 1: Visualizar información en la landing page <br>  Dado que el visitante del segmento objetivo médico/paciente está en la landing page Cuando navega por las secciones y reseñas Entonces debe encontrar información clara y relevante sobre las funcionalidades y beneficios del software. <br> Escenario 2: Error en el sistema <br> Dado que el visitante del segmento objetivo médico/paciente  se encuentre dentro de la landing page Cuando ocurra algún problema con el sistema Entonces no se muestra ninguna sección o reseña y se muestra un mensaje de error. | EP06 | 
 | TS20 | Cambiar el Idioma de la Landing Page |  Como desarrollador Quiero implementar un sistema de cambio de idioma en la landing page Para que los usuarios puedan cambiar el idioma de la página. | Escenario : Implementación del cambio de idioma exitoso. <br> Dado que la aplicación tiene la opción de cambiar de idioma  Cuando el visitante del segmento objetivo médico/paciente selecciona un idioma diferente Entonces la página debe reflejar el idioma seleccionado en todo el contenido.| EP06 |
@@ -42,39 +42,57 @@ Segmento 2: Médicos generales y especialistas con experiencia
 | **Story ID** | **Título**                         |
 |--------------|------------------------------------|
 | US-01        | Registrar Usuario                  |
-| US-02        | Confirmación de Registro de cuenta |
-| US-03        | Iniciar sesión                     |
-| US-04        | Restablecer contraseña             |
-| US-05        | Cerrar sesión                      |
-| US-06        | Editar datos del usuario           |
-| US-07        | Eliminar cuenta                    |
+| US-02        | Iniciar Sesión                     |
+| US-03        | Olvidar contraseña                 |
 
-**Epic 02:  Gestión de citas médicas** 
+
+**Epic 02: Gestión de agenda y atención médica** 
 
 | **Story ID** | **Título**                          |
 |--------------|-------------------------------------|
-| US08         | Filtrar búsqueda de médicos         |
-| US09         | Ver información del médico          |
-| US10         | Pagar la cita                       |
-| US11         | Cancelar cita médica                |
-| US12         | Agendar cita médica                 |
-| US13         | Notificaciones de las citas médicas |
+| US04         | Historial del paciente              |
+| US05         | Cancelar una cita                   |
+| US06         | Ver citas médicas                   |
+| US07         | Notificar a los pacientes           |
 
-**Epic 03: Interacción con los médicos y seguimiento**
+
+**Epic 03: Reserva y Gestión de Citas para Pacientes**
 | **Story ID** | **Título**                               |
 |--------------|------------------------------------------|
-| US14         | Ver historial de pacientes atendidos     |
-| US15         | Acceder al historial médico del paciente |
-| US16         | Dejar una reseña sobre un médico         |
+| US08         | Consultar horario                        |
+| US09         | Filtrar búsqueda de médicos              |
+| US10         | Detalles de la cita                      |
+| US11         | Pagar la cita                            |
 
-**Epic 04: Interaccion con la landing page**
+
+**Epic 04: Evaluación y Retroalimentación de Servicios**
 
 | **Story ID** | **Título**                                    |
 |--------------|-----------------------------------------------|
-| US17         | Navegación por el Landing Page                |
-| TS18         | Cambiar el Idioma de la Landing Page          |
-| TS19         | Contactar al Equipo de Soporte                |
-| TS20         | Solucionar Errores Reportados                 |
+| US12         | Calificar médico                              |
+| TS13         | Dejar comentario sobre atención médica        |
+| TS14         | Ver calificaciones de médicos                 |
+
+
+**Epic 05: Configuración y Administración del Perfil de Usuario**
+| **Story ID** | **Título**                                      |
+|--------------|-------------------------------------------------|
+| US15         | Editar perfil                                   |
+| US16         | Ver mi perfil                                   |
+| US17         | Traducir idioma                                 |
+| US18         | Actualizar correo electrónico                   |
+
+**Epic 06: Landing Page y Soporte Técnico**
+| **Story ID** | **Título**                                        |
+|--------------|---------------------------------------------------|
+| US19         | Navegación por el Landing Page                    |
+| US20         | Cambiar el Idioma de la Landing Page              |
+| US21         | Contactar al Equipo de Soporte                    |
+| US22         | Solucionar Errores Reportados                     |
+
+
+
+
 
 ## 3.3. Impact Mapping.
 
