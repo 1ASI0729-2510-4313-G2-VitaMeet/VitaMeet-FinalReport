@@ -154,9 +154,15 @@ Para competir de manera efectiva en el mercado digital de gestión de citas méd
 A diferencia de plataformas globales como Doctoralia o Docplanner, VitaMeet se enfoca exclusivamente en el mercado peruano, permitiendo personalizar funciones y lenguaje según las necesidades de la población local, incluyendo integración con redes de salud y costumbres del país.
 
 
+**Táctica asociada:** Lanzamiento beta en Lima Metropolitana con grupos focales que permitan ajustar funcionalidades según la realidad local.
+
+
 **2) Modelo Freemium para Usuarios y Médicos**
 
 Se ofrecerá un plan gratuito funcional para atraer usuarios y profesionales, y un plan premium con características avanzadas, como informes analíticos, gestión de historia clínica ampliada y mayor visibilidad en búsquedas.
+
+
+**Táctica asociada:** Implementación de incentivos por referidos tanto para pacientes como para médicos, con beneficios dentro del plan premium.
 
 
 **3) Alianzas Estratégicas con Clínicas y Farmacias Locales**
@@ -164,29 +170,27 @@ Se ofrecerá un plan gratuito funcional para atraer usuarios y profesionales, y 
 VitaMeet establecerá convenios con clínicas privadas, consultorios independientes y farmacias para integrar servicios y ampliar su base de usuarios a través de canales de confianza.
 
 
+**Táctica asociada:** Desarrollo de una app móvil ligera, que permita la integración sencilla con los sistemas de aliados en zonas urbanas y con baja conectividad.
+
+
 **4) Desarrollo de Marca Digital con SEO Local y Contenido Educativo**
 
 A diferencia de competidores que apuestan por un marketing masivo, VitaMeet adoptará una estrategia de contenido (blogs de salud, consejos médicos) y posicionamiento SEO local (ciudades específicas del Perú) para aumentar la relevancia.
 
 
+**Táctica asociada:** Publicidad segmentada en redes sociales como Facebook, Instagram y TikTok, enfocada en contenidos informativos de valor para captar tráfico orgánico y seguidores locales.
+
+
 **5) Automatización para Disminuir Ausencias**
 
 Los recordatorios inteligentes y notificaciones multicanal (SMS, correo y WhatsApp) serán clave para reducir ausencias en un 30%, uno de los principales dolores de cabeza de los profesionales médicos.
+
+
+**Táctica asociada:** Implementación de encuestas de satisfacción post-consulta para evaluar la efectividad de los recordatorios y realizar mejoras continuas en la comunicación automatizada.
 <br>
 </br>
 
-**Tácticas:**
-- Lanzamiento beta en Lima Metropolitana con grupos focales.
-
-- Publicidad segmentada en redes sociales (Facebook, Instagram, TikTok).
-
-- Incentivos por referidos (pacientes y médicos).
-
-- Encuestas de satisfacción para iterar en base a retroalimentación real.
-
-- Desarrollo de una app móvil ligera para zonas con menor conectividad.
   
-
 <h3 id="interviews">2.2. Entrevistas</h4>
 
 La presente sección aborda la recolección de información cualitativa mediante entrevistas aplicadas a usuarios representativos de los segmentos objetivo identificados. Estas entrevistas tienen como propósito descubrir patrones de comportamiento, necesidades, frustraciones y expectativas que sirvan de insumo para el diseño de la solución.
@@ -196,7 +200,7 @@ La presente sección aborda la recolección de información cualitativa mediante
 
 Se han diseñado dos bloques de preguntas: uno dirigido a pacientes adultos que buscan atención médica, y otro a médicos generales y especialistas con experiencia. Las preguntas incluyen tanto aspectos demográficos como preguntas clave relacionadas con el uso de tecnología, hábitos, objetivos y frustraciones respecto a la gestión de citas médicas.
 
-**A. Entrevistas a Usuarios: Personas adultas que necesitan atención médica**
+**A. Entrevistas a Segmento 1: Pacientes - Personas adultas que necesitan atención médica**
 
 **Objetivo:** Comprender las necesidades, comportamientos y problemas que enfrentan los pacientes al momento de buscar, reservar o asistir a una cita médica.
 
@@ -225,7 +229,7 @@ Se han diseñado dos bloques de preguntas: uno dirigido a pacientes adultos que 
 8) Si existiera una plataforma que te permita ver disponibilidad médica en tiempo real, reservar tu cita y recibir recordatorios automáticos, ¿qué tan probable sería que la uses? ¿Por qué?
 <br>
 
-**B. Entrevistas a Médicos: Generales y especialistas con experiencia**
+**B. Entrevistas a Segmento 2: Médicos - Generales y especialistas con experiencia**
 
 **Objetivo:** Identificar los retos actuales que enfrentan los médicos al momento de gestionar su agenda, comunicarse con pacientes y reducir ausencias o cancelaciones.
 
@@ -259,7 +263,7 @@ Se han diseñado dos bloques de preguntas: uno dirigido a pacientes adultos que 
 
 <table border="1" cellpadding="8" cellspacing="0">
     <tr><th colspan="2">Entrevista 1</th></tr>
-    <tr><td>Segmento Objetivo</td><td>Paciente</td></tr>
+    <tr><td>Segmento Objetivo</td><td>Pacientes: Personas adultas que necesitan atención médica	</td></tr>
     <tr><td>Fecha Entrevista</td><td>15/04/2025</td></tr>
     <tr><td>Entrevistador</td><td>Eddo Su Caletti</td></tr>
     <tr><td>Entrevistado</td><td>Juan Diego Leon Farias</td></tr>
@@ -275,7 +279,7 @@ Se han diseñado dos bloques de preguntas: uno dirigido a pacientes adultos que 
 
 <table border="1" cellpadding="8" cellspacing="0">
     <tr><th colspan="2">Entrevista 2</th></tr>
-    <tr><td>Segmento Objetivo</td><td>Médico (estudiante de medicina)</td></tr>
+    <tr><td>Segmento Objetivo</td><td>Médicos: Generales y especialistas con experiencia</td></tr>
     <tr><td>Fecha Entrevista</td><td>23/04/2025</td></tr>
     <tr><td>Entrevistador</td><td>Fabian Reyes Trujillano</td></tr>
     <tr><td>Entrevistado</td><td>Facundo Torres Pereyra</td></tr>
@@ -291,7 +295,7 @@ Se han diseñado dos bloques de preguntas: uno dirigido a pacientes adultos que 
 
 <table border="1" cellpadding="8" cellspacing="0">
     <tr><th colspan="2">Entrevista 3</th></tr>
-    <tr><td>Segmento Objetivo</td><td>Médicos: generales y especialistas</td></tr>
+    <tr><td>Segmento Objetivo</td><td>Médicos: Generales y especialistas con experiencia</td></tr>
     <tr><td>Fecha Entrevista</td><td>18/04/2025</td></tr>
     <tr><td>Entrevistador</td><td>Carlos Alejandro de la Cruz Villareal</td></tr>
     <tr><td>Entrevistado</td><td>Luis Alberto Quispe Díaz</td></tr>
@@ -307,7 +311,7 @@ Se han diseñado dos bloques de preguntas: uno dirigido a pacientes adultos que 
 
 <table border="1" cellpadding="8" cellspacing="0">
     <tr><th colspan="2">Entrevista 4</th></tr>
-    <tr><td>Segmento Objetivo</td><td>Cliente</td></tr>
+    <tr><td>Segmento Objetivo</td><td>Pacientes: Personas adultas que necesitan atención médica</td></tr>
     <tr><td>Fecha Entrevista</td><td>23/04/2025</td></tr>
     <tr><td>Entrevistador</td><td>Alexander Paolo Justo Yauricasa</td></tr>
     <tr><td>Entrevistado</td><td>Camila Conde</td></tr>
@@ -323,7 +327,7 @@ Se han diseñado dos bloques de preguntas: uno dirigido a pacientes adultos que 
 
 <table border="1" cellpadding="8" cellspacing="0">
     <tr><th colspan="2">Entrevista 5</th></tr>
-    <tr><td>Segmento Objetivo</td><td>Personas adultas que necesitan atención médica</td></tr>
+    <tr><td>Segmento Objetivo</td><td>Pacientes: Personas adultas que necesitan atención médica</td></tr>
     <tr><td>Fecha Entrevista</td><td>26/04/2025</td></tr>
     <tr><td>Entrevistador</td><td>Miguel Angel Vidal Castro</td></tr>
     <tr><td>Entrevistado</td><td>Jade Nahi Torres Carranza</td></tr>
@@ -386,13 +390,13 @@ Este proceso es clave para construir una solución centrada en el usuario. Para 
 
 Para fortalecer el enfoque centrado en el usuario de la solución VitaMeet, se han desarrollado dos perfiles de User Persona, uno por cada segmento objetivo identificado durante el proceso de análisis. Estos perfiles permiten representar las necesidades, comportamientos, frustraciones y objetivos de los principales usuarios de la plataforma. La información ha sido construida a partir del análisis de entrevistas, referencias estadísticas y comportamientos comunes detectados en plataformas similares.
 
-**1) Segmento 1: Personas adultas que necesitan atención médica** 
+**1) Segmento 1: Pacientes - Personas adultas que necesitan atención médica** 
 
 <img src="../assets/User_Persona_Segmento 1.jpg" alt="User Persona Usuarios" width="auto" height="430"/>
 
 <br>
 
-**2) Segmento 2: Médicos generales y especialistas con experiencia**
+**2) Segmento 2: Médicos - Generales y especialistas con experiencia**
 
 <img src="../assets/User_Persona_Segmento 2.jpg" alt="User Persona Medicos" width="auto" height="430"/>
 
@@ -487,7 +491,7 @@ En este cuadro se utilizan los números del uno al tres para representar cuánta
 
 En esta sección se detalla la experiencia vivida por los usuarios pertenecientes a los segmentos objetivos al interactuar con la solución digital propuesta por VitaMeet. El análisis considera todo el recorrido, desde la toma de conciencia del problema hasta la etapa de fidelización, y pone énfasis en los puntos de contacto, emociones, dificultades y soluciones propuestas.
 
-- **Segmento 1: Personas adultas que necesitan atención médica**
+- **Segmento 1: Pacientes - Personas adultas que necesitan atención médica**
 
 <img src="../assets/User_Journey_Mapping_Segmento 1.jpg" alt="User Persona Usuarios" width="auto" height="430"/>
 
@@ -496,7 +500,7 @@ En esta imagen, se utilizó la herramienta de Journey Map para analizar el uso d
 
 <br>
 
-- **Segmento 2: Médicos generales y especialistas con experiencia**
+- **Segmento 2: Médicos - Generales y especialistas con experiencia**
 
 <img src="../assets/User_Journey_Mapping_Segmento 2.jpg" alt="User Persona Usuarios" width="auto" height="430"/>
 
@@ -508,7 +512,7 @@ En esta imagen, observamos el viaje del usuario del Dr. Luis Fernández al adopt
 
 En esta sección, se utilizará la herramienta del mapa de empatía para analizar a profundidad los sentimientos de los usuarios de cada segmento objetivo. Con esto, el objetivo que se quiere lograr es comprender aún más al usuario y cómo vive alrededor de la situación problemática. Cada gráfico contiene cuatro cuadrantes donde se evalúa lo que siente, lo que piensa, lo que dice y lo que hace cada usuario en su situación.
 
-- **Segmento 1: Personas adultas que necesitan atención médica**
+- **Segmento 1: Pacientes - Personas adultas que necesitan atención médica**
 
 <img src="../assets/Empathy_Mapping_Segmento 1.jpg" alt="User Persona Usuarios" width="auto" height="420"/>
 
@@ -516,7 +520,7 @@ En esta imagen, se utilizó la herramienta descrita previamente para analizar lo
 
 <br>
 
-- **Segmento 2: Médicos generales y especialistas con experiencia**
+- **Segmento 2: Médicos - Generales y especialistas con experiencia**
 
 <img src="../assets/Empathy_Mapping_Segmento 2.jpg" alt="User Persona Usuarios" width="auto" height="420"/>
 
@@ -527,7 +531,7 @@ En esta imagen, se utilizó la herramienta descrita previamente para analizar lo
 
 Para el mapeo actual de las situaciones de los usuarios de VitaMeet, se tuvieron en cuenta las experiencias reales y cotidianas que enfrentan al gestionar su atención médica y servicios relacionados.
 
-- **Segmento 1: Personas adultas que necesitan atención médica**
+- **Segmento 1: Pacientes - Personas adultas que necesitan atención médica**
 
 <img src="../assets/As-Is_Scenario_Mapping_Segmento 1.jpg" alt="User Persona Usuarios" width="auto" height="400"/>
 
@@ -536,7 +540,7 @@ Por un lado, para los usuarios pacientes (personas adultas que necesitan atenci�
 
 <br>
 
-- **Segmento 2: Médicos generales y especialistas con experiencia**
+- **Segmento 2: Médicos - Generales y especialistas con experiencia**
 
 <img src="../assets/As-Is_Scenario_Mapping_Segmento 2.jpg" alt="User Persona Usuarios" width="auto" height="400"/>
 
