@@ -151,35 +151,121 @@ Register
 
 #### 4.4.1. Web Applications Wireframes.
 
-Diseño para visualizar el registro y login
+Diseño para visualizar el registro
 
-![Image](../assets/img1.jpg)
+![Image](../assets/WFREG.png)
 
-Diseño para visualizar la traducción
+Diseño para visualizar el login
 
-![Image](../assets/lan1.jpg)
+![Image](../assets/WFLOG.png)
+
+Diseño para visualizar el reinicio de contraseña
+
+![Image](../assets/WFRP.png)
+
+Diseño para visualizar el login
+
+![Image](../assets/WFSAP.png)
+
+Diseño para visualizar la información del perfil
+
+![Image](../assets/WFPI.png)
+
+Diseño para visualizar la evaluación de servicio del Médico
+
+![Image](../assets/WFRATE.png)
+
+Diseño para visualizar la agendación de una cita
+
+![Image](../assets/WFSAP.png)
+
+Diseño para visualizar el historial de citas de los paciente
+
+![Image](../assets/WFHIS.png)
 
 #### 4.4.2. Web Applications Wireflow Diagrams.
 
 Diagrama de interacción de registro y login del usuario
+Si no tiene una cuenta para logearse, se registra.
 
 ![Image](../assets/img2.jpg)
 
-Diagrama de interacción de la traducción
+Diagrama de interacción de login y recuperar contraseña
+En case de olvidarse la contraseña, tiene que colocar un correo
+en la pantalla de "recuperar contraseña" para enviarle un código
+de confirmación.
 
-![Image](../assets/lan2.jpg)
+![Image](../assets/WFLOG.png)
+
+![Image](../assets/WFRP.png)
+
+
+Diagrama de interacción entre register y información del perfil
+Al registrarse, el usuario va a tener que completar la información de su perfil
+
+![Image](../assets/WFREG.png)
+
+![Image](../assets/WFPI.png)
+
+Diagrama de interacción entre escoger una cita y historial  médico
+Al seleccionar una cita y pagarla según el método elegido, se agrega la cita al historial del médico.
+
+![Image](../assets/WFSAP.png)
+
+![Image](../assets/WFHIS.png)
 
 #### 4.4.3. Web Applications Mock-Ups.
 
-![Image](../assets/img3.jpg)
+![Image](../assets/REGGG.png)
 
-![Image](../assets/lan3.jpg)
+Diseño para visualizar el login
+
+![Image](../assets/LOGGG.png)
+
+Diseño para visualizar el reinicio de contraseña
+
+![Image](../assets/RP.png)
+
+Diseño para visualizar el login
+
+![Image](../assets/SAP.png)
+
+Diseño para visualizar la información del perfil
+
+![Image](../assets/PI.png)
+
+Diseño para visualizar la evaluación de servicio del Médico
+
+![Image](../assets/RATE.png)
+
+Diseño para visualizar la agendación de una cita
+
+![Image](../assets/SAP.png)
+
+Diseño para visualizar el historial de citas de los paciente
+
+![Image](../assets/HIS.png)
 
 #### 4.4.4. Web Applications User Flow Diagrams.
 
 ![Image](../assets/img4.jpg)
 
-![Image](../assets/lan4.jpg)
+Diagrama de interacción de login y recuperar contraseña
+En case de olvidarse la contraseña, tiene que colocar un correo
+en la pantalla de "recuperar contraseña" para enviarle un código
+de confirmación.
+
+![Image](../assets/LOGGG.png)
+
+![Image](../assets/RP.png)
+
+
+Diagrama de interacción entre register y información del perfil
+Al registrarse, el usuario va a tener que completar la información de su perfil
+
+![Image](../assets/REGGG.png)
+
+![Image](../assets/PI.png)
 
 ### 4.6. Domain-Driven Software Architecture
 
