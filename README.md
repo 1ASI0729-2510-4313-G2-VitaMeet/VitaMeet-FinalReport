@@ -1,5 +1,4 @@
-# VitaMeet-FinalProjectDocumentation
-
+# Final-Report
 ![Logo de UPC](/assets/UPC-logo.webp)
 
 # Universidad Peruana de Ciencias Aplicadas
@@ -16,7 +15,7 @@ Profesor: Alberto Wilmer Sánchez Seña
 
 "Informe de TB1"
 
-Startup: MetaDevs
+Startup: Meta Devs
 
 Producto: Vita Meet
 
@@ -24,12 +23,12 @@ Grupo: 02
 
 |           Integrantes            |   Código   |
 | :------------------------------: | :--------: |
-|    Carlos Alejandro De La Cruz Villarreal    | U20211C036 |
-|    Alexander Paolo Justo Yauricasa     | U20191C054 |
-|  Ariana Lizeth Ramirez Carrasco   | U202312932 |
-| Fabian Alonso Reyes Trujillano | U202218233 |
+|    Carlos Alejandro De La Cruz Villarreal    | codigo de alumno |
+|    Alexander Paolo Justo Yauricasa     | codigo de alumno |
+|  Ariana Lizeth Ramirez Carrasco   |codigo de alumno |
+| Fabian Alonso Reyes Trujillano | codigo de alumno |
 |         Eddo Su Caletti          | U20221A390 |
-|        Miguel Angel Vidal Castro       | U202314186 |
+|        Miguel Angel Vidal Castro       | codigo de alumno |
 
 Abril 2025
 
@@ -41,7 +40,11 @@ Abril 2025
 
 # Project Report Collaboration Insights
 
-URL Project Report (Github): https://github.com/1ASI0729-2510-4313-G2-VitaMeet
+URL Project Report (Github): https://github.com/1ASI0729-2510-4313-G2-VitaMeetv
+
+TB1:
+
+
 
 # Student Outcome
 
@@ -50,10 +53,12 @@ URL Project Report (Github): https://github.com/1ASI0729-2510-4313-G2-VitaMeet
 *Criterio: La capacidad de funcionar efectivamente en un equipo cuyos miembros juntos proporcionan liderazgo, crean un entorno de colaboración e inclusivo, establecen objetivos, planifican tareas y cumplen objetivos.*
 
 En el siguiente cuadro se describe las acciones realizadas y enunciados de conclusiones por parte del grupo, que permiten sustentar el haber alcanzado el logro del ABET – EAC - Student Outcome 5.
-| Criterio Específico                                                                                | Acciones Realizadas                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         | Conclusiones                                                                                                                                                                                                                                                                                                                                   |
-| -------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Comunica oralmente con efectividad a diferentes rangos de audiencia**                                | **TB1**<br>-Fabian Reyes Trujillano: Participe en la reuniones respectivas de equipo, complete las partes que me tocaron de forma exitosa y en las fecjas dadas. <br>-Eddo Su Caletti: Participe en todas las reuniones del equipo  y tambien complete todas mis partes del trabajo que me han encomendado y enviados antes de las fechas dadas y, ademas, hice retroalimentación en algunas partes del trabajo .<br>-Carlos De La Cruz Villarreal: Participe en las reuniones respectivas de equipo, así como también realicé mis partes asignadas del proyecto en su respectiva fecha asignada. <br>-Ariana Lizeth Ramirez Carrasco:<br> Asistí a las reuniones del equipo, completé exitosamente las secciones que me fueron asignadas y las entregué dentro de los plazos establecidos. <br>-Alexander Paolo Justo Yauricasa: Asistí a las reuniones correspondientes del equipo, cumplí con mis tareas asignadas de manera exitosa y dentro de los plazos establecidos.<br>-Miguel Angel Vidal Castro: Asistí en todas las reuniones posibles, colaboré y definí plazos de entrega sobre mis avances aunque en algunos tuve complicaciones. Cumplí con todo el avance de mi entrega y apoyé en las dudas de mis compañeros.                                                   | **TB1**<br>Se trabajó en equipo tanto en nuestras sesiones presenciales como en nuestras reuniones remotas, proporcionando conjuntamente un liderazgo íntegro que potenció el desarrollo profesional de cada miembro y garantizó la entrega oportuna del producto.                                                                             |
-| **Comunica por escrito con efectividad a diferentes rangos de audiencia** | **TB1**<br>-Fabian Reyes Trujillano: Participe en la reuniones respectivas de equipo, complete las partes que me tocaron de forma exitosa y en las fecjas dadas.  <br>-Eddo Su Caletti: Asistencia en todas las llamadas grupales, ayuda a otros mienbros del equipo me encarguedel capitulo 1 del proyecto y el student outcome. <br>-Carlos De La Cruz Villarreal: Asistí y participé activamente en cada reunión pautada, así como también la realización del capítulo 3 del proyecto y student outcome. <br>-Ariana Lizeth Ramirez Carrasco:<br> Asistí a las reuniones del equipo, completé exitosamente las secciones que me fueron asignadas y las entregué dentro de los plazos establecidos. <br>-Alexander Paolo Justo Yauricasas: Participé de manera activa en cada reunión establecida, así como en la elaboración del capítulo 3 del proyecto y su student outcome. <br>-Miguel Angel Vidal Castro: En mi avance de este capítulo, presento las pautas de diseño para VitaMeet, enfocándome en la tipografía y colores para asegurar claridad y coherencia visual. La arquitectura de la información está estructurada para facilitar la navegación intuitiva. Diseñé wireframes y mock-ups para la página de inicio y los flujos de interacción, garantizando una experiencia de usuario fluida y coherente.| **TB1**<br>Cada miembro de nuestro equipo mostró disposición y estableció un entorno colaborativo a través de medios de comunicación efectivos, con reuniones, entregas tempranas y revisiones constantes. Establecimos metas claras, planificamos tareas de forma conjunta y cumplimos todos los objetivos dentro de los plazos establecidos. |
+
+| Criterio Específico | Acciones Realizadas | Conclusiones |
+|---------------------|---------------------|--------------|
+| **Comunica oralmente con efectividad a diferentes rangos de audiencia** | **TB1** <br>-Fabian Reyes Trujillano: Participe en la reuniones respectivas de equipo, complete las partes que me tocaron de forma exitosa y en las fecjas dadas. <br>-Eddo Su Caletti: Participe en todas las reuniones del equipo  y tambien complete todas mis partes del trabajo que me han encomendado y enviados antes de las fechas dadas y, ademas, hice retroalimentación en algunas partes del trabajo .<br>-Carlos De La Cruz Villarreal: Participe en las reuniones respectivas de equipo, así como también realicé mis partes asignadas del proyecto en su respectiva fecha asignada. <br>-Ariana Lizeth Ramirez Carrasco:<br> Asistí a las reuniones del equipo, completé exitosamente las secciones que me fueron asignadas y las entregué dentro de los plazos establecidos. <br>-Alexander Paolo Justo Yauricasa: Asistí a las reuniones correspondientes del equipo, cumplí con mis tareas asignadas de manera exitosa y dentro de los plazos establecidos.<br>-Miguel Angel Vidal Castro: Asistí en todas las reuniones posibles, colaboré y definí plazos de entrega sobre mis avances aunque en algunos tuve complicaciones. Cumplí con todo el avance de mi entrega y apoyé en las dudas de mis compañeros<br>**TP1**<br>-Eddo Su Caletti: Me encarge de areglar algunas cosas en el git ademas me encargue de la parte del front del registro <br>-Carlos Alejandro De La Cruz Villarreal realización del boundend context: reserva y gestión de citas para pacientes<br>-Miguel Angel Vidal Castro mitad del capituo 4 Frontend Bounded context de Evaluación y Retroalimentación de Servicios. <br>-Fabian Alonso Reyes Trujillano - Login Bounded context y Correcciones del TB1, Bounded context de autenticacion (Login)| **TB1**<br>Se trabajó en equipo tanto en nuestras sesiones presenciales como en nuestras reuniones remotas, proporcionamos conjuntamente un liderazgo de equipo integro para elaborar de nuestro producto y el desarrollo profesional de cada miembro del equipo.<br>**TP1**<br> El equipo logró coordinarse de manera efectiva, distribuyendo responsabilidades según las fortalezas de cada integrante y asegurando la integración exitosa de las funcionalidades clave |
+| **Comunica por escrito con efectividad a diferentes rangos de audiencia** | **TB1**<br>-Fabian Reyes Trujillano: Participe en la reuniones respectivas de equipo, complete las partes que me tocaron de forma exitosa y en las fecjas dadas.  <br>-Eddo Su Caletti: Asistencia en todas las llamadas grupales, ayuda a otros mienbros del equipo me encarguedel capitulo 1 del proyecto y el student outcome. <br>-Carlos De La Cruz Villarreal: Asistí y participé activamente en cada reunión pautada, así como también la realización del capítulo 3 del proyecto y student outcome. <br>-Ariana Lizeth Ramirez Carrasco:<br> Asistí a las reuniones del equipo, completé exitosamente las secciones que me fueron asignadas y las entregué dentro de los plazos establecidos. <br>-Alexander Paolo Justo Yauricasas: Participé de manera activa en cada reunión establecida, así como en la elaboración del capítulo 3 del proyecto y su student outcome. <br>-Miguel Angel Vidal Castro: En mi avance de este capítulo, presento las pautas de diseño para VitaMeet, enfocándome en la tipografía y colores para asegurar claridad y coherencia visual. La arquitectura de la información está estructurada para facilitar la navegación intuitiva. Diseñé wireframes y mock-ups para la página de inicio y los flujos de interacción, garantizando una experiencia de usuario fluida y coherente.<br>**TP1**<br>-Eddo Su calettiMe encarge de areglar algunas cosas en el git ademas me encargue de la parte del front del registro <br>-Carlos Alejandro De La Cruz Villarreal realización del boundend context: reserva y gestión de citas para pacientes<br>-Miguel Angel Vidal Castro mitad del capituo 4 Frontend Bounded context de Evaluación y Retroalimentación de Servicios. <br>-Fabian Alonso Reyes Trujillano - Login Bounded context y Correcciones del TB1, Bounded context de autenticacion (Login).| **TB1**<br>Cada miembro de nuestro equipo mostró disposición y estableció un entorno colaborativo a través de medios de comunicación efectivos, se establecieron reuniones, llamadas, entregas tempranas y constantes revisiones de cada capítulo de nuestro proyecto. Nos reunimos en periodos continuos para opinar y colaborar en cada proceso del desarrollo de nuestro producto y su documentación. Nos establecimos metas tempranas con la planificación de tareas y las mejoramos conjuntamente con la revisión de la calidad del proceso culminado.<br>**TP1**<br> Mediante una planificación clara y una comunicación constante, el equipo mantuvo un entorno  colaborativo e inclusivo, logrnado cumplir los objetivos planteados en el Sprin 2 dentro de los tienpos establecidos |
+
 # Contenido
 ## Tabla de Contenidos
 
@@ -65,13 +70,10 @@ En el siguiente cuadro se describe las acciones realizadas y enunciados de concl
 - [Contenido](#contenido)
   - [Tabla de Contenidos](#tabla-de-contenidos)
   - [Capítulo I: Introducción](#capítulo-i-introducción)
-  - [Capítulo II: Requirements Elicitation \& Analysis](#capítulo-ii-requirements-elicitation--analysis)
+  - [Capítulo II: Requirements Elicitation & Analysis](#capítulo-ii-requirements-elicitation--analysis)
   - [Capítulo III: Requirements Specification](#capítulo-iii-requirements-specification)
   - [Capítulo IV: Product Design](#capítulo-iv-product-design)
-  - [Capítulo V: Product Implementation, Validation \& Deployment](#capítulo-v-product-implementation-validation--deployment)
-  - [Conclusiones](#conclusiones)
-  - [Bibliografía](#bibliografía)
-  - [Anexos](#anexos)
+  - [Capítulo V: Product Implementation, Validation & Deployment](#capítulo-v-product-implementation-validation--deployment)
 
 ## [Capítulo I: Introducción](/report/chapter1/chapter-1.md)
 - [1.1. Startup Profile](/report/chapter1/chapter-1.md#11-startup-profile)
