@@ -2,11 +2,11 @@
 
 ## 3.1. To-Be Scenario Mapping.
 
-Segmento 1: Personas adultas que necesitan atención médica
+Segmento 1: Pacientes
 
 <img src="../assets/TBSM-paciente.jpg" alt="TBSM paciente" height="500" />
 
-Segmento 2: Médicos generales y especialistas con experiencia
+Segmento 2: Médicos 
 
 <img src="../assets/TBSM-medico.jpg" alt="TBSM medico" height="500" />
 
