@@ -121,7 +121,7 @@ El primer sprint es una etapa importante en nuestro marco de gestión de proyect
 | TS19 | Contactar al Equipo de Soporte          | TS19  | Desarrollo del Contactar al Equipo de Soporte	      | Como visitante Quiero contactar al equipo de soporte Para obtener ayuda o resolver dudas sobre la plataforma.	      | 7                   |   | Done   |
 | TS20 | Contactar al Equipo de Soporte           | TS20  | Desarrollo del Contactar al Equipo de Soporte      | Como desarrollador Quiero corregir los errores del software notificados por el equipo de QA Para mejorar la calidad del producto.	       | 7                   |   | Done   |
 
-<img src="./assets/Trello.png" alt="Captura Sprint 1 en Trello" width="80%">
+<img src="../assets/Trello.png" alt="Captura Sprint 1 en Trello" width="80%">
    
 Link del trello: https://trello.com/b/E7ZyFdYk/vitameet
 
@@ -154,7 +154,7 @@ Link del trello: https://trello.com/b/E7ZyFdYk/vitameet
 
 #### 5.2.1.5. Execution Evidence for Sprint Review.
 
-<img src="./assets/landing.png" alt="Captura landingPage" width="100%"><br/>
+<img src="../assets/landing.png" alt="Captura landingPage" width="100%"><br/>
 
 **Enlace a la página:** 
 
@@ -175,9 +175,9 @@ Para este sprint presentado de la landing page se optó por varias herramientas 
 
 Para documentar los avances de este Sprint, utilizamos GitHub. Uno de los integrantes del equipo configuró el repositorio inicial, generando múltiples ramas que permitieron trabajar en paralelo sin afectar el progreso de los demás. Clonamos el repositorio localmente con Git, implementamos los cambios necesarios y los subimos a GitHub. Al finalizar, registramos todas las modificaciones, las cuales quedarán disponibles en el repositorio para su revisión.
 
-<br/><img src="./assets/IssuesGithub.png" alt="Imagen" width="100%"><br/>
+<br/><img src="../assets/IssuesGithub.png" alt="Imagen" width="100%"><br/>
 
-<img src="./assets/Network.png" alt="Imagen" width="100%"><br/>
+<img src="../assets/Network.png" alt="Imagen" width="100%"><br/>
 
 ### 5.2.2. Sprint 2
 #### 5.2.2.1. Sprint Planning 2
@@ -225,7 +225,7 @@ Para documentar los avances de este Sprint, utilizamos GitHub. Uno de los integr
 
 #### 5.2.2.5. Execution Evidence for Sprint Review.
 
-<img src="./assets/landing.png" alt="Captura landingPage" width="100%"><br/>
+<img src="../assets/landing.png" alt="Captura landingPage" width="100%"><br/>
 
 
 #### 5.2.2.6. Services Documentation Evidence for Sprint Review
