@@ -40,7 +40,7 @@ Abril 2025
 
 # Project Report Collaboration Insights
 
-URL Project Report (Github): https://github.com/1ASI0729-2510-4313-G2-VitaMeet
+URL Project Report (Github): https://github.com/1ASI0729-2510-4313-G2-VitaMeet/VitaMeet-FinalReport
 
 TB1:
 
