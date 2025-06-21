@@ -258,3 +258,66 @@ Para llevar a cabo los registros de nuestros avances durante el primer Sprint de
 * A través de GitHub es donde se registran problemas. La sección de "Issues" en GitHub sirve como un tablero virtual donde los colaboradores registran problemas, errores o mejoras que necesitan ser abordados en un proyecto web. Estas entradas proporcionan una manera estructurada de organizar y priorizar el trabajo, facilitando la comunicación entre los miembros del equipo. 
 
 
+### 5.3 Validation Interviews
+#### 5.3.1 Diseño de entrevistas
+
+**Objetivo de la entrevista:**
+
+Validar la usabilidad y efectividad de la landing page de TocaAquí y de los flujos de usuario (user flows) asegurando que cada flujo sea intuitivo, claro y funcional para los usuarios y su interaccion con la plataforma.
+
+
+#### Saludo y presentación
+
+Comenzamos con una introducción breve de los entrevistados para recordar quiénes son:
+
+1. ¿Cómo se llama?
+2. ¿Cuántos años tiene?
+3. ¿En qué distrito vive?
+
+#### Preguntas
+
+Estas preguntas nos ayudarán a saber cuál es la experiencia de usuario, si nuestro producto llenó las expectativas del usuario, y también saber las posibles mejoras, comentarios y quejas sobre nuestro producto.
+
+ Preguntas para Médicos
+1.¿Te resulta fácil y rápido registrar tus horarios de atención en la plataforma?
+
+2.¿Qué tan útil consideras la función de gestión de agenda para organizar tus consultas diarias?
+
+3.¿Has notado una reducción en el ausentismo de tus pacientes desde que usas la plataforma?
+
+4.¿La opción de visualizar el historial médico de cada paciente mejora tu atención?
+
+5.¿Te sientes cómodo utilizando la plataforma desde un celular o prefieres el uso en PC?
+
+6.¿Qué tan confiables consideras las notificaciones y recordatorios que envía el sistema?
+
+7.¿Te gustaría tener funciones adicionales como alertas por paciente frecuente o indicadores de carga de trabajo?
+
+8.¿La plataforma facilita la comunicación con tus pacientes? ¿Cómo podría mejorar?
+
+9.¿Qué tan seguro percibes el manejo de la información médica dentro de VitaMeet?
+
+10.¿Recomendarías esta herramienta a otros colegas? ¿Por qué?
+
+ Preguntas para Pacientes
+
+1.¿Te resultó fácil registrarte y crear tu perfil en la plataforma?
+
+2.¿Cómo calificas la experiencia al buscar y agendar una cita médica?
+
+3.¿Recibiste notificaciones a tiempo sobre tus próximas citas?
+
+4.¿Te ayudó la plataforma a evitar olvidos o ausencias a tus consultas?
+
+5.¿Te parece útil poder ver tu historial de atenciones y diagnósticos anteriores?
+
+6.¿Cómo te sentiste con la interfaz del sitio web? ¿Fue fácil de usar?
+
+7.¿Sientes que esta plataforma te ahorra tiempo en comparación con métodos tradicionales?
+
+8.¿Te gustaría tener acceso a más especialidades médicas o servicios relacionados?
+
+9.¿La experiencia digital te genera confianza respecto a la seguridad de tus datos?
+
+10.¿Recomendarías VitaMeet a amigos o familiares para agendar citas médicas? ¿Por qué?
+
