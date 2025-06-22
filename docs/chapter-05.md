@@ -742,12 +742,12 @@ Estas preguntas nos ayudarán a saber cuál es la experiencia de usuario, si nue
 <h3 id="aboutProductVideo">5.4. Video About-the-Product</h3>
 
 <div align="center">
-    <img src="../images/Background-Video About-the-Product.png" alt="VitaMeet Promotional Banner" style="width:500;" />
+    <img src="../assets/about-the-product.png" alt="VitaMeet Promotional Banner" style="width:500;" />
 </div>
 
 <br>
 
 <p align="center">
-   Enlace del <strong>Video About-the-Product</strong>: <a href="https://....">https://....</a>
+   Enlace del <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202218233_upc_edu_pe/ER9cz4huMLhPqv1zVmJ9orsBtFOHyJZ8DxpMfWhPYty9jA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=fb73ax"><strong>Video About-the-Product</strong></a>
 </p>
 
