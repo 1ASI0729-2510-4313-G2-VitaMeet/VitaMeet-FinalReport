@@ -405,71 +405,71 @@ Estas preguntas nos ayudarán a saber cuál es la experiencia de usuario, si nue
 
 <table border="1" cellpadding="8" cellspacing="0">
     <tr><th colspan="2">Entrevista 1</th></tr>
-    <tr><td>Segmento Objetivo</td><td>.....	</td></tr>
+    <tr><td>Segmento Objetivo</td><td>Pacientes - Personas adultas que necesitan atención médica</td></tr>
     <tr><td>Fecha Entrevista</td><td>21/06/2025</td></tr>
-    <tr><td>Entrevistador</td><td>....</td></tr>
+    <tr><td>Entrevistador</td><td>Eddo Su Caletti</td></tr>
     <tr><td>Entrevistado</td><td>....</td></tr>
     <tr><td>Edad</td><td>.... años</td></tr>
     <tr><td>Distrito</td><td>Chorrillos </td></tr>
     <tr><td>Link del Video</td><td><a href="link">Ver Video</a></td></tr>
     <tr><td>Minuto de Inicio</td><td>00:00</td></tr>
-    <tr><td>Duración</td><td>00:00 minutos</td></tr>
-    <tr><td>Imagen</td><td><img src="../images/Entrevista1_validation.png" alt="Entrevista 1" height="360"/></td></tr>
+    <tr><td>Duración</td><td>04:44 minutos</td></tr>
+    <tr><td>Imagen</td><td><img src="../assets/Interview Validation 1.png" alt="Entrevista 1" height="360"/></td></tr>
     <tr><td>Resumen</td><td>El entrevistado ....</td></tr>
 </table><br>
 
 
 <table border="1" cellpadding="8" cellspacing="0">
     <tr><th colspan="2">Entrevista 2</th></tr>
-    <tr><td>Segmento Objetivo</td><td>...	</td></tr>
-    <tr><td>Fecha Entrevista</td><td>00/06/2025</td></tr>
-    <tr><td>Entrevistador</td><td>...</td></tr>
+    <tr><td>Segmento Objetivo</td><td>Pacientes - Personas adultas que necesitan atención médica</td></tr>
+    <tr><td>Fecha Entrevista</td><td>21/06/2025</td></tr>
+    <tr><td>Entrevistador</td><td>Alexander Paolo Justo Yauricasa</td></tr>
     <tr><td>Entrevistado</td><td>...</td></tr>
     <tr><td>Edad</td><td>... años</td></tr>
     <tr><td>Distrito</td><td>....</td></tr>
     <tr><td>Link del Video</td><td><a href="link">Ver Video</a></td></tr>
-    <tr><td>Minuto de Inicio</td><td>00:01</td></tr>
-    <tr><td>Duración</td><td>08:52 minutos</td></tr>
-    <tr><td>Imagen</td><td><img src="../images/Entrevista2_validation.png" alt="Entrevista 1" height="380"/></td></tr>
+    <tr><td>Minuto de Inicio</td><td>04:45</td></tr>
+    <tr><td>Duración</td><td>04:54 minutos</td></tr>
+    <tr><td>Imagen</td><td><img src="../assets/Interview Validation 2.png" alt="Entrevista 1" height="380"/></td></tr>
     <tr><td>Resumen</td><td>El entrevistado .....</td></tr>
 </table><br>
 
 
 <table border="1" cellpadding="8" cellspacing="0">
     <tr><th colspan="2">Entrevista 3</th></tr>
-    <tr><td>Segmento Objetivo</td><td>...	</td></tr>
-    <tr><td>Fecha Entrevista</td><td>00/06/2025</td></tr>
-    <tr><td>Entrevistador</td><td>...</td></tr>
+    <tr><td>Segmento Objetivo</td><td>Pacientes - Personas adultas que necesitan atención médica</td></tr>
+    <tr><td>Fecha Entrevista</td><td>21/06/2025</td></tr>
+    <tr><td>Entrevistador</td><td>Eddo Su Caletti</td></tr>
     <tr><td>Entrevistado</td><td>...</td></tr>
     <tr><td>Edad</td><td>... años</td></tr>
     <tr><td>Distrito</td><td>....</td></tr>
     <tr><td>Link del Video</td><td><a href="link">Ver Video</a></td></tr>
-    <tr><td>Minuto de Inicio</td><td>00:01</td></tr>
-    <tr><td>Duración</td><td>08:52 minutos</td></tr>
-    <tr><td>Imagen</td><td><img src="../assets/Foto_Entrevista111.png" alt="Entrevista 1" height="380"/></td></tr>
-    <tr><td>Resumen</td><td>El entrevistado .....</td></tr>
+    <tr><td>Minuto de Inicio</td><td>09:38</td></tr>
+    <tr><td>Duración</td><td>04:59 minutos</td></tr>
+    <tr><td>Imagen</td><td><img src="../assets/Interview Validation 3.png" alt="Entrevista 1" height="380"/></td></tr>
+    <tr><td>Resumen</td><td>El entrevistado, ...</td></tr>
 </table><br>
 
 
 <table border="1" cellpadding="8" cellspacing="0">
     <tr><th colspan="2">Entrevista 4</th></tr>
-    <tr><td>Segmento Objetivo</td><td>...	</td></tr>
-    <tr><td>Fecha Entrevista</td><td>00/06/2025</td></tr>
-    <tr><td>Entrevistador</td><td>...</td></tr>
-    <tr><td>Entrevistado</td><td>...</td></tr>
-    <tr><td>Edad</td><td>... años</td></tr>
-    <tr><td>Distrito</td><td>....</td></tr>
+    <tr><td>Segmento Objetivo</td><td>Médicos - Generales y especialistas con experiencia</td></tr>
+    <tr><td>Fecha Entrevista</td><td>21/06/2025</td></tr>
+    <tr><td>Entrevistador</td><td>Ariana Lizeth Ramirez Carrasco</td></tr>
+    <tr><td>Entrevistado</td><td>Billy Ruiz Madrid</td></tr>
+    <tr><td>Edad</td><td>26 años</td></tr>
+    <tr><td>Distrito</td><td>Chorrillos </td></tr>
     <tr><td>Link del Video</td><td><a href="link">Ver Video</a></td></tr>
-    <tr><td>Minuto de Inicio</td><td>00:01</td></tr>
-    <tr><td>Duración</td><td>08:52 minutos</td></tr>
-    <tr><td>Imagen</td><td><img src="../assets/Foto_Entrevista111.png" alt="Entrevista 1" height="380"/></td></tr>
-    <tr><td>Resumen</td><td>El entrevistado .....</td></tr>
+    <tr><td>Minuto de Inicio</td><td>14:38</td></tr>
+    <tr><td>Duración</td><td>03:40 minutos</td></tr>
+    <tr><td>Imagen</td><td><img src="../assets/Interview Validation 4.png" alt="Entrevista 1" height="380"/></td></tr>
+    <tr><td>Resumen</td><td>El entrevistado, brindó retroalimentación positiva respecto al uso del frontend de VitaMeet. Mencionó que registrar sus horarios de atención fue un proceso fácil y rápido, destacando la claridad del formulario y la posibilidad de establecer rangos específicos sin complicaciones. Sobre la gestión de agenda, consideró que la herramienta es muy útil para organizar sus consultas diarias, ya que le permite visualizar su jornada médica con orden y anticipación. Asimismo, indicó que ha notado una ligera reducción en el ausentismo de pacientes desde que utiliza la plataforma, lo cual atribuye a los recordatorios automáticos. Respecto al historial médico, comentó que poder visualizar la información clínica de cada paciente mejora significativamente la calidad de atención, ya que puede conocer antecedentes antes de cada consulta.</td></tr>
 </table><br>
 
 
 <table border="1" cellpadding="8" cellspacing="0">
     <tr><th colspan="2">Entrevista 5</th></tr>
-    <tr><td>Segmento Objetivo</td><td>...	</td></tr>
+    <tr><td>Segmento Objetivo</td><td>Médicos - Generales y especialistas con experiencia</td></tr>
     <tr><td>Fecha Entrevista</td><td>00/06/2025</td></tr>
     <tr><td>Entrevistador</td><td>...</td></tr>
     <tr><td>Entrevistado</td><td>...</td></tr>
@@ -478,7 +478,7 @@ Estas preguntas nos ayudarán a saber cuál es la experiencia de usuario, si nue
     <tr><td>Link del Video</td><td><a href="link">Ver Video</a></td></tr>
     <tr><td>Minuto de Inicio</td><td>00:01</td></tr>
     <tr><td>Duración</td><td>08:52 minutos</td></tr>
-    <tr><td>Imagen</td><td><img src="../assets/Foto_Entrevista111.png" alt="Entrevista 1" height="380"/></td></tr>
+    <tr><td>Imagen</td><td><img src="../assets/Interview Validation 5.png" alt="Entrevista 1" height="380"/></td></tr>
     <tr><td>Resumen</td><td>El entrevistado .....</td></tr>
 </table><br>
 
