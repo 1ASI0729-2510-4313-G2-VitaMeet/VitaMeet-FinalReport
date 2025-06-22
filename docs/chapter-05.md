@@ -256,6 +256,84 @@ Para el sprint presentado de la landing page se optó por varias herramientas pa
 Para llevar a cabo los registros de nuestros avances durante el primer Sprint de desarrollo, empleamos GitHub. Un miembro del equipo inició el proceso con un primer registro para establecer el repositorio y creó muchas ramas para poder trabajar sin interrumpir el avance de otro compañero. Posteriormente, hicimos una copia local del repositorio mediante Git, realizamos las modificaciones en GitHub. Finalmente, completamos el proceso con un registro de los cambios, el cual será examinado en el repositorio de GitHub.
 
 * A través de GitHub es donde se registran problemas. La sección de "Issues" en GitHub sirve como un tablero virtual donde los colaboradores registran problemas, errores o mejoras que necesitan ser abordados en un proyecto web. Estas entradas proporcionan una manera estructurada de organizar y priorizar el trabajo, facilitando la comunicación entre los miembros del equipo. 
+### 5.2.3. Sprint 3
+#### 5.2.3.1. Sprint Planning 3
+
+| Sprint 3                   | Correción de errores del frotend e implementación  del parte del backend                                                                                                |
+|----------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Sprint Planning Background |                                                                                                                                                                                                        |
+| Date                       | 18/06/2025                                                                                                                                                                                             |
+| Time                       | 14:00                                                                                                                                                                                                  |
+| Location                   | Reunión realizada mediante Discord                                                                                                                                                                     |
+| Prepared By                | Esteban Garcia, Nicolas Sebastian                                                                                                                                                                      |
+| Attendees                  | Alexander Paolo Justo Yauricasa, Ariana Lizeth Ramirez Carrasc,Fabian Alonso Reyes Trujillano,Miguel Angel Vidal Castro	 |
+| Sprint Goal & User Stories |                                                                                                                                                                                                        |
+| Sprint 2 Goal              | Completar el frontend y realizar parte del backend (Funciones principales)                                                                                                                                                                  |
+| Sprint 2 Velocity          | 40                                                                                                                                                                                                     |
+| Sum of Story Points        | 41                                                                                                                                                                                                     |
+
+#### 5.2.3.2 Sprint Backlog 3
+
+| User Story |  | Work-Item/Task |  |  |  |  |
+|------------|----------------|-------------|--------------------------------|-----------|------------------|--------|
+| ID         | Title          | ID          | Title                          | Description                     | Estimation | Assigned To      | Status |
+| US2       | Configuración Inicial del Servidor | W213a | Preparar el entorno del servidor | Preparación del entorno del servidor con las herramientas y software necesarios. | 1 hora  | Djalma Dioses | Done   |
+| US2       | Configuración Inicial del Servidor | W213b | Configurar parámetros del servidor | Establecimiento de parámetros de configuración del servidor para optimización del rendimiento. | 1 hora  | Djalma Dioses Santos | Done   |
+| US3     | Autenticación y Seguridad Básica | W216a | Configurar protocolos de seguridad | Configuración de protocolos de seguridad como SSL/TLS para la protección de datos en tránsito. | 2 horas | Johan Principe Godoy | Done   |
+| US3       | Autenticación y Seguridad Básica | W216b | Implementar sistema de autenticación | Desarrollo e implementación de un sistema de autenticación basado en tokens o sesiones. | 2 horas | Johan Principe Godoy | Done   |
+| US3       | Autenticación y Seguridad Básica | W216c | Testear seguridad y autenticación | Realización de pruebas para validar la seguridad y la efectividad de la autenticación. | 1 hora  | Braulio Torrejon Navarro | Done   |
+| US4       | Configuración de Logging y Monitoreo | W217a | Instalar herramientas de logging | Instalación y configuración de herramientas para el logging de actividades del sistema. | 1 hora  | Braulio Torrejon Navarro | Done   |
+| US4       | Configuración de Logging y Monitoreo | W217b | Configurar monitoreo del sistema | Configuración de herramientas de monitoreo para supervisar el rendimiento y la estabilidad del sistema. | 1 hora  | Braulio Torrejon Navarro | Done   |
+| US4       | Configuración de Logging y Monitoreo | W217c | Crear dashboards de monitoreo | Creación de dashboards para visualizar en tiempo real la información de logging y monitoreo. | 1 hora  | Nicolas Esteban Garcia | Done   |
+
+#### 5.2.3.3. Development Evidence for Sprint Review.
+
+| Repository              | Branch                     | Commit ID | Commit Message                                                 | Commit Message Body | Commited On(Date) |
+|-------------------------|----------------------------|-----------|----------------------------------------------------------------|---------------------|-------------------|
+| Backend | feature/evaluation          | 00b56ed | add ecaluation                                | -                   | 15/06/2025        |
+| Backend | feature/gestionar-agenda             | 47dabcc   | add agenda                            | -                   | 15/06/2025        |
+| Backend | feature/gestionar-citas            | 47dabcc | Add dates                                          | -                   | 15/06/2025        |
+| Backend | feature/login          | 47dabcc   | feat: add login                 | -                   | 15/06/2025        |
+| Backend | feature/reguister | 47dabcc   | feat: add reguister                                | -                   | 15/06/2025        |
+
+
+#### 5.2.3.5. Execution Evidence for Sprint Review.
+
+Para el sprint 3 se ha presentado el back-end y se optó por varias herramientas para su desarrollo:
+
+- *Git*: Se utilizó para el control de versiones del código fuente.
+- *GitFlow*: Se utilizó para ver el avance de los integrantes del equipo.
+- *GitHub*: Se utilizó para crear el repositorio del back-end, donde se subió el código fuente.
+- *Swagger*: Se utilizó para documentar la API RESTful.
+- *MySQL*: Se utilizó para la base de datos.
+
+
+#### 5.2.3.6. Services Documentation Evidence for Sprint Review
+
+- En el mundo de la programación y el desarrollo web, los endpoints juegan un papel crucial en la comunicación entre el cliente y el servidor. Imagina un endpoint como un punto de entrada específico en una aplicación o servicio web, similar a una puerta de acceso en un edificio con múltiples habitaciones. Cada endpoint está asociado con una ruta única, que generalmente se expresa como una URL. Cuando un cliente, como un navegador web o una aplicación móvil, envía una solicitud a un servidor, especifica el endpoint al que desea acceder. El servidor, a su vez, procesa esa solicitud y responde con la información o la acción correspondiente. Los endpoints actúan como controladores de tráfico, dirigiendo y gestionando las solicitudes de los usuarios hacia las partes relevantes de la aplicación. Cada endpoint puede ofrecer diferentes funcionalidades, desde mostrar información estática hasta realizar operaciones complejas en la base de datos. Al definir y documentar endpoints, los desarrolladores proporcionan una guía clara sobre cómo interactuar con su aplicación. Esto facilita a otros desarrolladores entender cómo integrar su aplicación en la suya, así como a los usuarios comprender qué acciones pueden realizar y cómo hacerlo.
+  
+| Endpoint   | Detalles                                                                                     |
+|------------|----------------------------------------------------------------------------------------------|
+| /evaluation      | En esta ruta se gestionan las evaluaciones de las citas.                                       |
+| /gestion-agenda    | En esta ruta se gestionan la agendas de los medicos.        |
+| /gestion-citas     | En esta ruta se gestionan las citas realizadas por los clientes.                 |
+| /loguin   | En esta ruta se gestionan los ajustes del loguin.                                                |
+
+#### 5.2.3.7. Software Deployment Evidence for Sprint Review.
+
+Para el sprint presentado del Banck-end se optó por varias herramientas para su desarrollo y despliegue de manera pública.
+
+* Git: Se utilizó para el control de versiones del código fuente.
+* GitFlow: Se utilizó para ver el avance de los integrantes del equipo.
+* GitHub: Se utilizó para crear el repositorio del backend, donde se subió el código fuente.
+* Azure: Se utilizó esta herramienta ya que nos ofrece un despliegue rápido de una maquiva virtual.
+* Intellij: Se utilizó esta herramienta de programacion para codificar cada content realizado en el trabajo.
+* Spring: Se utilizó esta framework para generar una base para el back del proyecto.
+* Swagger: Se utilizó esta herramienta para la documentacion de nuestras APIs.
+
+#### 5.2.3.8. Team Collaboration Insights during Sprint.
+
+Durante el Sprint 3, se desarrollaron diversas funcionalidades clave para el backend de la aplicación. Para gestionar esto de manera eficiente, se crearon ramas específicas para cada funcionalidad, permitiendo un desarrollo aislado y organizado. Cada feature fue implementada y confirmada mediante commits individuales antes de ser fusionada con la rama de desarrollo (develop). Posteriormente, se verificó minuciosamente la ausencia de conflictos para asegurar la integridad del código. Una vez confirmada la estabilidad, se realizó la fusión final con la rama de producción (main).
 
 
 ### 5.3 Validation Interviews
