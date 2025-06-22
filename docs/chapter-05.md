@@ -321,3 +321,370 @@ Estas preguntas nos ayudarán a saber cuál es la experiencia de usuario, si nue
 
 10.¿Recomendarías VitaMeet a amigos o familiares para agendar citas médicas? ¿Por qué?
 
+
+<h4 id="registryInterviews">5.3.2. Registro de Entrevistas</h4>
+
+<table border="1" cellpadding="8" cellspacing="0">
+    <tr><th colspan="2">Entrevista 1</th></tr>
+    <tr><td>Segmento Objetivo</td><td>.....	</td></tr>
+    <tr><td>Fecha Entrevista</td><td>21/06/2025</td></tr>
+    <tr><td>Entrevistador</td><td>....</td></tr>
+    <tr><td>Entrevistado</td><td>....</td></tr>
+    <tr><td>Edad</td><td>.... años</td></tr>
+    <tr><td>Distrito</td><td>Chorrillos </td></tr>
+    <tr><td>Link del Video</td><td><a href="link">Ver Video</a></td></tr>
+    <tr><td>Minuto de Inicio</td><td>00:00</td></tr>
+    <tr><td>Duración</td><td>00:00 minutos</td></tr>
+    <tr><td>Imagen</td><td><img src="../images/Entrevista1_validation.png" alt="Entrevista 1" height="360"/></td></tr>
+    <tr><td>Resumen</td><td>El entrevistado ....</td></tr>
+</table><br>
+
+
+<table border="1" cellpadding="8" cellspacing="0">
+    <tr><th colspan="2">Entrevista 2</th></tr>
+    <tr><td>Segmento Objetivo</td><td>...	</td></tr>
+    <tr><td>Fecha Entrevista</td><td>00/06/2025</td></tr>
+    <tr><td>Entrevistador</td><td>...</td></tr>
+    <tr><td>Entrevistado</td><td>...</td></tr>
+    <tr><td>Edad</td><td>... años</td></tr>
+    <tr><td>Distrito</td><td>....</td></tr>
+    <tr><td>Link del Video</td><td><a href="link">Ver Video</a></td></tr>
+    <tr><td>Minuto de Inicio</td><td>00:01</td></tr>
+    <tr><td>Duración</td><td>08:52 minutos</td></tr>
+    <tr><td>Imagen</td><td><img src="../images/Entrevista2_validation.png" alt="Entrevista 1" height="380"/></td></tr>
+    <tr><td>Resumen</td><td>El entrevistado .....</td></tr>
+</table><br>
+
+
+<table border="1" cellpadding="8" cellspacing="0">
+    <tr><th colspan="2">Entrevista 3</th></tr>
+    <tr><td>Segmento Objetivo</td><td>...	</td></tr>
+    <tr><td>Fecha Entrevista</td><td>00/06/2025</td></tr>
+    <tr><td>Entrevistador</td><td>...</td></tr>
+    <tr><td>Entrevistado</td><td>...</td></tr>
+    <tr><td>Edad</td><td>... años</td></tr>
+    <tr><td>Distrito</td><td>....</td></tr>
+    <tr><td>Link del Video</td><td><a href="link">Ver Video</a></td></tr>
+    <tr><td>Minuto de Inicio</td><td>00:01</td></tr>
+    <tr><td>Duración</td><td>08:52 minutos</td></tr>
+    <tr><td>Imagen</td><td><img src="../assets/Foto_Entrevista111.png" alt="Entrevista 1" height="380"/></td></tr>
+    <tr><td>Resumen</td><td>El entrevistado .....</td></tr>
+</table><br>
+
+
+<table border="1" cellpadding="8" cellspacing="0">
+    <tr><th colspan="2">Entrevista 4</th></tr>
+    <tr><td>Segmento Objetivo</td><td>...	</td></tr>
+    <tr><td>Fecha Entrevista</td><td>00/06/2025</td></tr>
+    <tr><td>Entrevistador</td><td>...</td></tr>
+    <tr><td>Entrevistado</td><td>...</td></tr>
+    <tr><td>Edad</td><td>... años</td></tr>
+    <tr><td>Distrito</td><td>....</td></tr>
+    <tr><td>Link del Video</td><td><a href="link">Ver Video</a></td></tr>
+    <tr><td>Minuto de Inicio</td><td>00:01</td></tr>
+    <tr><td>Duración</td><td>08:52 minutos</td></tr>
+    <tr><td>Imagen</td><td><img src="../assets/Foto_Entrevista111.png" alt="Entrevista 1" height="380"/></td></tr>
+    <tr><td>Resumen</td><td>El entrevistado .....</td></tr>
+</table><br>
+
+
+<table border="1" cellpadding="8" cellspacing="0">
+    <tr><th colspan="2">Entrevista 5</th></tr>
+    <tr><td>Segmento Objetivo</td><td>...	</td></tr>
+    <tr><td>Fecha Entrevista</td><td>00/06/2025</td></tr>
+    <tr><td>Entrevistador</td><td>...</td></tr>
+    <tr><td>Entrevistado</td><td>...</td></tr>
+    <tr><td>Edad</td><td>... años</td></tr>
+    <tr><td>Distrito</td><td>....</td></tr>
+    <tr><td>Link del Video</td><td><a href="link">Ver Video</a></td></tr>
+    <tr><td>Minuto de Inicio</td><td>00:01</td></tr>
+    <tr><td>Duración</td><td>08:52 minutos</td></tr>
+    <tr><td>Imagen</td><td><img src="../assets/Foto_Entrevista111.png" alt="Entrevista 1" height="380"/></td></tr>
+    <tr><td>Resumen</td><td>El entrevistado .....</td></tr>
+</table><br>
+
+
+<h4 id="heuristicEvaluation">5.3.3. Evaluaciones según heurísticas</h4>
+
+<div align='center'>
+    <h2>UX Heuristics & Principles Evaluation</h2>
+    <h3>Usability – Inclusive Design – Information Architecture</h3>
+</div>
+
+<p><strong>CARRERA:</strong> Ingeniería de Software</p>
+<p><strong>CURSO:</strong> Desarrollo de Aplicaciones Open Source</p>
+<p><strong>SECCIÓN:</strong> 4313</p>
+<p><strong>PROFESORES:</strong> Alberto Wilmer Sanchez Seña</p>
+<p><strong>AUDITOR:</strong> MetaDevs</p>
+<p><strong>CLIENTE(S):</strong> Alexander Paolo Justo Yauricasa - Ariana Lizeth Ramirez Carrasco - Fabian Alonso Reyes Trujillano - Eddo Su Caletti - Miguel Angel Vidal Castro.</p>
+
+<hr>
+
+<br>
+
+<strong>SITE O APP A EVALUAR:</strong>
+<P>Landing Page & Web Application of VitaMeet</p>
+
+<br>
+
+<strong>TAREAS A EVALUAR:</strong>
+<p>El alcance de esta evaluación incluye la revisión de las siguientes tareas:</p>
+
+<ol>
+    <li>Evaluar si el propósito de <strong>VitaMeet</strong> se entiende claramente con solo ver la página</li>
+    <li>Revisar la claridad de los mensajes, secciones y <em>Call-to-Actions</em></li>
+    <li>Comprobar si el diseño transmite confianza y profesionalismo</li>
+    <li>Validar si la información presentada resulta atractiva y relevante para posibles usuarios</li>
+    <li>Agendar una nueva cita médica</li>
+    <li>Visualizar el historial clínico</li>
+    <li>Gestionar citas médicas (reprogramar/cancelar)</li>
+</ol>
+
+<br>
+
+<p>No están incluidas en esta versión de la evaluación las siguientes tareas:</p>
+<ol>
+    <li>Registrar una nueva cuenta</li>
+    <li>Búsqueda de médicos por especialidad, distrito y disponibilidad detallada.</li>
+    <li>Envío de recordatorios automáticos (WhatsApp, correo, SMS)</li>
+    <li>Sistema de calificaciones y reseñas de médicos</li>
+
+</ol>
+
+<br>
+
+<strong>ESCALA DE SEVERIDAD:</strong>
+<p>Los errores serán puntuados tomando en cuenta la siguiente escala de severidad</p>
+
+<table>
+    <tr>
+        <th style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Nivel</th>
+        <th style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Descripción</th>
+    </tr>
+    <tr>
+        <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">1</td>
+        <td style="border: 1px solid #dddddd; padding: 8px; text-align: justify;">Problema superficial: puede ser fácilmente superador por el usuario ó ocurre con muy poco frecuencia. No necesita ser arreglado a no ser que exista disponibilidad de tiempo.</td>
+    </tr>
+    <tr>
+        <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">2</td>
+        <td style="border: 1px solid #dddddd; padding: 8px; text-align: justify;">Problema menor: puede ocurrir un poco más frecuentemente o es un poco más difícil de superar para el usuario. Se le debería asignar una prioridad baja resolverlo de cara al siguiente reléase</td>
+    </tr>
+    <tr>
+        <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">3</td>
+        <td style="border: 1px solid #dddddd; padding: 8px; text-align: justify;">Problema mayor: ocurre frecuentemente o los usuarios no son capaces de resolverlos. Es importante que sean corregidos y se les debe asignar una prioridad alta.</td>
+    </tr>
+    <tr>
+        <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">4</td>
+        <td style="border: 1px solid #dddddd; padding: 8px; text-align: justify;">Problema muy grave: un error de gran impacto que impide al usuario continuar con el uso dela herramienta. Es imperativo que sea corregido antes del lanzamiento.</td>
+    </tr>
+</table>
+
+<br>
+
+<strong>TABLA RESUMEN:</strong>
+
+<br>
+
+<table>
+    <tr>
+        <th style="border: 1px solid #dddddd; padding: 8px; text-align: center;">#</th>
+        <th style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Problema</th>
+        <th style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Escala de severidad</th>
+        <th style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Heurística/Principio violada(o)</th>
+    </tr>
+    <tr>
+        <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">1</td>
+        <td style="border: 1px solid #dddddd; padding: 8px; text-align: justify;">La información del historial médico se muestra duplicada para el mismo paciente.</td>
+        <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">3</td>
+        <td style="border: 1px solid #dddddd; padding: 8px; text-align: justify;">Usability: Consistency and Standards - <strong>Are there clear internal and external consistencies?</strong></td>
+    </tr>
+    <tr>
+        <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">2</td>
+        <td style="border: 1px solid #dddddd; padding: 8px; text-align: justify;">Falta de un indicador visual claro para el estado de la cita (confirmada, pendiente, etc.) en la gestión de citas médicas.</td>
+        <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">2</td>
+        <td style="border: 1px solid #dddddd; padding: 8px; text-align: justify;">Usability: Visibility of System Status - <strong>Does the website keep users informed about what is going on?</strong></td>
+    </tr>
+    <tr>
+        <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">3</td>
+        <td style="border: 1px solid #dddddd; padding: 8px; text-align: justify;">No hay un mensaje de confirmación claro después de confirmar una cita, lo que puede generar incertidumbre en el usuario.</td>
+        <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">2</td>
+        <td style="border: 1px solid #dddddd; padding: 8px; text-align: justify;">Usability: Visibility of System Status - <strong>Does the website keep users informed about what is going on?</strong></td>
+    </tr>
+    <tr>
+        <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">4</td>
+        <td style="border: 1px solid #dddddd; padding: 8px; text-align: justify;">La funcionalidad de "Buscar doctor" en el agendamiento de citas no parece tener una indicación visual de filtro o búsqueda activa.</td>
+        <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">1</td>
+        <td style="border: 1px solid #dddddd; padding: 8px; text-align: justify;">Usability: Recognition rather than recall - <strong>Is information easily recognizable or do users have to recall information?</strong></td>
+    </tr>
+    <tr>
+        <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">5</td>
+        <td style="border: 1px solid #dddddd; padding: 8px; text-align: justify;">La gestión de citas médicas muestra fechas con años anteriores al actual (2030-06-14), lo cual es incongruente con citas activas.</td>
+        <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">3</td>
+        <td style="border: 1px solid #dddddd; padding: 8px; text-align: justify;">Usability: Match between system and the real world - <strong>Is the system clear and easy to understand?</strong></td>
+    </tr>
+    <tr>
+        <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">6</td>
+        <td style="border: 1px solid #dddddd; padding: 8px; text-align: justify;">No hay un sistema de paginación o búsqueda en el historial médico, lo que podría dificultar la navegación para usuarios con muchas entradas.</td>
+        <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">2</td>
+        <td style="border: 1px solid #dddddd; padding: 8px; text-align: justify;">Information Architecture: <strong>Is it accessible?</strong></td>
+    </tr>
+</table>
+
+<br>
+
+<strong>DESCRIPCIÓN DE PROBLEMAS:</strong>
+
+<p><strong>Problema #1:</strong> La información del historial médico se muestra duplicada para el mismo paciente.</p>
+
+<p><strong>Severidad:</strong> 3</p>
+
+<p><strong>Heurística/Principio violada(o):</strong> Usability: Consistency and Standards - <strong>Are there clear internal and external consistencies?</strong></p>
+
+<strong>Problema:</strong>
+
+<p>En la sección de "Historial Médico", se observa que la información de "Nombre: María García" se repite exactamente dos veces con los mismos datos (Edad, Teléfono, Dirección, Diagnóstico, Tratamiento, Fecha). Esto genera redundancia y una mala experiencia de usuario, haciendo que el historial parezca desorganizado o incorrecto.</p>
+
+<div align='center'>
+    <img src="../assets/problema1-evaluacionheuristica.jpeg" alt="Problem-#1-Audit" style="width:600;height:auto;">
+</div>
+
+<br>
+
+<strong>Recomendación:</strong>
+
+<p>Implementar una lógica para evitar la duplicación de registros de historial médico. Cada entrada debería ser única, posiblemente agrupando por paciente y mostrando un listado cronológico de sus citas, diagnósticos y tratamientos. Si se trata de citas distintas del mismo paciente, deben tener detalles que las diferencien claramente (por ejemplo, fecha y hora de la cita específica).</p>
+
+<hr>
+
+<br>
+
+<p><strong>Problema #2:</strong> Falta de un indicador visual claro para el estado de la cita (confirmada, pendiente, etc.) en la gestión de citas médicas.</p>
+
+<p><strong>Severidad:</strong> 2</p>
+
+<p><strong>Heurística/Principio violada(o):</strong> Usability: Visibility of System Status - <strong>Does the website keep users informed about what is going on?</strong></p>
+
+<strong>Problema:</strong>
+
+<p>En la sección "Gestión de Citas Médicas", todas las citas se muestran de la misma manera, con los botones "Reprogramar" y "Cancelar". No hay un indicador visual que diferencie si una cita está confirmada, pendiente, completada o si ha sido cancelada o reprogramada previamente. Esto puede generar confusión sobre el estado actual de las citas.</p>
+
+<div align='center'>
+    <img src="../assets/problema2-evaluacionheuristica.jpeg" alt="Problem-#2-Audit" style="width:600;height:auto;">
+</div>
+
+<br>
+
+<strong>Recomendación:</strong>
+
+<p>Añadir un "tag" o etiqueta visual al lado de cada cita que indique su estado actual (ej. "Confirmada", "Pendiente", "Completada", "Cancelada"). También se podría cambiar la apariencia de los botones "Reprogramar" y "Cancelar" (deshabilitarlos o cambiarlos de color) según el estado de la cita, por ejemplo, si ya fue completada.</p>
+
+<hr>
+
+<br>
+
+
+<p><strong>Problema #3:</strong> No hay un mensaje de confirmación claro después de confirmar una cita, lo que puede generar incertidumbre en el usuario.</p>
+
+<p><strong>Severidad:</strong> 2</p>
+
+<p><strong>Heurística/Principio violada(o):</strong> Usability: Visibility of System Status - <strong>Does the website keep users informed about what is going on?</strong></p>
+
+<strong>Problema:</strong>
+
+<p>Una vez que el usuario hace clic en "Confirmar cita", la imagen no muestra qué sucede a continuación. Es crucial que el sistema proporcione una retroalimentación clara de que la cita ha sido agendada con éxito, o si hubo algún problema. La falta de este mensaje puede dejar al usuario dudando si su acción fue procesada correctamente.</p>
+
+<div align='center'>
+    <img src="../assets/problema3-evaluacionheuristica.jpeg" alt="Problem-#4-Audit" style="width:600;height:auto;">
+</div>
+
+<br>
+
+<strong>Recomendación:</strong>
+
+<p>Al confirmar la cita, mostrar un mensaje de éxito prominente (ej. un banner verde o un modal flotante) que diga "¡Cita confirmada con éxito!" e idealmente, redirigir al usuario a la sección de "Gestión de Citas Médicas" donde pueda ver su nueva cita listada. También se podría ofrecer la opción de agregar la cita al calendario personal.</p>
+
+<hr>
+
+<br>
+
+<p><strong>Problema #4:</strong> La funcionalidad de "Buscar doctor" en el agendamiento de citas no parece tener una indicación visual de filtro o búsqueda activa.</p>
+
+<p><strong>Severidad:</strong> 1</p>
+
+<p><strong>Heurística/Principio violada(o):</strong> Usability: Recognition rather than recall - <strong>Is information easily recognizable or do users have to recall information?</strong></p>
+
+<strong>Problema:</strong>
+
+<p>En la sección de "Doctores", hay un campo "Buscar doctor...". Aunque la funcionalidad de búsqueda es útil, no hay un botón de "buscar" explícito o un indicador de que al escribir se filtrarán los resultados, lo que podría no ser intuitivo para todos los usuarios. No se visualiza si el campo es de autocompletado o si requiere una acción posterior para activar la búsqueda.</p>
+
+<div align='center'>
+    <img src="../assets/problema4-evaluacionheuristica.jpeg" alt="Problem-#5-Audit" style="width:600;height:auto;">
+</div>
+
+<br>
+
+<strong>Recomendación:</strong>
+
+<p>Añadir un icono de lupa dentro o al lado del campo de búsqueda para indicar su función. Si la búsqueda es instantánea, indicarlo con un texto pequeño como "Filtra por nombre..." o si requiere presionar Enter o un botón, hacer ese botón explícito. Esto mejora la detectabilidad de la funcionalidad.</p>
+
+<hr>
+
+<br>
+
+
+<p><strong>Problema #5:</strong> La gestión de citas médicas muestra fechas con años anteriores al actual (2030-06-14), lo cual es incongruente con citas activas.</p>
+
+<p><strong>Severidad:</strong> 3</p>
+
+<p><strong>Heurística/Principio violada(o):</strong> Usability: Match between system and the real world - <strong>Is the system clear and easy to understand?</strong></p>
+
+<strong>Problema:</strong>
+
+<p>En la sección "Gestión de Citas Médicas", se observa una cita con la fecha "2030-06-14". Si bien podría ser una cita futura, dado el contexto de citas "activas" para gestionar, una fecha tan lejana en el futuro puede ser un error de dato o un placeholder que no corresponde a la realidad, lo que confunde al usuario sobre la validez de las citas mostradas.</p>
+
+<div align='center'>
+    <img src="../assets/problema2-evaluacionheuristica.jpeg" alt="Problem-#7-Audit" style="width:600;height:auto;">
+</div>
+
+<br>
+
+<strong>Recomendación:</strong>
+
+<p>Verificar la lógica de visualización y filtrado de citas para asegurar que solo se muestren citas relevantes (ej. futuras o pasadas recientes). Si el año "2030" es un error, corregirlo en la base de datos o en la lógica de generación de datos. Asegurar que las fechas reflejen con precisión cuándo la cita está programada en relación con el "ahora" para el usuario.</p>
+
+<hr>
+
+<br>
+
+<p><strong>Problema #6:</strong> No hay un sistema de paginación o búsqueda en el historial médico, lo que podría dificultar la navegación para usuarios con muchas entradas.</p>
+
+<p><strong>Severidad:</strong> 2</p>
+
+<p><strong>Heurística/Principio violada(o):</strong> Information Architecture: <strong>Is it accessible?</strong></p>
+
+<strong>Problema:</strong>
+
+<p>La sección "Historial Médico" muestra una lista de entradas de historial. Si un paciente tiene un historial extenso (cientos de citas o diagnósticos), la ausencia de paginación, filtros de fecha/médico o una barra de búsqueda podría hacer que la navegación y la búsqueda de información específica sean muy tediosas y lentas.</p>
+
+<div align='center'>
+    <img src="../assets/problema1-evaluacionheuristica.jpeg" alt="Problem-#8-Audit" style="width:600;height:auto;">
+</div>
+
+<br>
+
+<strong>Recomendación:</strong>
+
+<p>Implementar un sistema de paginación para limitar el número de entradas mostradas por página. Adicionalmente, añadir filtros por rango de fechas, por nombre de médico o por tipo de diagnóstico, y una barra de búsqueda para que los usuarios puedan encontrar rápidamente la información deseada en su historial.</p>
+
+<h3 id="aboutProductVideo">5.4. Video About-the-Product</h3>
+
+<div align="center">
+    <img src="../images/Background-Video About-the-Product.png" alt="VitaMeet Promotional Banner" style="width:500;" />
+</div>
+
+<br>
+
+<p align="center">
+   Enlace del <strong>Video About-the-Product</strong>: <a href="https://....">https://....</a>
+</p>
+
