@@ -269,8 +269,8 @@ Para llevar a cabo los registros de nuestros avances durante el primer Sprint de
 | Attendees                  | Alexander Paolo Justo Yauricasa, Ariana Lizeth Ramirez Carrasc,Fabian Alonso Reyes Trujillano,Miguel Angel Vidal Castro	 |
 | Sprint Goal & User Stories |                                                                                                                                                                                                        |
 | Sprint 2 Goal              | Completar el frontend y realizar parte del backend (Funciones principales)                                                                                                                                                                  |
-| Sprint 2 Velocity          | 40                                                                                                                                                                                                     |
-| Sum of Story Points        | 41                                                                                                                                                                                                     |
+| Sprint 2 Velocity          | 10                                                                                                                                                                                                     |
+| Sum of Story Points        | 10                                                                                                                                                                                                     |
 
 #### 5.2.3.2 Sprint Backlog 3
 
