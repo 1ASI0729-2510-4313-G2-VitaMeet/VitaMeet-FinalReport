@@ -279,6 +279,7 @@ Comenzamos con una introducción breve de los entrevistados para recordar quién
 Estas preguntas nos ayudarán a saber cuál es la experiencia de usuario, si nuestro producto llenó las expectativas del usuario, y también saber las posibles mejoras, comentarios y quejas sobre nuestro producto.
 
  Preguntas para Médicos
+ 
 1.¿Te resulta fácil y rápido registrar tus horarios de atención en la plataforma?
 
 2.¿Qué tan útil consideras la función de gestión de agenda para organizar tus consultas diarias?
