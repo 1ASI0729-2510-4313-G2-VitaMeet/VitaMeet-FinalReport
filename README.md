@@ -44,7 +44,7 @@ En este apartado, se van a mencionar los distintos productos de software emplead
 
 ### 5.1.2. Source Code Management.
 
-El manejo y organización del trabajo se llevaron a cabo mediante una organización en Github Organización: https://github.com/SI730-SW53-OpenSource-Grupo5 Landing Page Repository: https://github.com/SI730-SW53-OpenSource-Grupo5/LandingPage-ConnectionLink.git 
+El manejo y organización del trabajo se llevaron a cabo mediante una organización en Github Organización: Landing Page Repository: 
 
 Asimismo, para llevar a cabo un mejor control de cómo crear ramas y realizar cambios en el código fuente, se procedió a utilizar GitFlow.
 
@@ -156,7 +156,7 @@ Link del trello: https://trello.com/b/E7ZyFdYk/vitameet
 
 <img src="./assets/landing.png" alt="Captura landingPage" width="100%"><br/>
 
-**Enlace a la página:** 
+**Enlace a la página:** https://1asi0729-2510-4313-g2-vitameet.github.io/Landing-Page/
 
 #### 5.2.1.6. Services Documentation Evidence for Sprint Review.
 
