@@ -156,7 +156,7 @@ Link del trello: https://trello.com/b/E7ZyFdYk/vitameet
 
 <img src="./assets/landing.png" alt="Captura landingPage" width="100%"><br/>
 
-**Enlace a la página:** https://1asi0729-2510-4313-g2-vitameet.github.io/Landing-Page/
+**Enlace a la página:** [https://1asi0729-2510-4313-g2-vitameet.github.io/Landing-Page/](https://1asi0729-2510-4313-g2-vitameet.github.io/Landing-Page/)
 
 #### 5.2.1.6. Services Documentation Evidence for Sprint Review.
 
