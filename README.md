@@ -23,7 +23,7 @@ Grupo: 02
 
 | Integrantes                                 | Código     |
 |--------------------------------------------|------------|
-| De La Cruz Villarreal, Carlos Alejandro    | U20211C036 |
+| Fernandez Garfias, Alexander Piero         | U202019498 |
 | Justo Yauricasa, Alexander Paolo           | U20191C054 |
 | Ramirez Carrasco, Ariana Lizeth            | U202312932 |
 | Reyes Trujillano, Fabian Alonso            | U202218233 |
