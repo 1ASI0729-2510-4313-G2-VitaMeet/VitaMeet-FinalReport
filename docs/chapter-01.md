@@ -50,7 +50,18 @@ Toda la información es protegida bajo protocolos de seguridad que garantizan la
 Luego de cada cita, los usuarios pueden valorar la calidad de atención recibida, lo que fomenta la mejora continua de los profesionales y permite mantener altos estándares en el servicio ofrecido.
 
 La plataforma representa un paso firme hacia la transformación digital en el sector salud, facilitando el acceso a atención médica confiable y moderna para todos los actores involucrados.
+### 1.2.1 Antecedentes y problemática
+A continuación se presenta un análisis estructurado del problema mediante el modelo de las **5W y 2H**, el cual permite identificar con precisión los aspectos fundamentales que motivaron el desarrollo de la plataforma **VitaMeet**.
 
+| **5W / 2H**     | **Pregunta**                                 | **Descripción**                                                                                                                                                                                                                                                                                  |
+|----------------|----------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Who?**       | ¿Quién es afectado?                          | Pacientes que necesitan atención médica oportuna y accesible, y profesionales de la salud (médicos generales y especialistas) que enfrentan dificultades para organizar eficientemente su agenda y brindar un servicio estructurado y moderno.                                                  |
+| **What?**      | ¿Cuál es el problema?                        | La falta de una herramienta digital centralizada para gestionar citas médicas de manera ágil, confiable y automatizada. Esto ocasiona ausencias frecuentes, confusión en horarios, duplicidad de citas, y pérdida de tiempo tanto para pacientes como para médicos.                           |
+| **When?**      | ¿Cuándo sucede el problema?                  | Este problema ocurre de forma constante, especialmente durante el proceso de programación de citas, ya sea al momento de solicitar una nueva atención o al intentar reprogramar o cancelar una existente. Las fallas del sistema actual afectan la experiencia diaria de usuarios y médicos.   |
+| **Where?**     | ¿Dónde surge el problema?                    | En clínicas, centros médicos y consultorios, tanto públicos como privados, especialmente en zonas urbanas donde hay alta demanda de atención médica pero poca digitalización de los procesos administrativos. La solución puede ser aplicada desde cualquier lugar con acceso a internet.       |
+| **Why?**       | ¿Cuál es la causa del problema?              | El sistema de gestión de citas en muchos centros de salud sigue siendo manual o dependiente de llamadas, lo que provoca ineficiencias, errores administrativos y falta de trazabilidad. Además, no existen soluciones accesibles y adaptadas al contexto local del paciente y el médico.        |
+| **How?**       | ¿Qué llevó a la persona a esta situación?    | Los pacientes se enfrentan a tiempos de espera prolongados, trámites engorrosos y la necesidad de acudir presencialmente para agendar una cita. Por su parte, los médicos lidian con agendas desordenadas, poca flexibilidad y herramientas no integradas. VitaMeet busca resolver esta brecha. |
+| **How Much?**  | ¿Cuál es la cantidad, duración o intensidad del evento? | Las clínicas o centros médicos pueden registrar decenas o cientos de citas por semana. Sin una herramienta adecuada, la tasa de inasistencia puede superar el 25%, según estudios del sector. Esto genera pérdidas económicas y un uso ineficiente de los recursos de salud disponibles.         |
 ### 1.2.2 Lean UX Process
 
 El proceso Lean UX es una metodología ágil enfocada en crear productos digitales centrados en las necesidades reales de los usuarios. Este enfoque se basa en la colaboración continua entre equipos multidisciplinarios, ciclos rápidos de prueba y error, y una validación constante de las ideas antes de invertir grandes recursos en el desarrollo. Aplicado a nuestra plataforma de gestión de citas médicas, Lean UX nos permite construir soluciones útiles y efectivas de forma iterativa, reduciendo riesgos y asegurando que cada funcionalidad responda a un problema real del paciente o del médico.
@@ -59,48 +70,11 @@ El proceso Lean UX es una metodología ágil enfocada en crear productos digital
 
 # VitaMeet: Plataforma de Gestión de Citas Médicas
 
-En el sistema tradicional de atención médica, muchos pacientes enfrentan dificultades al momento de agendar o cancelar citas médicas. Los procesos suelen ser lentos, poco accesibles y, en muchos casos, requieren presencia física o llamadas telefónicas, lo que provoca frustración y pérdida de tiempo. Por otro lado, los médicos también tienen complicaciones para gestionar su agenda, ya que muchas veces no cuentan con herramientas digitales eficaces para administrar su disponibilidad y comunicarse con los pacientes.
+En el sistema de salud peruano, los pacientes enfrentan dificultades constantes para agendar o cancelar citas médicas, debido a procesos lentos, presenciales o dependientes de llamadas telefónicas. Esta falta de accesibilidad y eficiencia genera frustración, pérdida de tiempo y una alta tasa de ausentismo. Por su parte, los médicos también sufren complicaciones al gestionar su agenda sin herramientas digitales adecuadas, lo que afecta la calidad del servicio y aumenta la carga administrativa.
 
-**VitaMeet**, una plataforma web de gestión de citas médicas, tiene como objetivo eliminar estas barreras, ofreciendo una experiencia fluida tanto para pacientes como para médicos. Los pacientes podrán agendar, modificar o cancelar sus citas desde cualquier dispositivo, recibir notificaciones automáticas y acceder a un historial médico organizado. A su vez, los médicos podrán gestionar su disponibilidad, visualizar sus próximas consultas, registrar observaciones y tener una relación más ordenada con sus pacientes.
+**VitaMeet** es una plataforma web diseñada para modernizar la gestión de citas médicas, conectando de forma eficiente a pacientes y médicos. Los pacientes pueden agendar, modificar o cancelar citas desde cualquier dispositivo, recibir recordatorios automáticos y consultar su historial médico. Los médicos, por su parte, tienen acceso a una herramienta que les permite organizar su disponibilidad, gestionar consultas y registrar observaciones de manera estructurada.
 
-Esta plataforma busca optimizar la experiencia médica en ambos extremos del servicio, aumentando la asistencia, reduciendo la carga administrativa y permitiendo una atención médica más organizada y accesible. El proceso actual para agendar y gestionar citas médicas en Perú es ineficiente y poco accesible, lo que conduce a una alta tasa de ausentismo, sobrecarga administrativa para el personal de salud y una atención médica desorganizada.
-
-Según un estudio publicado en la revista *Horizonte Médico*, se determinó que la proporción de ausentismo en citas médicas en un hospital nacional peruano fue del **19.64%**. Este estudio analizó factores personales e institucionales asociados al ausentismo, utilizando registros de programación de citas y bases de datos de atenciones médicas.  
-🔗 [Fuente: Horizonte Médico, USMP](https://www.horizontemedico.usmp.edu.pe/index.php/horizontemed/article/view/2185)
-
-Aunque el **99% de los peruanos** está afiliado a algún seguro de salud, **7 de cada 10 personas no pueden acceder** a la atención que necesitan, debido a demoras, burocracia o falta de disponibilidad.  
-🔗 [Fuente: Banco Mundial](https://blogs.worldbank.org/es/latinamerica/cobertura-salud-peru)
-
-El modelo de gestión del sistema de salud en Perú está sobrecargado de procesos manuales y burocráticos, reduciendo la eficiencia del personal médico y afectando negativamente la experiencia del paciente. Según un reporte de *Infobae* basado en datos del Banco Mundial, el **98% de los establecimientos médicos carece de infraestructura adecuada** y el **52% no se abastece con profesionales médicos**.  
-🔗 [Fuente: Infobae](https://www.infobae.com/peru/2023/11/11/banco-mundial-7-de-10-personas-que-necesitan-atencion-medica-no-la-reciben-en-peru/)
-
-Asimismo, a pesar de contar con seguro, **más del 50% de los usuarios** opta por atenderse en centros privados o farmacias debido a la ineficiencia del sistema público.  
-🔗 [Fuente: Propuestas del Bicentenario, ENAHO-INEI](https://propuestasdelbicentenario.pe/blog/2023/09/25/de-la-teoria-a-la-practica-que-significa-que-mas-del-95-de-peruanos-tenga-un-seguro-de-salud/)
-
----
-
-## Objetivos esperados con VitaMeet
-
--  Disminución del ausentismo en un **30% en los primeros 6 meses**  
-  _Basado en la evidencia del 19.64% de ausentismo actual en hospitales nacionales peruanos._
-
--  Aumento del número de citas agendadas online en un **50%**  
-  _Estimación proyectada por la mejora de accesibilidad digital._
-
--  Reducción de tiempo administrativo en recepción y coordinación médica  
-  _Al reemplazar procesos telefónicos y presenciales por flujos digitales._
-
--  Mayor facilidad para programar o cancelar citas desde el celular o PC  
-  _Accesibilidad multiplataforma garantizada._
-
--  Reducción de tiempos de espera en consultorios  
-  _Gracias a la programación ordenada y gestión eficiente de agenda._
-
--  Notificaciones automáticas para evitar olvidos  
-  _Con sistema de recordatorios por SMS, correo o app._
-
--  Acceso al historial de citas y observaciones médicas de forma organizada  
-  _Base de datos segura con información médica estructurada._
+La plataforma busca reducir el ausentismo, disminuir la carga operativa en los centros de salud y brindar una experiencia médica más ordenada, accesible y centrada en el usuario, tanto para el paciente como para el profesional.
 
 
 ### 1.2.2.2 Lean UX Assumptions
