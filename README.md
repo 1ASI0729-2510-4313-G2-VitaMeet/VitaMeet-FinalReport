@@ -5,7 +5,7 @@
 
 ## Carrera de Ingeniería de Software
 
-Ciclo: 2025 - 01
+Ciclo: 2025 - 05
 
 Curso: Open Source
 
@@ -13,7 +13,7 @@ Sección: 4313
 
 Profesor: Alberto Wilmer Sánchez Seña
 
-"Informe de TB2"
+"Final Report"
 
 Startup: Meta Devs
 
@@ -21,14 +21,15 @@ Producto: Vita Meet
 
 Grupo: 02
 
-|           Integrantes            |   Código   |
-| :------------------------------: | :--------: |
-|    Carlos Alejandro De La Cruz Villarreal    |  U20211C036 |
-|    Alexander Paolo Justo Yauricasa     | U20191C054 |
-|  Ariana Lizeth Ramirez Carrasco   |U202312932 |
-| Fabian Alonso Reyes Trujillano | U202218233|
-|         Eddo Su Caletti          | U20221A390 |
-|        Miguel Angel Vidal Castro       | U202314186 |
+| Integrantes                                 | Código     |
+|--------------------------------------------|------------|
+| Fernandez Garfias, Alexander Piero         | U202019498 |
+| Justo Yauricasa, Alexander Paolo           | U20191C054 |
+| Ramirez Carrasco, Ariana Lizeth            | U202312932 |
+| Reyes Trujillano, Fabian Alonso            | U202218233 |
+| Su Caletti, Eddo                           | U20221A390 |
+| Vidal Castro, Miguel Angel                 | U202314186 |
+
 
 Abril 2025
 
