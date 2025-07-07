@@ -427,7 +427,7 @@ Estas preguntas nos ayudarán a saber cuál es la experiencia de usuario, si nue
     <tr><td>Entrevistado</td><td>Renzo Baldeon</td></tr>
     <tr><td>Edad</td><td>26 años</td></tr>
     <tr><td>Distrito</td><td>....</td></tr>
-    <tr><td>Link del Video</td><td><a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202312932_upc_edu_pe/EXyTK9xWislHoQ4S_nrb29AB5a2PoV79bNoCOvrfHDZH5w?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=a5EAI3">Ver Video</a></td></tr>
+    <tr><td>Link del Video</td><td><a href="https://shorturl.at/n7feu">Ver Video</a></td></tr>
     <tr><td>Minuto de Inicio</td><td>04:45</td></tr>
     <tr><td>Duración</td><td>04:54 minutos</td></tr>
     <tr><td>Imagen</td><td><img src="../assets/Interview Validation 2.png" alt="Entrevista 1" height="380"/></td></tr>
@@ -443,7 +443,7 @@ Estas preguntas nos ayudarán a saber cuál es la experiencia de usuario, si nue
     <tr><td>Entrevistado</td><td>Gian Franco Alminagorda Capcha</td></tr>
     <tr><td>Edad</td><td>20 años</td></tr>
     <tr><td>Distrito</td><td>La molina</td></tr>
-    <tr><td>Link del Video</td><td><a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202312932_upc_edu_pe/EXyTK9xWislHoQ4S_nrb29AB5a2PoV79bNoCOvrfHDZH5w?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=a5EAI3">Ver Video</a></td></tr>
+    <tr><td>Link del Video</td><td><a href="https://shorturl.at/RH6VT">Ver Video</a></td></tr>
     <tr><td>Minuto de Inicio</td><td>09:38</td></tr>
     <tr><td>Duración</td><td>04:59 minutos</td></tr>
     <tr><td>Imagen</td><td><img src="../assets/Interview Validation 3.png" alt="Entrevista 1" height="380"/></td></tr>
@@ -459,7 +459,7 @@ Estas preguntas nos ayudarán a saber cuál es la experiencia de usuario, si nue
     <tr><td>Entrevistado</td><td>Billy Ruiz Madrid</td></tr>
     <tr><td>Edad</td><td>26 años</td></tr>
     <tr><td>Distrito</td><td>Chorrillos </td></tr>
-    <tr><td>Link del Video</td><td><a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202312932_upc_edu_pe/EXyTK9xWislHoQ4S_nrb29AB5a2PoV79bNoCOvrfHDZH5w?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=a5EAI3">Ver Video</a></td></tr>
+    <tr><td>Link del Video</td><td><a href="https://shorturl.at/NI1sh">Ver Video</a></td></tr>
     <tr><td>Minuto de Inicio</td><td>14:38</td></tr>
     <tr><td>Duración</td><td>03:40 minutos</td></tr>
     <tr><td>Imagen</td><td><img src="../assets/Interview Validation 4.png" alt="Entrevista 1" height="380"/></td></tr>
