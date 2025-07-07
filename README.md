@@ -5,7 +5,7 @@
 
 ## Carrera de Ingeniería de Software
 
-Ciclo: 2025 - 05
+Ciclo: 2025 - 10
 
 Curso: Open Source
 
