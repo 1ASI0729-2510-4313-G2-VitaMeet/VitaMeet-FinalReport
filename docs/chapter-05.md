@@ -277,14 +277,14 @@ Para llevar a cabo los registros de nuestros avances durante el primer Sprint de
 | User Story |  | Work-Item/Task |  |  |  |  |
 |------------|----------------|-------------|--------------------------------|-----------|------------------|--------|
 | ID         | Title          | ID          | Title                          | Description                     | Estimation | Assigned To      | Status |
-| US2       | Configuración Inicial del Servidor | W213a | Preparar el entorno del servidor | Preparación del entorno del servidor con las herramientas y software necesarios. | 1 hora  | Djalma Dioses | Done   |
-| US2       | Configuración Inicial del Servidor | W213b | Configurar parámetros del servidor | Establecimiento de parámetros de configuración del servidor para optimización del rendimiento. | 1 hora  | Djalma Dioses Santos | Done   |
-| US3     | Autenticación y Seguridad Básica | W216a | Configurar protocolos de seguridad | Configuración de protocolos de seguridad como SSL/TLS para la protección de datos en tránsito. | 2 horas | Johan Principe Godoy | Done   |
-| US3       | Autenticación y Seguridad Básica | W216b | Implementar sistema de autenticación | Desarrollo e implementación de un sistema de autenticación basado en tokens o sesiones. | 2 horas | Johan Principe Godoy | Done   |
-| US3       | Autenticación y Seguridad Básica | W216c | Testear seguridad y autenticación | Realización de pruebas para validar la seguridad y la efectividad de la autenticación. | 1 hora  | Braulio Torrejon Navarro | Done   |
-| US4       | Configuración de Logging y Monitoreo | W217a | Instalar herramientas de logging | Instalación y configuración de herramientas para el logging de actividades del sistema. | 1 hora  | Braulio Torrejon Navarro | Done   |
-| US4       | Configuración de Logging y Monitoreo | W217b | Configurar monitoreo del sistema | Configuración de herramientas de monitoreo para supervisar el rendimiento y la estabilidad del sistema. | 1 hora  | Braulio Torrejon Navarro | Done   |
-| US4       | Configuración de Logging y Monitoreo | W217c | Crear dashboards de monitoreo | Creación de dashboards para visualizar en tiempo real la información de logging y monitoreo. | 1 hora  | Nicolas Esteban Garcia | Done   |
+| US2       | Configuración Inicial del Servidor | W213a | Preparar el entorno del servidor | Preparación del entorno del servidor con las herramientas y software necesarios. | 7 horas  | Fabian Eddo | Done   |
+| US2       | Configuración Inicial del Servidor | W213b | Configurar parámetros del servidor | Establecimiento de parámetros de configuración del servidor para optimización del rendimiento. | 7 horas  | Fabian Miguel Paolo | Done   |
+| US3     | Autenticación y Seguridad Básica | W216a | Configurar protocolos de seguridad | Configuración de protocolos de seguridad como SSL/TLS para la protección de datos en tránsito. | 5 horas | Ariana Paolo Fabian | Done   |
+| US3       | Autenticación y Seguridad Básica | W216b | Implementar sistema de autenticación | Desarrollo e implementación de un sistema de autenticación basado en tokens o sesiones. | 4 horas | Piero Paolo Miguel | Done   |
+| US3       | Autenticación y Seguridad Básica | W216c | Testear seguridad y autenticación | Realización de pruebas para validar la seguridad y la efectividad de la autenticación. | 6 horas  | Eddo Piero Ariana | Done   |
+| US4       | Configuración de Logging y Monitoreo | W217a | Instalar herramientas de logging | Instalación y configuración de herramientas para el logging de actividades del sistema. | 5 horas  | Fabian Miguel Eddo | Done   |
+| US4       | Configuración de Logging y Monitoreo | W217b | Configurar monitoreo del sistema | Configuración de herramientas de monitoreo para supervisar el rendimiento y la estabilidad del sistema. | 7 horas | Ariana Paolo Piero | Done   |
+| US4       | Configuración de Logging y Monitoreo | W217c | Crear dashboards de monitoreo | Creación de dashboards para visualizar en tiempo real la información de logging y monitoreo. | 6 horas  | Eddo Miguel Fabian | Done   |
 
 #### 5.2.3.3. Development Evidence for Sprint Review.
 
