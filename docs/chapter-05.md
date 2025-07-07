@@ -411,11 +411,11 @@ Estas preguntas nos ayudarán a saber cuál es la experiencia de usuario, si nue
     <tr><td>Entrevistado</td><td>Carlos Alberto Gonsalez Custodio </td></tr>
     <tr><td>Edad</td><td>24 años</td></tr>
     <tr><td>Distrito</td><td>Comas </td></tr>
-    <tr><td>Link del Video</td><td><a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202312932_upc_edu_pe/EXyTK9xWislHoQ4S_nrb29AB5a2PoV79bNoCOvrfHDZH5w?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=a5EAI3">Ver Video</a></td></tr>
+    <tr><td>Link del Video</td><td><a href="https://shorturl.at/Ds8Zp">Ver Video</a></td></tr>
     <tr><td>Minuto de Inicio</td><td>0:30</td></tr>
     <tr><td>Duración</td><td>04:44 minutos</td></tr>
     <tr><td>Imagen</td><td><img src="../assets/Interview Validation 1.png" alt="Entrevista 1" height="360"/></td></tr>
-    <tr><td>Resumen</td><td>El entrevistado ....</td></tr>
+    <tr><td>Resumen</td><td>El entrevistado brindo una retroalimentación entre positiva y negativa con respecto a nuestro trabajo VitaMeed  con respecto a nuestro funcionamiento de nuestra aplicación el entrevistado mensiono que se le resulta un poco basica y algunasveses comoda. </td></tr>
 </table><br>
 
 
@@ -447,7 +447,7 @@ Estas preguntas nos ayudarán a saber cuál es la experiencia de usuario, si nue
     <tr><td>Minuto de Inicio</td><td>09:38</td></tr>
     <tr><td>Duración</td><td>04:59 minutos</td></tr>
     <tr><td>Imagen</td><td><img src="../assets/Interview Validation 3.png" alt="Entrevista 1" height="380"/></td></tr>
-    <tr><td>Resumen</td><td>El entrevistado, ...</td></tr>
+    <tr><td>Resumen</td><td>El entrevistado, brindo una retroalimentación maso menos ya que  comento que en la aplicacion se le podia complicar a las personas mayores de edad y que tambien la persona se complicaba con respecto a las citas  y entre otras cosas.</td></tr>
 </table><br>
 
 
