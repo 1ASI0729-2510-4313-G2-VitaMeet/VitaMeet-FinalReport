@@ -570,7 +570,14 @@ Para el sprint presentado del Banck-end se optó por varias herramientas para su
 
 Durante el Sprint 3, se desarrollaron diversas funcionalidades clave para el backend de la aplicación. Para gestionar esto de manera eficiente, se crearon ramas específicas para cada funcionalidad, permitiendo un desarrollo aislado y organizado. Cada feature fue implementada y confirmada mediante commits individuales antes de ser fusionada con la rama de desarrollo (develop). Posteriormente, se verificó minuciosamente la ausencia de conflictos para asegurar la integridad del código. Una vez confirmada la estabilidad, se realizó la fusión final con la rama de producción (main).
 
-
+5.2.X.1. Sprint Planning n.
+5.2.X.2. Aspect Leaders and Collaborators.
+5.2.X.3. Sprint Backlog n.
+5.2.X.4. Development Evidence for Sprint Review.
+5.2.X.5. Execution Evidence for Sprint Review.
+5.2.X.6. Services Documentation Evidence for Sprint Review.
+5.2.X.7. Software Deployment Evidence for Sprint Review.
+5.2.X.8. Team Collaboration Insights during Sprint
 ### 5.3 Validation Interviews
 #### 5.3.1 Diseño de entrevistas
 
