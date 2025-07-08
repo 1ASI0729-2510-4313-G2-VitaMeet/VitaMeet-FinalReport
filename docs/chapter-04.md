@@ -284,15 +284,15 @@ Este es el diagrama de Contenedores de nuestro sistema:
 #### 4.6.3. Software Architecture Components Diagram
 Estos son los diagramas de componentes de nuestro sistema, incluyen los siguientes Bounded Context:
 - Pacientes:
-  ![Image](../assets/diagrama-contenedores-paciente.png)
+  ![Image](../assets/diagrama-componentes-paciente.png)
 - Médicos:
-  ![Image](../assets/diagrama-contenedores-medico.png)
+  ![Image](../assets/diagrama-componentes-medico.png)
 - Historial Médico:
-  ![Image](../assets/diagrama-contenedores-historial.png)
+  ![Image](../assets/diagrama-componentes-historial.png)
 - Citas Médicas:
-  ![Image](../assets/diagrama-contenedores-cita.png)
+  ![Image](../assets/diagrama-componentes-cita.png)
 - Autenticación:
-  ![Image](../assets/diagrama-contenedores-auth.png)
+  ![Image](../assets/diagrama-componentes-auth.png)
 
 
 ### 4.7. Software Object-Oriented Design
