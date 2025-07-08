@@ -98,7 +98,7 @@ Segmento 2: Médicos
 
 Segmento 1: Pacientes adultos que necesitan atención médica
 
-<img src="../assets/TBSM-paciente.jpg" alt="IMpaciente" height="650"  />
+<img src="../assets/Paciente 1.png" alt="IMpaciente" height="650"  />
 
 Segmento 2: Médicos y especialistas con experiencia
 
