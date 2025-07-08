@@ -974,6 +974,38 @@ Estas preguntas nos ayudarán a saber cuál es la experiencia de usuario, si nue
 
 <p>Implementar un sistema de paginación para limitar el número de entradas mostradas por página. Adicionalmente, añadir filtros por rango de fechas, por nombre de médico o por tipo de diagnóstico, y una barra de búsqueda para que los usuarios puedan encontrar rápidamente la información deseada en su historial.</p>
 
+## 5.2.4. Sprint 4
+
+#### 5.2.4.1. Sprint Planning 4
+Descripción de la planificación realizada para el Sprint 4.
+
+#### 5.2.4.2. Aspect Leaders and Collaborators
+Listado de responsables por área y los colaboradores asignados durante el Sprint 4.
+
+#### 5.2.4.3. Sprint Backlog 4
+Lista de tareas seleccionadas para el Sprint 4, incluyendo historias de usuario, bugs y mejoras.
+
+#### 5.2.4.4. Development Evidence for Sprint Review
+Capturas, fragmentos de código, commits y otra evidencia del desarrollo realizado durante el Sprint.
+
+#### 5.2.4.5. Execution Evidence for Sprint Review
+Pruebas funcionales, resultados obtenidos, flujos completados y validaciones.
+
+#### 5.2.4.6. Services Documentation Evidence for Sprint Review
+Documentación técnica de los servicios implementados o modificados en el Sprint.
+
+#### 5.2.4.7. Software Deployment Evidence for Sprint Review
+Registro de despliegues realizados, versiones entregadas y entorno utilizado (dev/test/prod).
+
+#### 5.2.4.8. Team Collaboration Insights during Sprint
+
+Durante el Sprint 4, el equipo fortaleció la colaboración mediante reuniones diarias de seguimiento (Daily Standups), donde se discutieron avances, obstáculos y próximas tareas. Se utilizaron herramientas como Jira para la gestión de tareas y GitHub para el control de versiones, facilitando la transparencia y el trabajo en paralelo.
+
+La comunicación constante ayudó a identificar rápidamente problemas técnicos y coordinar soluciones efectivas. Además, se promovió un ambiente de apoyo mutuo que incentivó la participación activa y la retroalimentación constructiva entre todos los miembros.
+
+Entre los aprendizajes clave destacan la importancia de mantener una documentación clara y actualizada, así como la flexibilidad para adaptarse a cambios en los requerimientos sin afectar el progreso del Sprint.
+
+
 <h3 id="aboutProductVideo">5.4. Video About-the-Product</h3>
 
 <div align="center">
