@@ -1,36 +1,44 @@
-=======
-# Final-Report
-![Logo de UPC](/assets/UPC-logo.webp)
+<div align="center">
+  <h1>Universidad Peruana de Ciencias Aplicadas</h1>
+  <br>
+  <img src="/assets/UPC-logo.webp" alt="UPC Logo" width="auto" height="180"/>
+  <p>
+    <br>
+    <strong>Carrera:</strong> Ingeniería de Software
+    <br><br>
+    <strong>Ciclo:</strong> 5° Ciclo
+    <br><br>
+    <strong>Nombre del curso:</strong> Open Source
+    <br><br>
+    <strong>Sección:</strong> 4313
+    <br><br>
+    <strong>Nombre del profesor:</strong> Alberto Wilmer Sanchez Seña
+  </p>
+  <h3>"Informe de Trabajo Final"</h3>
+  <p>
+    <br>
+    <strong>Nombre del Startup:</strong> Meta Devs
+    <br><br>
+    <strong>Nombre del Producto:</strong> VitaMeet
+    <br><br>
+    <strong>Integrantes:</strong>
+    <br><br>
+    Ramirez Carrasco, Ariana Lizeth - U202312932
+    <br><br>
+    Reyes Trujillano, Fabian Alonso - U202218233
+    <br><br>
+    Su Caletti, Eddo - U20221A390
+    <br><br>
+    Vidal Castro, Miguel Angel - U202314186
+    <br><br>
+  </p>
+  <h3>Abril, 2025</h3>
+</div>
 
-# Universidad Peruana de Ciencias Aplicadas
+<br>
 
-## Carrera de Ingeniería de Software
+<hr>
 
-Ciclo: 2025 - 10
-
-Curso: Open Source
-
-Sección: 4313
-
-Profesor: Alberto Wilmer Sánchez Seña
-
-"Final Report"
-
-Startup: Meta Devs
-
-Producto: Vita Meet
-
-Grupo: 02
-
-| Integrantes                                 | Código     |
-|--------------------------------------------|------------|
-| Ramirez Carrasco, Ariana Lizeth            | U202312932 |
-| Reyes Trujillano, Fabian Alonso            | U202218233 |
-| Su Caletti, Eddo                           | U20221A390 |
-| Vidal Castro, Miguel Angel                 | U202314186 |
-
-
-Abril 2025
 
 # Registro de Versiones del Informe
 
@@ -41,9 +49,13 @@ Abril 2025
 | **TB2** | Sabado 21 de  Junio | - Alexander Piero Fernandez Garfias<br>-Alexander Paolo Justo Yauricasa<br>- Ariana Lizeth Ramirez Carrasco<br>- Fabian Alonso Reyes Trujillano<br>- Eddo Su Caletti <br>-Miguel Angel Vidal Castro| Se han Areglado los siguientes capitulos: <br>- Capítulo I: Introducción<br>- Capítulo II: Requirements Elicitation & Analysis correcciones en las entrevitas y en los segmentos dados <br>- Capítulo III: Requirements Specification correcciones en las User histories con los segmentas propuesos del capitulo 1 <br>- Capítulo IV: Product Design correciones de los ink y de los diagramas <br>- Avance del Capítulo V: Product Implementation, Validation & Deployment hasta el punto 5.2.1.8 y adiones de las reuniones <br>- Avance de Conclusiones, Bibliografía y Anexos <br>-Areglos del frontend de la aplicación web <br>- Creacion del backen con sus respectivos areglos|
 | **TF** | Lunes 07 de  Julio | - Ariana Lizeth Ramirez Carrasco<br>- Fabian Alonso Reyes Trujillano<br>- Eddo Su Caletti <br>-Miguel Angel Vidal Castro| Se han Areglado los siguientes capitulos: <br>- Capítulo I: Areglos en la parte de Antecedentes y Problemáticas aparte de areglar el Lean UX Problem Statement <br>- Capítulo II: Requirements Elicitation & Analysis correcciones en las entrevitas y en los segmentos dados <br>- Capítulo III: Requirements Specification correcciones en las User histories con los segmentas propuesos del capitulo 1 junto con las correcciones de las User histories <br>- Capítulo IV: Product Design correciones de los ink y de los diagramas <br>- Avance del Capítulo V: Product Implementation, Validation & Deployment hasta el punto 5.2.1.8 y adiones de las reuniones aparte de las corrrecciones de Sprint <br>- Avance de Conclusiones, Bibliografía y Anexos <br>-Areglos del frontend de la aplicación web <br>- Creacion del backen con sus respectivos areglos|
 
-# Project Report Collaboration Insights
+## Project Report Collaboration Insights
 
-URL Project Report (Github): https://github.com/1ASI0729-2510-4313-G2-VitaMeet/VitaMeet-FinalReport
+**Link del repositorio-Informe**: https://github.com/1ASI0729-2510-4313-G2-VitaMeet/VitaMeet-FinalReport
+
+**Link de los repositorios de la organización**: https://github.com/orgs/1ASI0729-2510-4313-G2-VitaMeet/repositories
+
+<br>
 
 # Student Outcome
 
@@ -62,7 +74,6 @@ En el siguiente cuadro se describe las acciones realizadas y enunciados de concl
 ## Tabla de Contenidos
 
 - [Universidad Peruana de Ciencias Aplicadas](#universidad-peruana-de-ciencias-aplicadas)
-  - [Carrera de Ingeniería de Software](#carrera-de-ingeniería-de-software)
 - [Registro de Versiones del Informe](#registro-de-versiones-del-informe)
 - [Project Report Collaboration Insights](#project-report-collaboration-insights)
 - [Student Outcome](#student-outcome)
@@ -176,26 +187,3 @@ En el siguiente cuadro se describe las acciones realizadas y enunciados de concl
   - [5.3.1. Diseño de Entrevistas](/report/chapter5/chapter-5.md#531-diseño-de-entrevistas)
   - [5.3.2. Registro de Entrevistas](/report/chapter5/chapter-5.md#532-registro-de-entrevistas)
   - [5.3.3. Evaluaciones según heurísticas](/report/chapter5/chapter-5.md#533-evaluaciones-según-heurísticas)
-
-## [Conclusiones](/report/chapter5/chapter-5.md#conclusiones)
-A lo largo del desarrollo del proyecto VitaMeet, se ha logrado validar satisfactoriamente muchas de las hipótesis planteadas desde el inicio del proceso de Lean UX. En base a los Problem Statements, se identificó la necesidad de una plataforma médica digital que permita agendar, gestionar y llevar control de citas y expedientes médicos de forma accesible y organizada tanto para pacientes como para médicos. Gracias a las entrevistas, pruebas de usabilidad y feedback recibido, se pudo confirmar que dicha necesidad es real y relevante en el contexto actual del sistema de salud digital en Perú.
-
-Los assumptions que realizamos sobre el comportamiento de nuestros segmentos fueron, en su mayoría, acertados: los médicos valoran la facilidad para organizar sus horarios, consultar historial clínico y reducir el ausentismo; mientras que los pacientes buscan una experiencia fluida, confiable y segura al agendar y controlar sus citas. Las entrevistas de validación evidenciaron que ambas partes encuentran útil la plataforma, confirmando así las hipótesis de que una interfaz clara, con notificaciones efectivas y buena accesibilidad mejora la experiencia de usuario y aporta a una mejor gestión médica.
-
-En cuanto a los Hypothesis Statements, aquellos relacionados a la mejora en la asistencia a citas, facilidad en la navegación, y aumento en la eficiencia del trabajo médico fueron corroborados durante la validación. Por ejemplo, la mayoría de médicos entrevistados reconoció una mayor organización y comunicación con los pacientes, y manifestaron una clara intención de seguir utilizando y recomendar VitaMeet.
-
-Frente a los criterios de éxito, se logró alcanzar resultados clave como: una interfaz funcional en el frontend con tareas fundamentales implementadas (gestión de citas, visualización de historial, configuración de horarios), aceptación positiva en las entrevistas de validación y una percepción general de confianza en la seguridad de los datos médicos.
-
-Finalmente, en cuanto al Roadmap futuro, se recomienda continuar con el desarrollo de funcionalidades que aún no se incluyeron en esta versión, como el sistema de calificaciones de médicos, filtros avanzados de búsqueda, mensajes automáticos por WhatsApp/SMS, y una mensajería directa integrada. Además, se sugiere priorizar mejoras en accesibilidad móvil, personalización del perfil del usuario y una mejor segmentación de notificaciones según el tipo de usuario (médico o paciente). Estos pasos permitirán escalar el producto y responder aún mejor a las necesidades del mercado, alineándose con la propuesta de valor y modelo de negocio digital de VitaMeet.
-
-
-## [Video About-The-Team](/report/chapter5/chapter-5.md#video-about-the-team)
-
-Enlace en Youtube de <strong>Video About-the-Team</strong>: <a href="https://youtu.be/_YNksmCV9nE">https://youtu.be/_YNksmCV9nE</a>
-
-Enlace en Microsoft Stream de <strong>Video About-the-Team</strong>: <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202312932_upc_edu_pe/EUVtpFWkZ_lIlQAhbCKhDVoBNQN0Tnw0X7t4oDYbFJGm6A?e=SwNiJ4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)">https://upcedupe-my.sharepoint.com/:v:/g/personal/u202312932_upc_edu_pe/EUVtpFWkZ_lIlQAhbCKhDVoBNQN0Tnw0X7t4oDYbFJGm6A?e=SwNiJ4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D</a>
-
-
-## [Bibliografía](/report/chapter5/chapter-5.md#bibliografía)
-
-## [Anexos](/report/chapter5/chapter-5.md#anexos)
