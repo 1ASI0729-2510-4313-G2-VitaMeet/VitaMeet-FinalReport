@@ -274,17 +274,26 @@ Para el modelo de negocio que utilizaremos para desarrollar nuestro software com
 #### 4.6.1. Software Architecture Context Diagram
 Este es el diagrama de Contexto de nuestro sistema:
 
-![Image](../assets/contexto.png)
+![Image](../assets/diagrama-contexto.png)
 
 #### 4.6.2. Software Architecture Container Diagram
 Este es el diagrama de Contenedores de nuestro sistema:
 
-![Image](../assets/contenedores.png)
+![Image](../assets/diagrama-contenedores.png)
 
 #### 4.6.3. Software Architecture Components Diagram
-Este es el diagrama de componentes de nuestro sistema:
+Estos son los diagramas de componentes de nuestro sistema, incluyen los siguientes Bounded Context:
+- Pacientes:
+  ![Image](../assets/diagrama-contenedores-paciente.png)
+- Médicos:
+  ![Image](../assets/diagrama-contenedores-medico.png)
+- Historial Médico:
+  ![Image](../assets/diagrama-contenedores-historial.png)
+- Citas Médicas:
+  ![Image](../assets/diagrama-contenedores-cita.png)
+- Autenticación:
+  ![Image](../assets/diagrama-contenedores-auth.png)
 
-![Image](../assets/componentes.png)
 
 ### 4.7. Software Object-Oriented Design
 #### 4.7.1. Class Diagrams
