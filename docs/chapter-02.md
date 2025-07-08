@@ -407,7 +407,7 @@ Para fortalecer el enfoque centrado en el usuario de la solución VitaMeet, se h
     <thead>
         <tr>
             <th rowspan="2">User Task Matrix</th>
-            <th colspan="2">Gabriela Ríos (Usuario)</th>
+            <th colspan="2">Gabriela Ríos (Paciente)</th>
             <th colspan="2">Dr. Luis Fernández (Médico)</th>
         </tr>
         <tr>
