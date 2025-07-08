@@ -187,3 +187,28 @@ En el siguiente cuadro se describe las acciones realizadas y enunciados de concl
   - [5.3.1. Diseño de Entrevistas](/report/chapter5/chapter-5.md#531-diseño-de-entrevistas)
   - [5.3.2. Registro de Entrevistas](/report/chapter5/chapter-5.md#532-registro-de-entrevistas)
   - [5.3.3. Evaluaciones según heurísticas](/report/chapter5/chapter-5.md#533-evaluaciones-según-heurísticas)
+
+## [Conclusiones](/report/chapter5/chapter-5.md#conclusiones)
+A lo largo del desarrollo del proyecto VitaMeet, se ha logrado validar satisfactoriamente muchas de las hipótesis planteadas desde el inicio del proceso de Lean UX. En base a los Problem Statements, se identificó la necesidad de una plataforma médica digital que permita agendar, gestionar y llevar control de citas y expedientes médicos de forma accesible y organizada tanto para pacientes como para médicos. Gracias a las entrevistas, pruebas de usabilidad y feedback recibido, se pudo confirmar que dicha necesidad es real y relevante en el contexto actual del sistema de salud digital en Perú.
+
+Los assumptions que realizamos sobre el comportamiento de nuestros segmentos fueron, en su mayoría, acertados: los médicos valoran la facilidad para organizar sus horarios, consultar historial clínico y reducir el ausentismo; mientras que los pacientes buscan una experiencia fluida, confiable y segura al agendar y controlar sus citas. Las entrevistas de validación evidenciaron que ambas partes encuentran útil la plataforma, confirmando así las hipótesis de que una interfaz clara, con notificaciones efectivas y buena accesibilidad mejora la experiencia de usuario y aporta a una mejor gestión médica.
+
+En cuanto a los Hypothesis Statements, aquellos relacionados a la mejora en la asistencia a citas, facilidad en la navegación, y aumento en la eficiencia del trabajo médico fueron corroborados durante la validación. Por ejemplo, la mayoría de médicos entrevistados reconoció una mayor organización y comunicación con los pacientes, y manifestaron una clara intención de seguir utilizando y recomendar VitaMeet.
+
+Frente a los criterios de éxito, se logró alcanzar resultados clave como: una interfaz funcional en el frontend con tareas fundamentales implementadas (gestión de citas, visualización de historial, configuración de horarios), aceptación positiva en las entrevistas de validación y una percepción general de confianza en la seguridad de los datos médicos.
+
+Finalmente, en cuanto al Roadmap futuro, se recomienda continuar con el desarrollo de funcionalidades que aún no se incluyeron en esta versión, como el sistema de calificaciones de médicos, filtros avanzados de búsqueda, mensajes automáticos por WhatsApp/SMS, y una mensajería directa integrada. Además, se sugiere priorizar mejoras en accesibilidad móvil, personalización del perfil del usuario y una mejor segmentación de notificaciones según el tipo de usuario (médico o paciente). Estos pasos permitirán escalar el producto y responder aún mejor a las necesidades del mercado, alineándose con la propuesta de valor y modelo de negocio digital de VitaMeet.
+
+
+## [Video About-The-Team](/report/chapter5/chapter-5.md#video-about-the-team)
+
+Enlace en Youtube de <strong>Video About-the-Team</strong>: <a href="https://youtu.be/_YNksmCV9nE">https://youtu.be/_YNksmCV9nE</a>
+
+Enlace en Microsoft Stream de <strong>Video About-the-Team</strong>: <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202312932_upc_edu_pe/EUVtpFWkZ_lIlQAhbCKhDVoBNQN0Tnw0X7t4oDYbFJGm6A?e=SwNiJ4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)">https://upcedupe-my.sharepoint.com/:v:/g/personal/u202312932_upc_edu_pe/EUVtpFWkZ_lIlQAhbCKhDVoBNQN0Tnw0X7t4oDYbFJGm6A?e=SwNiJ4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D</a>
+
+
+## [Bibliografía](/report/chapter5/chapter-5.md#bibliografía)
+
+## [Anexos](/report/chapter5/chapter-5.md#anexos)
+
+Haz clic aquí para ver el diseño en [Canva](https://www.canva.com/design/DAGkk-nK9F8/mKunVnI8YKqsiZXdopwkOg/edit?utm_content=DAGkk-nK9F8&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
