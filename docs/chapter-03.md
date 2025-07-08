@@ -96,11 +96,11 @@ Segmento 2: Médicos
 
 ## 3.3. Impact Mapping.
 
-Segmento 1: Personas adultas que necesitan atención médica
+Segmento 1: Pacientes adultos que necesitan atención médica
 
-<img src="../assets/Impact map-paciente.png" alt="IMpaciente" height="650"  />
+<img src="../assets/TBSM-paciente.jpg" alt="IMpaciente" height="650"  />
 
-Segmento 2: Médicos generales y especialistas con experiencia
+Segmento 2: Médicos y especialistas con experiencia
 
 <img src="../assets/Impact map-médico.png" alt="IMmedico" height="650"  />
 
