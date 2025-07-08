@@ -200,3 +200,5 @@ Enlace en Microsoft Stream de <strong>Video About-the-Team</strong>: <a href="ht
 ## [Bibliografía](/report/chapter5/chapter-5.md#bibliografía)
 
 ## [Anexos](/report/chapter5/chapter-5.md#anexos)
+
+Haz clic aquí para ver el diseño en [Canva](https://www.canva.com/design/DAGkk-nK9F8/mKunVnI8YKqsiZXdopwkOg/edit?utm_content=DAGkk-nK9F8&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
