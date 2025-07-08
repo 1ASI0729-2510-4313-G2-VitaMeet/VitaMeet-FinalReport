@@ -1042,7 +1042,7 @@ Finalmente, en cuanto al Roadmap futuro, se recomienda continuar con el desarrol
 
 ## Anexos
 <p>Deploy Landing Page: 
-  <a href="link" target="_blank">
+  <a href="https://1asi0729-2510-4313-g2-vitameet.github.io/Landing-Page/" target="_blank">
     Ver Landing Page
   </a>
 </p>
@@ -1060,13 +1060,13 @@ Finalmente, en cuanto al Roadmap futuro, se recomienda continuar con el desarrol
 </p>
 
 <p>Entrevistas: 
-  <a href="link" target="_blank">
+  <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202312932_upc_edu_pe/EVs_IHAn7wRKp6xgyJYl29ABUpgqNDGHl30AI-GwDatDSg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=lSUrlx" target="_blank">
     Ver Entrevistas
   </a>
 </p>
 
 <p>Validación de entrevistas: 
-  <a href="link" target="_blank">
+  <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202312932_upc_edu_pe/EXyTK9xWislHoQ4S_nrb29AB5a2PoV79bNoCOvrfHDZH5w?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=7eOXp3" target="_blank">
     Ver Validación
   </a>
 </p>
@@ -1084,22 +1084,22 @@ Finalmente, en cuanto al Roadmap futuro, se recomienda continuar con el desarrol
 </p>
 
 <p>Diagrama de clases del boundend context ...: 
-  <a href="link">
+  <a href="link" target="_blank">
     Ver Diagrama del boundend context ...
   </a>
 </p>
 <p>Diagrama de clases del boundend context ....: 
-  <a href="link">
+  <a href="link" target="_blank">
     Ver Diagrama del ....
   </a>
 </p>
 <p>Diagrama de clases del boundend context ...: 
-  <a href="link">
+  <a href="link" target="_blank">
     Ver Diagrama del ...
   </a>
 </p>
     <p>Diagrama de clases de la base de datos: 
-  <a href="link">
+  <a href="link" target="_blank">
     Ver Diagrama de la base de datos
   </a>
 </p>
