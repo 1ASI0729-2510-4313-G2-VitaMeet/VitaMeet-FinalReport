@@ -1,37 +1,44 @@
-# Final-Report
-![Logo de UPC](/assets/UPC-logo.webp)
+<div align="center">
+  <h1>Universidad Peruana de Ciencias Aplicadas</h1>
+  <br>
+  <img src="/assets/UPC-logo.webp" alt="UPC Logo" width="auto" height="180"/>
+  <p>
+    <br>
+    <strong>Carrera:</strong> Ingeniería de Software
+    <br><br>
+    <strong>Ciclo:</strong> 5° Ciclo
+    <br><br>
+    <strong>Nombre del curso:</strong> Open Source
+    <br><br>
+    <strong>Sección:</strong> 4313
+    <br><br>
+    <strong>Nombre del profesor:</strong> Alberto Wilmer Sanchez Seña
+  </p>
+  <h3>"Informe de Trabajo Final"</h3>
+  <p>
+    <br>
+    <strong>Nombre del Startup:</strong> Meta Devs
+    <br><br>
+    <strong>Nombre del Producto:</strong> VitaMeet
+    <br><br>
+    <strong>Integrantes:</strong>
+    <br><br>
+    Ramirez Carrasco, Ariana Lizeth - U202312932
+    <br><br>
+    Reyes Trujillano, Fabian Alonso - U202218233
+    <br><br>
+    Su Caletti, Eddo - U20221A390
+    <br><br>
+    Vidal Castro, Miguel Angel - U202314186
+    <br><br>
+  </p>
+  <h3>Abril, 2025</h3>
+</div>
 
-# Universidad Peruana de Ciencias Aplicadas
+<br>
 
-## Carrera de Ingeniería de Software
+<hr>
 
-Ciclo: 2025 - 10
-
-Curso: Open Source
-
-Sección: 4313
-
-Profesor: Alberto Wilmer Sánchez Seña
-
-"Final Report"
-
-Startup: Meta Devs
-
-Producto: Vita Meet
-
-Grupo: 02
-
-| Integrantes                                 | Código     |
-|--------------------------------------------|------------|
-| Fernandez Garfias, Alexander Piero         | U202019498 |
-| Justo Yauricasa, Alexander Paolo           | U20191C054 |
-| Ramirez Carrasco, Ariana Lizeth            | U202312932 |
-| Reyes Trujillano, Fabian Alonso            | U202218233 |
-| Su Caletti, Eddo                           | U20221A390 |
-| Vidal Castro, Miguel Angel                 | U202314186 |
-
-
-Abril 2025
 
 # Registro de Versiones del Informe
 
@@ -40,11 +47,15 @@ Abril 2025
 | **TB1** | Lunes 07 de Abril | - Alexander Piero Fernandez Garfias<br>-Alexander Paolo Justo Yauricasa<br>- Ariana Lizeth Ramirez Carrasco<br>- Fabian Alonso Reyes Trujillano<br>- Eddo Su Caletti <br>-Miguel Angel Vidal Castro| Se han incluído los siguientes capítulos:<br>- Capítulo I: Introducción<br>- Capítulo II: Requirements Elicitation & Analysis<br>- Capítulo III: Requirements Specification<br>- Capítulo IV: Product Design<br>- Avance del Capítulo V: Product Implementation, Validation & Deployment hasta el punto 5.2.1.8<br>- Avance de Conclusiones, Bibliografía y Anexos |
 | **TP1** | Lunes 28 de Mayo | - Alexander Piero Fernandez Garfias<br>-Alexander Paolo Justo Yauricasa<br>- Ariana Lizeth Ramirez Carrasco<br>- Fabian Alonso Reyes Trujillano<br>- Eddo Su Caletti <br>-Miguel Angel Vidal Castro| Se han Areglado los siguientes capitulos: <br>- Capítulo I: Introducción<br>- Capítulo II: Requirements Elicitation & Analysis correcciones en las entrevitas y en los segmentos dados <br>- Capítulo III: Requirements Specification correcciones en las User histories con los segmentas propuesos del capitulo 1 <br>- Capítulo IV: Product Design correciones de los ink y de los diagramas <br>- Avance del Capítulo V: Product Implementation, Validation & Deployment hasta el punto 5.2.1.8 y adiones de las reuniones <br>- Avance de Conclusiones, Bibliografía y Anexos <br>-Creacion del frontend de la aplicacion de VitaMeet|
 | **TB2** | Sabado 21 de  Junio | - Alexander Piero Fernandez Garfias<br>-Alexander Paolo Justo Yauricasa<br>- Ariana Lizeth Ramirez Carrasco<br>- Fabian Alonso Reyes Trujillano<br>- Eddo Su Caletti <br>-Miguel Angel Vidal Castro| Se han Areglado los siguientes capitulos: <br>- Capítulo I: Introducción<br>- Capítulo II: Requirements Elicitation & Analysis correcciones en las entrevitas y en los segmentos dados <br>- Capítulo III: Requirements Specification correcciones en las User histories con los segmentas propuesos del capitulo 1 <br>- Capítulo IV: Product Design correciones de los ink y de los diagramas <br>- Avance del Capítulo V: Product Implementation, Validation & Deployment hasta el punto 5.2.1.8 y adiones de las reuniones <br>- Avance de Conclusiones, Bibliografía y Anexos <br>-Areglos del frontend de la aplicación web <br>- Creacion del backen con sus respectivos areglos|
-| **TF** | Domingo 22 de  Junio | - Alexander Piero Fernandez Garfias<br>-Alexander Paolo Justo Yauricasa<br>- Ariana Lizeth Ramirez Carrasco<br>- Fabian Alonso Reyes Trujillano<br>- Eddo Su Caletti <br>-Miguel Angel Vidal Castro| Se han Areglado los siguientes capitulos: <br>- Capítulo I: Areglos en la parte de Antecedentes y Problemáticas aparte de areglar el Lean UX Problem Statement <br>- Capítulo II: Requirements Elicitation & Analysis correcciones en las entrevitas y en los segmentos dados <br>- Capítulo III: Requirements Specification correcciones en las User histories con los segmentas propuesos del capitulo 1 junto con las correcciones de las User histories <br>- Capítulo IV: Product Design correciones de los ink y de los diagramas <br>- Avance del Capítulo V: Product Implementation, Validation & Deployment hasta el punto 5.2.1.8 y adiones de las reuniones aparte de las corrrecciones de Sprint <br>- Avance de Conclusiones, Bibliografía y Anexos <br>-Areglos del frontend de la aplicación web <br>- Creacion del backen con sus respectivos areglos|
+| **TF** | Lunes 07 de  Julio | - Ariana Lizeth Ramirez Carrasco<br>- Fabian Alonso Reyes Trujillano<br>- Eddo Su Caletti <br>-Miguel Angel Vidal Castro| Se han Areglado los siguientes capitulos: <br>- Capítulo I: Areglos en la parte de Antecedentes y Problemáticas aparte de areglar el Lean UX Problem Statement <br>- Capítulo II: Requirements Elicitation & Analysis correcciones en las entrevitas y en los segmentos dados <br>- Capítulo III: Requirements Specification correcciones en las User histories con los segmentas propuesos del capitulo 1 junto con las correcciones de las User histories <br>- Capítulo IV: Product Design correciones de los ink y de los diagramas <br>- Avance del Capítulo V: Product Implementation, Validation & Deployment hasta el punto 5.2.1.8 y adiones de las reuniones aparte de las corrrecciones de Sprint <br>- Avance de Conclusiones, Bibliografía y Anexos <br>-Areglos del frontend de la aplicación web <br>- Creacion del backen con sus respectivos areglos|
 
-# Project Report Collaboration Insights
+## Project Report Collaboration Insights
 
-URL Project Report (Github): https://github.com/1ASI0729-2510-4313-G2-VitaMeet/VitaMeet-FinalReport
+**Link del repositorio-Informe**: https://github.com/1ASI0729-2510-4313-G2-VitaMeet/VitaMeet-FinalReport
+
+**Link de los repositorios de la organización**: https://github.com/orgs/1ASI0729-2510-4313-G2-VitaMeet/repositories
+
+<br>
 
 # Student Outcome
 
@@ -63,7 +74,6 @@ En el siguiente cuadro se describe las acciones realizadas y enunciados de concl
 ## Tabla de Contenidos
 
 - [Universidad Peruana de Ciencias Aplicadas](#universidad-peruana-de-ciencias-aplicadas)
-  - [Carrera de Ingeniería de Software](#carrera-de-ingeniería-de-software)
 - [Registro de Versiones del Informe](#registro-de-versiones-del-informe)
 - [Project Report Collaboration Insights](#project-report-collaboration-insights)
 - [Student Outcome](#student-outcome)
@@ -82,10 +92,10 @@ En el siguiente cuadro se describe las acciones realizadas y enunciados de concl
 - [1.2. Solution Profile](/report/chapter1/chapter-1.md#12-Solution-Profile)
   - [1.2.1. Antecedentes y problemática](/report/chapter1/chapter-1.md#121-antecedentes-y-problemática)
   - [1.2.2. Lean UX Process](/report/chapter1/chapter-1.md#122-lean-ux-process)
-    - [1.2.2.1. Lean UX Problem Statements](/report/chapter1/chapter-1.md#1221-lean-ux-problem-statements)
-    - [1.2.2.2. Lean UX Assumptions](/report/chapter1/chapter-1.md#1222-lean-ux-assumptions)
-    - [1.2.2.3. Lean UX Hypothesis Statements](/report/chapter1/chapter-1.md#1223-lean-uX-hypothesis-statements)
-    - [1.2.2.4. Lean UX Canvas](/report/chapter1/chapter-1.md#1224-lean-uX-canvas)
+   - [1.2.2.1. Lean UX Problem Statements](/report/chapter1/chapter-1.md#1221-lean-ux-problem-statements)
+   - [1.2.2.2. Lean UX Assumptions](/report/chapter1/chapter-1.md#1222-lean-ux-assumptions)
+   - [1.2.2.3. Lean UX Hypothesis Statements](/report/chapter1/chapter-1.md#1223-lean-uX-hypothesis-statements)
+   - [1.2.2.4. Lean UX Canvas](/report/chapter1/chapter-1.md#1224-lean-uX-canvas)
 - [1.3. Segmentos objetivo](/report/chapter1/chapter-1.md#13-segmentos-objetivo)
 
 ## [Capítulo II: Requirements Elicitation & Analysis](/report/chapter2/chapter-2.md)
@@ -147,32 +157,32 @@ En el siguiente cuadro se describe las acciones realizadas y enunciados de concl
   - [5.1.4. Software Deployment Configuration](/report/chapter5/chapter-5.md#514-software-deployment-configuration)
 - [5.2. Landing Page, Services & Applications Implementation](/report/chapter5/chapter-5.md#52-landing-page-services--applications-implementation)
   - [5.2.1. Sprint 1](/report/chapter5/chapter-5.md#521-sprint-1)
-    - [5.2.1.1. Sprint Planning 1](/report/chapter5/chapter-5.md#5211-sprint-planning-1)
-    - [5.2.1.2. Sprint Backlog 1](/report/chapter5/chapter-5.md#5212-sprint-backlog-1)
-    - [5.2.1.3. Development Evidence for Sprint Review](/report/chapter5/chapter-5.md#5213-development-evidence-for-sprint-review)
-    - [5.2.1.4. Testing Suite Evidence for Sprint Review](/report/chapter5/chapter-5.md#5214-testing-suite-evidence-for-sprint-review)
-    - [5.2.1.5. Execution Evidence for Sprint Review](/report/chapter5/chapter-5.md#5215-execution-evidence-for-sprint-review)
-    - [5.2.1.6. Services Documentation Evidence for Sprint Review](/report/chapter5/chapter-5.md#5216-services-documentation-evidence-for-sprint-review)
-    - [5.2.1.7. Software Deployment Evidence for Sprint Review](/report/chapter5/chapter-5.md#5217-software-deployment-evidence-for-sprint-review)
-    - [5.2.1.8. Team Collaboration Insights during Sprint](/report/chapter5/chapter-5.md#5218-team-collaboration-insights-during-sprint)
+   - [5.2.1.1. Sprint Planning 1](/report/chapter5/chapter-5.md#5211-sprint-planning-1)
+   - [5.2.1.2. Sprint Backlog 1](/report/chapter5/chapter-5.md#5212-sprint-backlog-1)
+   - [5.2.1.3. Development Evidence for Sprint Review](/report/chapter5/chapter-5.md#5213-development-evidence-for-sprint-review)
+   - [5.2.1.4. Testing Suite Evidence for Sprint Review](/report/chapter5/chapter-5.md#5214-testing-suite-evidence-for-sprint-review)
+   - [5.2.1.5. Execution Evidence for Sprint Review](/report/chapter5/chapter-5.md#5215-execution-evidence-for-sprint-review)
+   - [5.2.1.6. Services Documentation Evidence for Sprint Review](/report/chapter5/chapter-5.md#5216-services-documentation-evidence-for-sprint-review)
+   - [5.2.1.7. Software Deployment Evidence for Sprint Review](/report/chapter5/chapter-5.md#5217-software-deployment-evidence-for-sprint-review)
+   - [5.2.1.8. Team Collaboration Insights during Sprint](/report/chapter5/chapter-5.md#5218-team-collaboration-insights-during-sprint)
   - [5.2.2. Sprint 2](/report/chapter5/chapter-5.md#521-sprint-2)
-    - [5.2.2.1. Sprint Planning 2](/report/chapter5/chapter-5.md#5221-sprint-planning-2)
-    - [5.2.2.2. Sprint Backlog 2](/report/chapter5/chapter-5.md#5222-sprint-backlog-2)
-    - [5.2.2.3. Development Evidence for Sprint Review](/report/chapter5/chapter-5.md#5223-development-evidence-for-sprint-review)
-    - [5.2.2.4. Testing Suite Evidence for Sprint Review](/report/chapter5/chapter-5.md#5224-testing-suite-evidence-for-sprint-review)
-    - [5.2.2.5. Execution Evidence for Sprint Review](/report/chapter5/chapter-5.md#5225-execution-evidence-for-sprint-review)
-    - [5.2.2.6. Services Documentation Evidence for Sprint Review](/report/chapter5/chapter-5.md#5226-services-documentation-evidence-for-sprint-review)
-    - [5.2.2.7. Software Deployment Evidence for Sprint Review](/report/chapter5/chapter-5.md#5227-software-deployment-evidence-for-sprint-review)
-    - [5.2.2.8. Team Collaboration Insights during Sprint](/report/chapter5/chapter-5.md#5228-team-collaboration-insights-during-sprint)
+   - [5.2.2.1. Sprint Planning 2](/report/chapter5/chapter-5.md#5221-sprint-planning-2)
+   - [5.2.2.2. Sprint Backlog 2](/report/chapter5/chapter-5.md#5222-sprint-backlog-2)
+   - [5.2.2.3. Development Evidence for Sprint Review](/report/chapter5/chapter-5.md#5223-development-evidence-for-sprint-review)
+   - [5.2.2.4. Testing Suite Evidence for Sprint Review](/report/chapter5/chapter-5.md#5224-testing-suite-evidence-for-sprint-review)
+   - [5.2.2.5. Execution Evidence for Sprint Review](/report/chapter5/chapter-5.md#5225-execution-evidence-for-sprint-review)
+   - [5.2.2.6. Services Documentation Evidence for Sprint Review](/report/chapter5/chapter-5.md#5226-services-documentation-evidence-for-sprint-review)
+   - [5.2.2.7. Software Deployment Evidence for Sprint Review](/report/chapter5/chapter-5.md#5227-software-deployment-evidence-for-sprint-review)
+   - [5.2.2.8. Team Collaboration Insights during Sprint](/report/chapter5/chapter-5.md#5228-team-collaboration-insights-during-sprint)
   - [5.2.3. Sprint 3](/report/chapter5/chapter-5.md#521-sprint-3)
-    - [5.2.3.1. Sprint Planning 3](/report/chapter5/chapter-5.md#5231-sprint-planning-3)
-    - [5.2.3.2. Sprint Backlog 3](/report/chapter5/chapter-5.md#5232-sprint-backlog-3)
-    - [5.2.3.3. Development Evidence for Sprint Review](/report/chapter5/chapter-5.md#5233-development-evidence-for-sprint-review)
-    - [5.2.3.4. Testing Suite Evidence for Sprint Review](/report/chapter5/chapter-5.md#5234-testing-suite-evidence-for-sprint-review)
-    - [5.2.3.5. Execution Evidence for Sprint Review](/report/chapter5/chapter-5.md#5235-execution-evidence-for-sprint-review)
-    - [5.2.3.6. Services Documentation Evidence for Sprint Review](/report/chapter5/chapter-5.md#5236-services-documentation-evidence-for-sprint-review)
-    - [5.2.3.7. Software Deployment Evidence for Sprint Review](/report/chapter5/chapter-5.md#5237-software-deployment-evidence-for-sprint-review)
-    - [5.2.3.8. Team Collaboration Insights during Sprint](/report/chapter5/chapter-5.md#5238-team-collaboration-insights-during-sprint)
+   - [5.2.3.1. Sprint Planning 3](/report/chapter5/chapter-5.md#5231-sprint-planning-3)
+   - [5.2.3.2. Sprint Backlog 3](/report/chapter5/chapter-5.md#5232-sprint-backlog-3)
+   - [5.2.3.3. Development Evidence for Sprint Review](/report/chapter5/chapter-5.md#5233-development-evidence-for-sprint-review)
+   - [5.2.3.4. Testing Suite Evidence for Sprint Review](/report/chapter5/chapter-5.md#5234-testing-suite-evidence-for-sprint-review)
+   - [5.2.3.5. Execution Evidence for Sprint Review](/report/chapter5/chapter-5.md#5235-execution-evidence-for-sprint-review)
+   - [5.2.3.6. Services Documentation Evidence for Sprint Review](/report/chapter5/chapter-5.md#5236-services-documentation-evidence-for-sprint-review)
+   - [5.2.3.7. Software Deployment Evidence for Sprint Review](/report/chapter5/chapter-5.md#5237-software-deployment-evidence-for-sprint-review)
+   - [5.2.3.8. Team Collaboration Insights during Sprint](/report/chapter5/chapter-5.md#5238-team-collaboration-insights-during-sprint)
 - [5.3. Validation Interviews](/report/chapter5/chapter-5.md#53-validation-interviews)
   - [5.3.1. Diseño de Entrevistas](/report/chapter5/chapter-5.md#531-diseño-de-entrevistas)
   - [5.3.2. Registro de Entrevistas](/report/chapter5/chapter-5.md#532-registro-de-entrevistas)
