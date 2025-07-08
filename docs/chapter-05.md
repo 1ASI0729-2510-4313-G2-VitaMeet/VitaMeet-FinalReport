@@ -12,53 +12,88 @@ En este apartado, se van a mencionar los distintos productos de software emplead
 
 **Project Management:**
 
-1. **Discord: https://discord.com/** Aunque originalmente su uso es mas para la comunidad de gamers para comunicarse entre ellos, Discord también se puede utilizar para mejorar la experiencia del usuario a travez de diferentes lugares de comunicación, fijar mensajes, diferentes canales de texto y actividad de los integrantes del grupo.
+* **Discord: https://discord.com/**
 
-2. **WhatsApp: https://web.whatsapp.com/** WhatsApp es una aplicación de mensajería instantánea que se utiliza para la comunicación en tiempo real. Aunque no es una herramienta de gestión de proyectos, se puede utilizar para mantener en contacto con los miembros del equipo. 
+Aunque originalmente su uso es mas para la comunidad de gamers para comunicarse entre ellos, Discord también se puede utilizar para mejorar la experiencia del usuario a travez de diferentes lugares de comunicación, fijar mensajes, diferentes canales de texto y actividad de los integrantes del grupo.
 
-**Requirements Managemnts:**
 
-1. **Trello: https://trello.com/** Es un software de gestión de proyectos, que facilita asignar y organizar las tareas a realizar. 
+* **WhatsApp: https://web.whatsapp.com/** 
+
+WhatsApp es una aplicación de mensajería instantánea que se utiliza para la comunicación en tiempo real. Aunque no es una herramienta de gestión de proyectos, se puede utilizar para mantener en contacto con los miembros del equipo. 
+
+
+**Requirements Management:**
+
+* **Trello: https://trello.com/** 
+
+Es un software de gestión de proyectos, que facilita asignar y organizar las tareas a realizar. 
 
 
 **Product UX/UI Design**
 
-1. **Figma: https://www.figma.com/** Figma es una herramienta de edición gráfica, en donde se puede diseñar y prototipar páginas web. Se utilizó para crear los wireframes, mock-ups del proyecto
+* **Figma: https://www.figma.com/** 
 
-2. **UXPressia: https://uxpressia.com/** Es una herramienta en línea que permite a los equipos de trabajo identificar y comprender los problemas, necesidades y comportamiento del usuario, lo utilizamos para realizar el Empathy Map, Journey Map, Impact Map
+Figma es una herramienta de edición gráfica, en donde se puede diseñar y prototipar páginas web. Se utilizó para crear los wireframes, mock-ups del proyecto
 
-3. **Miro: https://miro.com/es/** Es una plataforma colaborativa el cual permite crear y usar pizarras digitales personalizadas en tiempo real. Lo utilizamos para la creación del As-is y To-Be scenario map.
+
+* **UXPressia: https://uxpressia.com/** 
+
+Es una herramienta en línea que permite a los equipos de trabajo identificar y comprender los problemas, necesidades y comportamiento del usuario, lo utilizamos para realizar el Empathy Map, Journey Map, Impact Map
+
+
+* **Miro: https://miro.com/es/** 
+
+Es una plataforma colaborativa el cual permite crear y usar pizarras digitales personalizadas en tiempo real. Lo utilizamos para la creación del As-is y To-Be scenario map.
+
 
 **Software Development:**
 
-1. **Landing Page:** Para la creación de la landing page, se utilizaron las tecnologias base del desarrollo web: HTML5, CSS3 y JavaScript, Tambien se usó ReactJs y el framework Tailwindcss para facilitar el desarrollo del proyecto.
+* **Landing Page:** 
+
+Para la creación de la landing page, se utilizaron las tecnologias base del desarrollo web: HTML5, CSS3 y JavaScript, Tambien se usó ReactJs y el framework Tailwindcss para facilitar el desarrollo del proyecto.
+
 
 **Software Documentation:**
 
-1. **GitHub: https://github.com/** GitHub es una plataforma de desarrollo colaborativo que utiliza el sistema de control de versiones Git. Se utiliza para alojar, revisar y colaborar en proyectos de desarrollo de software, lo que facilita la colaboración entre desarrolladores.
 
-2. **LucidChart: https://lucid.app/** LucidChart es una plataforma que cuenta con opciones para la creación de diagramas, mapas mentales, flujos y más, con el uso de plantillas y tableros con edición en tiempo real. Fue utilizado en el desarrollo del diagrama de clases UML
+* **GitHub: https://github.com/** 
 
-3. **Structurizr: https://www.structurizr.com/** Es una plataforma que permite modelado de diagramas de arquitectura de software por medio de código. Structurizr fue utilizado para crear el modelo C4 de nuestro proyecto.
+GitHub es una plataforma de desarrollo colaborativo que utiliza el sistema de control de versiones Git. Se utiliza para alojar, revisar y colaborar en proyectos de desarrollo de software, lo que facilita la colaboración entre desarrolladores.
+
+
+* **LucidChart: https://lucid.app/** 
+
+LucidChart es una plataforma que cuenta con opciones para la creación de diagramas, mapas mentales, flujos y más, con el uso de plantillas y tableros con edición en tiempo real. Fue utilizado en el desarrollo del diagrama de clases UML.
+
+
+* **Structurizr: https://www.structurizr.com/** 
+
+Es una plataforma que permite modelado de diagramas de arquitectura de software por medio de código. Structurizr fue utilizado para crear el modelo C4 de nuestro proyecto.
 
 
 ### 5.1.2. Source Code Management.
 
-El manejo y organización del trabajo se llevaron a cabo mediante una organización en Github Organización: https://github.com/1ASI0729-2510-4313-G2-VitaMeet Landing Page Repository: https://github.com/1ASI0729-2510-4313-G2-VitaMeet/Landing-Page
+El manejo y organización del trabajo se llevaron a cabo mediante una organización en Github.
+
+* **Organization**: <a href="https://github.com/1ASI0729-2510-4313-G2-VitaMeet">https://github.com/1ASI0729-2510-4313-G2-VitaMeet</a>
+
+* **Landing Page Repository**: <a href="https://github.com/1ASI0729-2510-4313-G2-VitaMeet/Landing-Page">https://github.com/1ASI0729-2510-4313-G2-VitaMeet/Landing-Page</a>
 
 Asimismo, para llevar a cabo un mejor control de cómo crear ramas y realizar cambios en el código fuente, se procedió a utilizar GitFlow.
 
 De este modo, se tenían 2 ramas principales: main y development.
 
-* main: En esta rama almacenaremos las versiones oficiales de nuestro repositorio que ya deben pasar a producción.
-* development: Esta rama se utilizará como rama de integración para las “feature” branches. Una vez alcance un estado estable y el equipo lo considere listo para ser lanzado, se unirá a la rama main.
+* **Main:** En esta rama almacenaremos las versiones oficiales de nuestro repositorio que ya deben pasar a producción.
+* **Develop:** Esta rama se utilizará como rama de integración para las “feature” branches. Una vez alcance un estado estable y el equipo lo considere listo para ser lanzado, se unirá a la rama main.
   
 **Commit Conventions:**    
 El formato de nuestros commits sigue la estructura de los “Conventional Commits” en su versión 1.0.0 (https://www.conventionalcommits.org/en/v1.0.0/) con el objetivo de proporcionar una lectura sencilla de los mismos. Por ello seguimos el siguiente formato: "< type>[optional scope]: < description>" Donde:
 
-* type: Especifica el tipo de cambio realizado, únicamente puede ser feat, fix, update, etc.
-* scope: Es el alcance que tiene nuestro commit.
-* description: Es un breve resumen de los cambios de código.
+* **type:** Especifica el tipo de cambio realizado, únicamente puede ser feat, fix, update, etc.
+  
+* **scope:** Es el alcance que tiene nuestro commit.
+  
+* **description:** Es un breve resumen de los cambios de código.
 
 ### 5.1.3. Source Code Style Guide & Conventions.
 En el proyecto hemos hecho uso de algunas convenciones y guia de estilos para el desarrollo del Landing Page.
@@ -96,20 +131,83 @@ Esta configuración nos brinda un método eficiente y transparente para el despl
 
 El primer sprint es una etapa importante en nuestro marco de gestión de proyectos de metodología ágil Scrum. En este periodo, agendamos reuniones con el objetivo de conocer mejor las características de cada integrante, y delegamos tareas para materializar el diseño y funcionalidades ya establecidas, para transformarlos en un landing page funcional y que cumple las heurísticas.
 
+Repositorio Github: <a href="https://github.com/1ASI0729-2510-4313-G2-VitaMeet/Landing-Page">https://github.com/1ASI0729-2510-4313-G2-VitaMeet/Landing-Page</a>
+
+
 #### 5.2.1.1. Sprint Planning 1.
 
-| Sprint 1                   | Implementación de funcionalidades y diseño de la aplicación.                                                                                                                                           |
-|----------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Sprint Planning Background |                                                                                                                                                                                                        |
-| Date                       | 10/04/2025                                                                                                                                                                                             |
-| Time                       | 20:00                                                                                                                                                                                                  |
-| Location                   | Reunión realizada en Discord                                                                                                                                         |
-| Prepared By                |                                                                                                  Eddo Su Caletti                                              |
-| Attendees                  |  Alexander Paolo Justo Yauricasa, Carlos De La Cruz Villarreal, Miguel Angel Vidal Castro, Fabian Alonso Reyes Trujillano, Ariana Ramirez Carrasco |
-| Sprint Goal & User Stories |                                                                                                                                                                                                        |
-  | Sprint 1 Goal              | Implementar y desplegar la landing page implica desarrollar una versión funcional basada en los diseños aprobados, integrando elementos clave como formularios, llamados a acción y seguimiento analítico.                                                                                                                                                                |
-| Sprint 1 Velocity          |                                                 35               |
-| Sum of Story Points        |                                                       30            |
+<table>
+    <thead>
+        <tr>
+            <th>Sprint #</th>
+            <th>Sprint 1</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td colspan="2"><b>Sprint  Background</b></td>
+        </tr>
+        <tr>
+            <td>Date</td>
+            <td>2025/04/10</td>
+        </tr>
+        <tr>
+            <td>Time</td>
+            <td>20:00 PM</td>
+        </tr>
+        <tr>
+            <td>Location</td>
+            <td>Reunión realizada mediante Discord</td>
+        </tr>
+        <tr>
+            <td>Prepared by</td>
+            <td>Eddo Su Caletti</td>
+        </tr>
+        <tr>
+            <td>Atendees (to  meeting)</td>
+            <td>
+                <li>Carlos Alejandro De La Cruz Villarreal</li>
+                <li>Alexander Paolo Justo Yauricasa</li>
+                <li>Ariana Lizeth Ramirez Carrasco</li>
+                <li>Fabian Alonso Reyes Trujillano</li>
+                <li>Miguel Angel Vidal Castro</li>
+                <li>Eddo Su Caletti</li>
+            </td>
+        </tr>
+        <tr>
+            <td>Sprint 1 Retrospective Summary</td>
+            <td>
+                Acuerdo de la implementación de una primera versión del Landing Page
+            </td>
+        </tr>
+        <tr>
+            <td colspan="2"><b>Sprint Goal & User Stories</b></td>
+        </tr>
+        <tr>
+            <td>Sprint 1 Goal</td>
+            <td style="text-align: justify">
+                <p>
+Nuestro objetivo en este sprint es desarrollar la primera versión de la Landing Page de VitaMeet, enfocándonos en una estructura que sea visualmente atractiva y fácil de navegar. Utilizando HTML y CSS, crearemos una interfaz responsive que se adapte de manera óptima a dispositivos móviles y de escritorio.
+
+Además, implementar y desplegar la landing page implica desarrollar una versión funcional basada en los diseños aprobados, integrando elementos clave como formularios, llamados a acción y seguimiento analítico.
+                </p>
+            </td>
+        </tr>
+        <tr>
+            <td>Sprint 2 Velocity</td>
+            <td>
+                35
+            </td>
+        </tr>
+        <tr>
+            <td>Sum of story points</td>
+            <td>
+                30
+            </td>
+        </tr>
+    </tbody>
+</table>
+
 
 #### 5.2.1.2. Sprint Backlog 1.
 
@@ -154,6 +252,9 @@ Link del trello: https://trello.com/b/E7ZyFdYk/vitameet
 
 #### 5.2.1.5. Execution Evidence for Sprint Review.
 
+Después de finalizar el Sprint 1, hemos logrado implementar algunas de las secciones de nuestra Landing Page, aunque con algunos desperfectos en cuanto a diseño. 
+
+
 <img src="../assets/landing.png" alt="Captura landingPage" width="100%"><br/>
 
 **Enlace a la página:** [https://1asi0729-2510-4313-g2-vitameet.github.io/Landing-Page/](https://1asi0729-2510-4313-g2-vitameet.github.io/Landing-Page/)
@@ -182,18 +283,84 @@ Para documentar los avances de este Sprint, utilizamos GitHub. Uno de los integr
 ### 5.2.2. Sprint 2
 #### 5.2.2.1. Sprint Planning 2
 
-| Sprint 2                   | Correción de errores de la landing page e implementación  del frontend y fake API de la web application                                                                                                |
-|----------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Sprint Planning Background |                                                                                                                                                                                                        |
-| Date                       | 12/05/2025                                                                                                                                                                                             |
-| Time                       | 16:00                                                                                                                                                                                                  |
-| Location                   | Reunión realizada mediante Discord                                                                                                                                                                     |
-| Prepared By                | Esteban Garcia, Nicolas Sebastian                                                                                                                                                                      |
-| Attendees                  | Carlos Alejandro De La Cruz Villarreal, Alexander Paolo Justo Yauricasa, Ariana Lizeth Ramirez Carrasc,Fabian Alonso Reyes Trujillano,Miguel Angel Vidal Castro	 |
-| Sprint Goal & User Stories |                                                                                                                                                                                                        |
-| Sprint 2 Goal              | Elaboracion de un frontend de una citas de medicas                                                                                                                                                                 |
-| Sprint 2 Velocity          | 45                                                                                                                                                                                                     |
-| Sum of Story Points        | 41                                                                                                                                                                                                     |
+<table>
+    <thead>
+        <tr>
+            <th>Sprint #</th>
+            <th>Sprint 2</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td colspan="2"><b>Sprint  Background</b></td>
+        </tr>
+        <tr>
+            <td>Date</td>
+            <td>2025/05/12</td>
+        </tr>
+        <tr>
+            <td>Time</td>
+            <td>16:00 PM</td>
+        </tr>
+        <tr>
+            <td>Location</td>
+            <td>Reunión realizada mediante Discord</td>
+        </tr>
+        <tr>
+            <td>Prepared by</td>
+            <td>Eddo Su Caletti</td>
+        </tr>
+        <tr>
+            <td>Atendees (to  meeting)</td>
+            <td>
+                <li>Carlos Alejandro De La Cruz Villarreal</li>
+                <li>Alexander Paolo Justo Yauricasa</li>
+                <li>Ariana Lizeth Ramirez Carrasco</li>
+                <li>Fabian Alonso Reyes Trujillano</li>
+                <li>Miguel Angel Vidal Castro</li>
+                <li>Eddo Su Caletti</li>
+            </td>
+        </tr>
+        <tr>
+            <td>Sprint 1 Review Summary</td>
+            <td>
+                Este es el segundo sprint a realizar por el equipo
+            </td>
+        </tr>
+        <tr>
+            <td>Sprint 2 Retrospective Summary</td>
+            <td>
+                Acuerdo de el desarrollo del frontend de nuestra pagina web
+            </td>
+        </tr>
+        <tr>
+            <td colspan="2"><b>Sprint Goal & User Stories</b></td>
+        </tr>
+        <tr>
+            <td>Sprint 2 Goal</td>
+            <td style="text-align: justify">
+                <p>
+Nuestro enfoque está en desarrollar el frontend de la plataforma VitaMeet, priorizando un diseño atractivo, simple y fácil de usar, e implementando vistas clave. También abordaremos los puntos pendientes del sprint anterior.
+
+Creemos que esto aportará una navegación fluida y una experiencia más clara e intuitiva para los usuarios finales, a su vez haremos la elaboracion de un frontend para las citas medicas.
+                </p>
+            </td>
+        </tr>
+        <tr>
+            <td>Sprint 2 Velocity</td>
+            <td>
+                41
+            </td>
+        </tr>
+        <tr>
+            <td>Sum of story points</td>
+            <td>
+                40
+            </td>
+        </tr>
+    </tbody>
+</table>
+
 
 #### 5.2.2.2 Sprint Backlog 2
 
@@ -259,18 +426,86 @@ Para llevar a cabo los registros de nuestros avances durante el primer Sprint de
 ### 5.2.3. Sprint 3
 #### 5.2.3.1. Sprint Planning 3
 
-| Sprint 3                   | Correción de errores del frotend e implementación  del parte del backend                                                                                                |
-|----------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Sprint Planning Background |                                                                                                                                                                                                        |
-| Date                       | 18/06/2025                                                                                                                                                                                             |
-| Time                       | 14:00                                                                                                                                                                                                  |
-| Location                   | Reunión realizada mediante Discord                                                                                                                                                                     |
-| Prepared By                | Esteban Garcia, Nicolas Sebastian                                                                                                                                                                      |
-| Attendees                  | Alexander Paolo Justo Yauricasa, Ariana Lizeth Ramirez Carrasc,Fabian Alonso Reyes Trujillano,Miguel Angel Vidal Castro	 |
-| Sprint Goal & User Stories |                                                                                                                                                                                                        |
-| Sprint 2 Goal              | Completar el frontend y realizar parte del backend (Funciones principales)                                                                                                                                                                  |
-| Sprint 2 Velocity          | 10                                                                                                                                                                                                     |
-| Sum of Story Points        | 10                                                                                                                                                                                                     |
+<table>
+    <thead>
+        <tr>
+            <th>Sprint #</th>
+            <th>Sprint 3</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td colspan="2"><b>Sprint  Background</b></td>
+        </tr>
+        <tr>
+            <td>Date</td>
+            <td>2025/06/18</td>
+        </tr>
+        <tr>
+            <td>Time</td>
+            <td>14:00 PM</td>
+        </tr>
+        <tr>
+            <td>Location</td>
+            <td>Discord</td>
+        </tr>
+        <tr>
+            <td>Prepared by</td>
+            <td>Eddo Su Caletti</td>
+        </tr>
+        <tr>
+            <td>Atendees (to  meeting)</td>
+            <td>
+                <li>Carlos Alejandro De La Cruz Villarreal</li>
+                <li>Alexander Paolo Justo Yauricasa</li>
+                <li>Ariana Lizeth Ramirez Carrasco</li>
+                <li>Fabian Alonso Reyes Trujillano</li>
+                <li>Miguel Angel Vidal Castro</li>
+                <li>Eddo Su Caletti</li>
+            </td>
+        </tr>
+        <tr>
+            <td>Sprint 2 Review Summary</td>
+            <td>
+                Este es el tercer sprint a realizar por el equipo
+            </td>
+        </tr>
+        <tr>
+            <td>Sprint 3 Retrospective Summary</td>
+            <td>
+                Acuerdo en desarrollar el backend a más de 40% de avance y mejorar el frontend
+            </td>
+        </tr>
+        <tr>
+            <td colspan="2"><b>Sprint Goal & User Stories</b></td>
+        </tr>
+        <tr>
+            <td>Sprint 3 Goal</td>
+            <td style="text-align: justify">
+                <p>
+Nuestro enfoque está en consolidar el desarrollo del sistema VitaMeet, completando al menos el 40% de las funcionalidades del backend, optimizando el frontend con mejoras visuales y de experiencia de usuario, y estableciendo un pipeline de deployment funcional para ambos componentes.
+
+Creemos que esto aportará mayor estabilidad, eficiencia de desarrollo y una experiencia de navegación más fluida y profesional para los usuarios de la plataforma.
+
+Esto se confirmará cuando los usuarios puedan interactuar con una versión funcional del sistema con navegación estable, el equipo logre desplegar los cambios desde desarrollo hasta producción de forma automatizada, y se resuelvan satisfactoriamente las observaciones pendientes del sprint anterior y del sprint 2.
+                </p>
+            </td>
+        </tr>
+        <tr>
+            <td>Sprint 2 Velocity</td>
+            <td>
+                10
+            </td>
+        </tr>
+        <tr>
+            <td>Sum of story points</td>
+            <td>
+                10
+            </td>
+        </tr>
+    </tbody>
+</table>
+
 
 #### 5.2.3.2 Sprint Backlog 3
 
@@ -356,49 +591,49 @@ Comenzamos con una introducción breve de los entrevistados para recordar quién
 
 Estas preguntas nos ayudarán a saber cuál es la experiencia de usuario, si nuestro producto llenó las expectativas del usuario, y también saber las posibles mejoras, comentarios y quejas sobre nuestro producto.
 
- Preguntas para Médicos
+**Preguntas para el segmento de Médicos:**
  
-1.¿Te resulta fácil y rápido registrar tus horarios de atención en la plataforma?
+1. ¿Te resulta fácil y rápido registrar tus horarios de atención en la plataforma?
 
-2.¿Qué tan útil consideras la función de gestión de agenda para organizar tus consultas diarias?
+2. ¿Qué tan útil consideras la función de gestión de agenda para organizar tus consultas diarias?
 
-3.¿Has notado una reducción en el ausentismo de tus pacientes desde que usas la plataforma?
+3. ¿Has notado una reducción en el ausentismo de tus pacientes desde que usas la plataforma?
 
-4.¿La opción de visualizar el historial médico de cada paciente mejora tu atención?
+4. ¿La opción de visualizar el historial médico de cada paciente mejora tu atención?
 
-5.¿Te sientes cómodo utilizando la plataforma desde un celular o prefieres el uso en PC?
+5. ¿Te sientes cómodo utilizando la plataforma desde un celular o prefieres el uso en PC?
 
-6.¿Qué tan confiables consideras las notificaciones y recordatorios que envía el sistema?
+6. ¿Qué tan confiables consideras las notificaciones y recordatorios que envía el sistema?
 
-7.¿Te gustaría tener funciones adicionales como alertas por paciente frecuente o indicadores de carga de trabajo?
+7. ¿Te gustaría tener funciones adicionales como alertas por paciente frecuente o indicadores de carga de trabajo?
 
-8.¿La plataforma facilita la comunicación con tus pacientes? ¿Cómo podría mejorar?
+8. ¿La plataforma facilita la comunicación con tus pacientes? ¿Cómo podría mejorar?
 
-9.¿Qué tan seguro percibes el manejo de la información médica dentro de VitaMeet?
+9. ¿Qué tan seguro percibes el manejo de la información médica dentro de VitaMeet?
 
 10.¿Recomendarías esta herramienta a otros colegas? ¿Por qué?
 
- Preguntas para Pacientes
+**Preguntas para el segmento de Pacientes:**
 
-1.¿Te resultó fácil registrarte y crear tu perfil en la plataforma?
+1. ¿Te resultó fácil registrarte y crear tu perfil en la plataforma?
 
-2.¿Cómo calificas la experiencia al buscar y agendar una cita médica?
+2. ¿Cómo calificas la experiencia al buscar y agendar una cita médica?
 
-3.¿Recibiste notificaciones a tiempo sobre tus próximas citas?
+3. ¿Recibiste notificaciones a tiempo sobre tus próximas citas?
 
-4.¿Te ayudó la plataforma a evitar olvidos o ausencias a tus consultas?
+4. ¿Te ayudó la plataforma a evitar olvidos o ausencias a tus consultas?
 
-5.¿Te parece útil poder ver tu historial de atenciones y diagnósticos anteriores?
+5. ¿Te parece útil poder ver tu historial de atenciones y diagnósticos anteriores?
 
-6.¿Cómo te sentiste con la interfaz del sitio web? ¿Fue fácil de usar?
+6. ¿Cómo te sentiste con la interfaz del sitio web? ¿Fue fácil de usar?
 
-7.¿Sientes que esta plataforma te ahorra tiempo en comparación con métodos tradicionales?
+7. ¿Sientes que esta plataforma te ahorra tiempo en comparación con métodos tradicionales?
 
-8.¿Te gustaría tener acceso a más especialidades médicas o servicios relacionados?
+8. ¿Te gustaría tener acceso a más especialidades médicas o servicios relacionados?
 
-9.¿La experiencia digital te genera confianza respecto a la seguridad de tus datos?
+9. ¿La experiencia digital te genera confianza respecto a la seguridad de tus datos?
 
-10.¿Recomendarías VitaMeet a amigos o familiares para agendar citas médicas? ¿Por qué?
+10. ¿Recomendarías VitaMeet a amigos o familiares para agendar citas médicas? ¿Por qué?
 
 
 <h4 id="registryInterviews">5.3.2. Registro de Entrevistas</h4>
@@ -748,6 +983,6 @@ Estas preguntas nos ayudarán a saber cuál es la experiencia de usuario, si nue
 <br>
 
 <p align="center">
-   Enlace del <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202218233_upc_edu_pe/ER9cz4huMLhPqv1zVmJ9orsBtFOHyJZ8DxpMfWhPYty9jA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=fb73ax"><strong>Video About-the-Product</strong></a>
+   Enlace del <strong>Video About-the-Product</strong>: <a href="Link">https://youtu.be/link</a>
 </p>
 
