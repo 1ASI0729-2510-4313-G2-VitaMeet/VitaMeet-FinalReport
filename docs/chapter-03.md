@@ -57,6 +57,7 @@ Segmento 2: Médicos
 
 
 **Epic 03: Reserva y Gestión de Citas para Pacientes**
+
 | **Story ID** | **Título**                               |
 |--------------|------------------------------------------|
 | US08         | Consultar horario                        |
@@ -75,6 +76,7 @@ Segmento 2: Médicos
 
 
 **Epic 05: Configuración y Administración del Perfil de Usuario**
+
 | **Story ID** | **Título**                                      |
 |--------------|-------------------------------------------------|
 | US15         | Editar perfil                                   |
@@ -83,14 +85,13 @@ Segmento 2: Médicos
 | US18         | Actualizar correo electrónico                   |
 
 **Epic 06: Landing Page y Soporte Técnico**
+
 | **Story ID** | **Título**                                        |
 |--------------|---------------------------------------------------|
 | US19         | Navegación por el Landing Page                    |
 | US20         | Cambiar el Idioma de la Landing Page              |
 | US21         | Contactar al Equipo de Soporte                    |
 | US22         | Solucionar Errores Reportados                     |
-
-
 
 
 
