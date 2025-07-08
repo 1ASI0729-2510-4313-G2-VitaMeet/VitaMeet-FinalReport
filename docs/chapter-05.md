@@ -554,6 +554,14 @@ Para el sprint 3 se ha presentado el back-end y se optó por varias herramientas
 | /gestion-citas     | En esta ruta se gestionan las citas realizadas por los clientes.                 |
 | /loguin   | En esta ruta se gestionan los ajustes del loguin.                                                |
 
+
+Endpoints : Muestra de los endpints correctamente implementados en Swagger.
+
+<img src="../assets/sprint3_endpoints-img1.jpeg" alt="Sprint 3" width="100%"><br/>
+
+
+<img src="../assets/sprint3_endpoints-img2.jpeg" alt="Sprint 3" width="100%"><br/>
+
 #### 5.2.3.7. Software Deployment Evidence for Sprint Review.
 
 Para el sprint presentado del Banck-end se optó por varias herramientas para su desarrollo y despliegue de manera pública.
