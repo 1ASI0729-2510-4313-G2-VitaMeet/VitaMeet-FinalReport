@@ -1048,6 +1048,25 @@ Finalmente, en cuanto al Roadmap futuro, se recomienda continuar con el desarrol
 
 ## Bibliografía
 
+<p>Jansen, S. M. (2019). <em>Practical Domain-Driven Design in Enterprise Java: Using Jakarta EE, NoSQL Databases, and Microservices</em>. Apress. Retrieved from <a href="https://bit.ly/4flQyB7" target="_blank">https://bit.ly/4flQyB7</a></p>
+
+<p>Labedian, I. (2024, May 14). <em>How to deploy a .NET app on Railway using Docker</em>. I. Labedian. Retrieved from <a href="https://iliabedian.com/blog/deploy-dotnet-app-on-railway-with-docker" target="_blank">https://iliabedian.com/blog/deploy-dotnet-app-on-railway-with-docker</a></p>
+
+<p>Microsoft. (n.d.). <em>What is ASP.NET Core?</em>. Microsoft. Retrieved from <a href="https://dotnet.microsoft.com/es-es/learn/aspnet/what-is-aspnet-core" target="_blank">https://dotnet.microsoft.com/es-es/learn/aspnet/what-is-aspnet-core</a></p>
+
+<p>Miles, R., & Hamilton, K. (2006). <em>Learning UML 2.0</em>. O'Reilly Media. Retrieved from <a href="https://bit.ly/4fmPE7k" target="_blank">https://bit.ly/4fmPE7k</a></p>
+
+<p>Netlify. (n.d.). <em>Deploying Vite on Netlify</em>. Netlify Docs. Retrieved from <a href="https://docs.netlify.com/frameworks/vite/" target="_blank">https://docs.netlify.com/frameworks/vite/</a></p>
+
+<p>PrimeVue. (n.d.). <em>Setting up PrimeVue</em>. PrimeVue. Retrieved from <a href="https://primevue.org/setup/" target="_blank">https://primevue.org/setup/</a></p>
+
+<p>SAP. (n.d.). <em>CRM: Customer relationship management solutions</em>. SAP. Retrieved from <a href="https://www.sap.com/products/crm.html" target="_blank">https://www.sap.com/products/crm.html</a></p>
+
+<p>Structurizr. (n.d.). <em>Structurizr: Software architecture diagram design</em>. Structurizr. Retrieved from <a href="https://structurizr.com/" target="_blank">https://structurizr.com/</a></p>
+
+<p>Shavin, M. (2020). <em>Learning Vue: A hands-on guide to building modern web applications with Vue.js</em>. Packt Publishing.</p>
+
+
 ## Anexos
 
 <p>Web Applications Mock-ups: 
@@ -1095,5 +1114,11 @@ Finalmente, en cuanto al Roadmap futuro, se recomienda continuar con el desarrol
 <p>Diagrama C4: 
   <a href="link" target="_blank">
     Ver Diagrama C4
+  </a>
+</p>
+
+<p>Diseño Modelo Canvas Empresa Negocio: 
+  <a href="https://www.canva.com/design/DAGkk-nK9F8/mKunVnI8YKqsiZXdopwkOg/edit?utm_content=DAGkk-nK9F8&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton" target="_blank">
+    Ver Modelo Canvas Empresa Negocio
   </a>
 </p>
