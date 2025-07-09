@@ -420,7 +420,9 @@ Para el sprint presentado de la landing page se optó por varias herramientas pa
 
 Para llevar a cabo los registros de nuestros avances durante el primer Sprint de desarrollo, empleamos GitHub. Un miembro del equipo inició el proceso con un primer registro para establecer el repositorio y creó muchas ramas para poder trabajar sin interrumpir el avance de otro compañero. Posteriormente, hicimos una copia local del repositorio mediante Git, realizamos las modificaciones en GitHub. Finalmente, completamos el proceso con un registro de los cambios, el cual será examinado en el repositorio de GitHub.
 
-* A través de GitHub es donde se registran problemas. La sección de "Issues" en GitHub sirve como un tablero virtual donde los colaboradores registran problemas, errores o mejoras que necesitan ser abordados en un proyecto web. Estas entradas proporcionan una manera estructurada de organizar y priorizar el trabajo, facilitando la comunicación entre los miembros del equipo. 
+* A través de GitHub es donde se registran problemas. La sección de "Issues" en GitHub sirve como un tablero virtual donde los colaboradores registran problemas, errores o mejoras que necesitan ser abordados en un proyecto web. Estas entradas proporcionan una manera estructurada de organizar y priorizar el trabajo, facilitando la comunicación entre los miembros del equipo.
+
+
 ### 5.2.3. Sprint 3
 #### 5.2.3.1. Sprint Planning 3
 
@@ -552,6 +554,14 @@ Para el sprint 3 se ha presentado el back-end y se optó por varias herramientas
 | /gestion-citas     | En esta ruta se gestionan las citas realizadas por los clientes.                 |
 | /loguin   | En esta ruta se gestionan los ajustes del loguin.                                                |
 
+
+Endpoints : Muestra de los endpints correctamente implementados en Swagger.
+
+<img src="../assets/sprint3_endpoints-img1.jpeg" alt="Sprint 3" width="100%"><br/>
+
+
+<img src="../assets/sprint3_endpoints-img2.jpeg" alt="Sprint 3" width="100%"><br/>
+
 #### 5.2.3.7. Software Deployment Evidence for Sprint Review.
 
 Para el sprint presentado del Banck-end se optó por varias herramientas para su desarrollo y despliegue de manera pública.
@@ -567,6 +577,37 @@ Para el sprint presentado del Banck-end se optó por varias herramientas para su
 #### 5.2.3.8. Team Collaboration Insights during Sprint.
 
 Durante el Sprint 3, se desarrollaron diversas funcionalidades clave para el backend de la aplicación. Para gestionar esto de manera eficiente, se crearon ramas específicas para cada funcionalidad, permitiendo un desarrollo aislado y organizado. Cada feature fue implementada y confirmada mediante commits individuales antes de ser fusionada con la rama de desarrollo (develop). Posteriormente, se verificó minuciosamente la ausencia de conflictos para asegurar la integridad del código. Una vez confirmada la estabilidad, se realizó la fusión final con la rama de producción (main).
+
+
+### 5.2.4. Sprint 4
+#### 5.2.4.1. Sprint Planning 4
+Descripción de la planificación realizada para el Sprint 4.
+
+#### 5.2.4.2. Aspect Leaders and Collaborators
+Listado de responsables por área y los colaboradores asignados durante el Sprint 4.
+
+#### 5.2.4.3. Sprint Backlog 4
+Lista de tareas seleccionadas para el Sprint 4, incluyendo historias de usuario, bugs y mejoras.
+
+#### 5.2.4.4. Development Evidence for Sprint Review
+Capturas, fragmentos de código, commits y otra evidencia del desarrollo realizado durante el Sprint.
+
+#### 5.2.4.5. Execution Evidence for Sprint Review
+Pruebas funcionales, resultados obtenidos, flujos completados y validaciones.
+
+#### 5.2.4.6. Services Documentation Evidence for Sprint Review
+Documentación técnica de los servicios implementados o modificados en el Sprint.
+
+#### 5.2.4.7. Software Deployment Evidence for Sprint Review
+Registro de despliegues realizados, versiones entregadas y entorno utilizado (dev/test/prod).
+
+#### 5.2.4.8. Team Collaboration Insights during Sprint
+
+Durante el Sprint 4, el equipo fortaleció la colaboración mediante reuniones diarias de seguimiento (Daily Standups), donde se discutieron avances, obstáculos y próximas tareas. Se utilizaron herramientas como Jira para la gestión de tareas y GitHub para el control de versiones, facilitando la transparencia y el trabajo en paralelo.
+
+La comunicación constante ayudó a identificar rápidamente problemas técnicos y coordinar soluciones efectivas. Además, se promovió un ambiente de apoyo mutuo que incentivó la participación activa y la retroalimentación constructiva entre todos los miembros.
+
+Entre los aprendizajes clave destacan la importancia de mantener una documentación clara y actualizada, así como la flexibilidad para adaptarse a cambios en los requerimientos sin afectar el progreso del Sprint.
 
 
 ### 5.3 Validation Interviews
@@ -976,21 +1017,21 @@ Estas preguntas nos ayudarán a saber cuál es la experiencia de usuario, si nue
 ## 5.4. Video About-The-Product
 
 <div align="center">
-    <img src="../assets/about-the-product.png" alt="VitaMeet Promotional Banner" style="width:500;" />
+    <img src="../assets/about-the-product_img.png" alt="VitaMeet Promotional Banner" style="width:500;" />
 </div>
 
 <br>
 
-Enlace en Youtube de <strong>Video About-the-Product</strong>: <a href="https://youtu.be/link">https://youtu.be/link</a>
+Enlace en Youtube de <strong>Video About-the-Product</strong>: <a href="https://youtu.be/U0s1gfhn91s">https://youtu.be/U0s1gfhn91s</a>
 
-Enlace en Microsoft Stream de <strong>Video About-the-Product</strong>: <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202312932_upc_edu_pe/EUVtpFWkZ_lIlQAhbCKhDVoBNQN0Tnw0X7t4oDYbFJGm6A?e=SwNiJ4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)">https://upcedupe-my.sharepoint.com/:v:/g/personal/u202312932_upc_edu_pe/EUVtpFWkZ_lIlQAhbCKhDVoBNQN0Tnw0X7t4oDYbFJGm6A?e=SwNiJ4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D</a>
+Enlace en Microsoft Stream de <strong>Video About-the-Product</strong>: <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202312932_upc_edu_pe/EdF7yGhQMeVDqHV51731jTQBrYyLCGLPOQm-lr2buDXl5Q?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=rQytLe">https://upcedupe-my.sharepoint.com/:v:/g/personal/u202312932_upc_edu_pe/EdF7yGhQMeVDqHV51731jTQBrYyLCGLPOQm-lr2buDXl5Q?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=rQytLe</a>
 
 
 ## 5.4. Video About-The-Team
 
-Enlace en Youtube de <strong>Video About-the-Team</strong>: <a href="https://youtu.be/_YNksmCV9nE">https://youtu.be/_YNksmCV9nE</a>
+Enlace en Youtube de <strong>Video About-the-Team</strong>: <a href="https://youtu.be/MWCqSSu6j_g">https://youtu.be/MWCqSSu6j_g</a>
 
-Enlace en Microsoft Stream de <strong>Video About-the-Team</strong>: <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202312932_upc_edu_pe/EUVtpFWkZ_lIlQAhbCKhDVoBNQN0Tnw0X7t4oDYbFJGm6A?e=SwNiJ4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)">https://upcedupe-my.sharepoint.com/:v:/g/personal/u202312932_upc_edu_pe/EUVtpFWkZ_lIlQAhbCKhDVoBNQN0Tnw0X7t4oDYbFJGm6A?e=SwNiJ4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D</a>
+Enlace en Microsoft Stream de <strong>Video About-the-Team</strong>: <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202312932_upc_edu_pe/EYQaAl0TEHtDnBQzcclwkpABrlJyFIe4B8L40fbyMFBTYw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=41kfbp">https://upcedupe-my.sharepoint.com/:v:/g/personal/u202312932_upc_edu_pe/EYQaAl0TEHtDnBQzcclwkpABrlJyFIe4B8L40fbyMFBTYw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=41kfbp</a>
 
 
 ## Conclusiones
@@ -1009,7 +1050,7 @@ Finalmente, en cuanto al Roadmap futuro, se recomienda continuar con el desarrol
 
 ## Anexos
 <p>Deploy Landing Page: 
-  <a href="link" target="_blank">
+  <a href="https://1asi0729-2510-4313-g2-vitameet.github.io/Landing-Page/" target="_blank">
     Ver Landing Page
   </a>
 </p>
@@ -1027,13 +1068,13 @@ Finalmente, en cuanto al Roadmap futuro, se recomienda continuar con el desarrol
 </p>
 
 <p>Entrevistas: 
-  <a href="link" target="_blank">
+  <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202312932_upc_edu_pe/EVs_IHAn7wRKp6xgyJYl29ABUpgqNDGHl30AI-GwDatDSg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=lSUrlx" target="_blank">
     Ver Entrevistas
   </a>
 </p>
 
 <p>Validación de entrevistas: 
-  <a href="link" target="_blank">
+  <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202312932_upc_edu_pe/EXyTK9xWislHoQ4S_nrb29AB5a2PoV79bNoCOvrfHDZH5w?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=7eOXp3" target="_blank">
     Ver Validación
   </a>
 </p>
@@ -1051,22 +1092,22 @@ Finalmente, en cuanto al Roadmap futuro, se recomienda continuar con el desarrol
 </p>
 
 <p>Diagrama de clases del boundend context ...: 
-  <a href="link">
+  <a href="link" target="_blank">
     Ver Diagrama del boundend context ...
   </a>
 </p>
 <p>Diagrama de clases del boundend context ....: 
-  <a href="link">
+  <a href="link" target="_blank">
     Ver Diagrama del ....
   </a>
 </p>
 <p>Diagrama de clases del boundend context ...: 
-  <a href="link">
+  <a href="link" target="_blank">
     Ver Diagrama del ...
   </a>
 </p>
     <p>Diagrama de clases de la base de datos: 
-  <a href="link">
+  <a href="link" target="_blank">
     Ver Diagrama de la base de datos
   </a>
 </p>
