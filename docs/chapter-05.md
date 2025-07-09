@@ -511,84 +511,76 @@ Esto se confirmará cuando los usuarios puedan interactuar con una versión func
 #### 5.2.4.1. Sprint Planning 4
 
 <table>
-    <thead>
-        <tr>
-            <th>Sprint #</th>
-            <th>Sprint 4</th>
-        </tr>
-    </thead>
-    <tbody>
-        <tr>
-            <td colspan="2"><b>Sprint  Background</b></td>
-        </tr>
-        <tr>
-            <td>Date</td>
-            <td>2025/07/06</td>
-        </tr>
-        <tr>
-            <td>Time</td>
-            <td>16:30 PM</td>
-        </tr>
-        <tr>
-            <td>Location</td>
-            <td>Reunión realizada mediante Discord</td>
-        </tr>
-        <tr>
-            <td>Prepared by</td>
-            <td>Miguel Vidal Castro</td>
-        </tr>
-        <tr>
-            <td>Atendees (to  meeting)</td>
-            <td>
-                <li>Ariana Lizeth Ramirez Carrasco</li>
-                <li>Fabian Alonso Reyes Trujillano</li>
-                <li>Miguel Angel Vidal Castro</li>
-                <li>Eddo Su Caletti</li>
-            </td>
-        </tr>
-        <tr>
-            <td>Sprint 1 Review Summary</td>
-            <td>
-                Este es el segundo sprint a realizar por el equipo
-            </td>
-        </tr>
-        <tr>
-            <td>Sprint 2 Retrospective Summary</td>
-            <td>
-                Acuerdo de el desarrollo del frontend de nuestra pagina web
-            </td>
-          <td>Sprint 4 Retrospective Summary</td>
-            <td>
-                Acuerdo de correcciones de frontend, backend y landing page. Mejora en documentación.
-            </td>
-        </tr>
-        <tr>
-            <td colspan="2"><b>Sprint Goal & User Stories</b></td>
-        </tr>
-        <tr>
-            <td>Sprint 4 Goal</td>
-            <td style="text-align: justify">
-                <p>
-Nuestro enfoque está en desarrollar el backend de la plataforma VitaMeet, haciendo usos de endpoints para manejarlos en la base de datos en mySQL. También corregiremos frontend y documentación.
-
-Creemos que podemos mejorar los puntos que quedaron pendientes de anteriores entregas para poder completar en lo posible el proyecto.
-                </p>
-            </td>
-        </tr>
-        <tr>
-            <td>Sprint 4 Velocity</td>
-            <td>
-                41
-            </td>
-        </tr>
-        <tr>
-            <td>Sum of story points</td>
-            <td>
-                40
-            </td>
-        </tr>
-    </tbody>
+  <thead>
+    <tr>
+      <th>Sprint #</th>
+      <th>Sprint 4</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td colspan="2"><b>Sprint Background</b></td>
+    </tr>
+    <tr>
+      <td>Date</td>
+      <td>2025/07/06</td>
+    </tr>
+    <tr>
+      <td>Time</td>
+      <td>16:30 PM</td>
+    </tr>
+    <tr>
+      <td>Location</td>
+      <td>Reunión realizada mediante Discord</td>
+    </tr>
+    <tr>
+      <td>Prepared by</td>
+      <td>Miguel Vidal Castro</td>
+    </tr>
+    <tr>
+      <td>Attendees (to meeting)</td>
+      <td>
+        <ul>
+          <li>Ariana Lizeth Ramírez Carrasco</li>
+          <li>Fabián Alonso Reyes Trujillano</li>
+          <li>Miguel Ángel Vidal Castro</li>
+          <li>Eddo Su Caletti</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>Sprint 1 Review Summary</td>
+      <td>Este es el segundo sprint a realizar por el equipo</td>
+    </tr>
+    <tr>
+      <td>Sprint 2 Retrospective Summary</td>
+      <td>Acuerdo del desarrollo del frontend de nuestra página web</td>
+    </tr>
+    <tr>
+      <td>Sprint 4 Retrospective Summary</td>
+      <td>Acuerdo de correcciones de frontend, backend y landing page. Mejora en documentación.</td>
+    </tr>
+    <tr>
+      <td colspan="2"><b>Sprint Goal & User Stories</b></td>
+    </tr>
+    <tr>
+      <td>Sprint 4 Goal</td>
+      <td style="text-align: justify;">
+        Nuestro enfoque está en desarrollar el backend de la plataforma VitaMeet, haciendo uso de endpoints para manejarlos en la base de datos en MySQL. También corregiremos frontend y documentación. <br><br>
+        Creemos que podemos mejorar los puntos que quedaron pendientes de anteriores entregas para poder completar en lo posible el proyecto.
+      </td>
+    </tr>
+    <tr>
+      <td>Sprint 4 Velocity</td>
+      <td>41</td>
+    </tr>
+    <tr>
+      <td>Sum of story points</td>
+      <td>40</td>
+    </tr>
+  </tbody>
 </table>
+
 
 #### 5.2.4.2. Aspect Leaders and Collaborators
 
