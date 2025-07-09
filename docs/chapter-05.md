@@ -580,26 +580,104 @@ Durante el Sprint 3, se desarrollaron diversas funcionalidades clave para el bac
 
 
 ### 5.2.4. Sprint 4
+
 #### 5.2.4.1. Sprint Planning 4
-Descripción de la planificación realizada para el Sprint 4.
+
+<table>
+  <thead>
+    <tr>
+      <th>Sprint #</th>
+      <th>Sprint 4</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td colspan="2"><b>Sprint Background</b></td>
+    </tr>
+    <tr>
+      <td>Date</td>
+      <td>2025/07/06</td>
+    </tr>
+    <tr>
+      <td>Time</td>
+      <td>16:30 PM</td>
+    </tr>
+    <tr>
+      <td>Location</td>
+      <td>Reunión realizada mediante Discord</td>
+    </tr>
+    <tr>
+      <td>Prepared by</td>
+      <td>Miguel Vidal Castro</td>
+    </tr>
+    <tr>
+      <td>Attendees (to meeting)</td>
+      <td>
+        <ul>
+          <li>Ariana Lizeth Ramírez Carrasco</li>
+          <li>Fabián Alonso Reyes Trujillano</li>
+          <li>Eddo Su Caletti</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>Sprint 4 Review Summary</td>
+      <td>Este es el cuarto sprint a realizar por el equipo</td>
+    </tr>
+    <tr>
+      <td>Sprint 3 Retrospective Summary</td>
+      <td>Acuerdo del desarrollo del frontend de nuestra página web</td>
+    </tr>
+    <tr>
+      <td>Sprint 4 Retrospective Summary</td>
+      <td>Acuerdo de correcciones de frontend, backend y landing page. Mejora en documentación.</td>
+    </tr>
+    <tr>
+      <td colspan="2"><b>Sprint Goal & User Stories</b></td>
+    </tr>
+    <tr>
+      <td>Sprint 4 Goal</td>
+      <td style="text-align: justify;">
+        Nuestro enfoque está en desarrollar el backend de la plataforma VitaMeet, haciendo uso de endpoints para manejarlos en la base de datos en MySQL. También corregiremos frontend y documentación. <br><br>
+        Creemos que podemos mejorar los puntos que quedaron pendientes de anteriores entregas para poder completar en lo posible el proyecto.
+      </td>
+    </tr>
+    <tr>
+      <td>Sprint 4 Velocity</td>
+      <td>41</td>
+    </tr>
+    <tr>
+      <td>Sum of story points</td>
+      <td>40</td>
+    </tr>
+  </tbody>
+</table>
+
 
 #### 5.2.4.2. Aspect Leaders and Collaborators
-Listado de responsables por área y los colaboradores asignados durante el Sprint 4.
+
+| Team Member (Last Name, First Name) | GitHub Username | Gestión de cuentas de usuario | Gestión de agenda y atención médica | Reserva y Gestión de Citas para Pacientes | Evaluación y Retroalimentación de Servicios |
+|------------------------------------|------------------|-------------------------------|-------------------------------------|--------------------------------------------|----------------------------------------------|
+| Su Caletti, Edo | Asalreon520 | C | L | C | C |
+| Vidal Castro, Miguel | Gossk | C | C | C | L |
+| Reyes Trujillano, Fabian | FabianTG25 | L | C | C | C |
+| Ramírez Carrasco, Ariana | ariana9513 | C | C | L | C |
+
+
+
 
 #### 5.2.4.3. Sprint Backlog 4
-Lista de tareas seleccionadas para el Sprint 4, incluyendo historias de usuario, bugs y mejoras.
+| User Story |  | Work-Item/Task |  |  |  |  |
+|------------|----------------|-------------|--------------------------------|-----------|------------------|--------|
+| ID         | Title          | ID          | Title                          | Description                     | Estimation | Assigned To      | Status |
+| US06       | Ver citas médicas	 	 | W201       | Crear el componente de hilo  | Creación del componente que permita visualizar informacion mas especifica de cada hilo e implementacion del service y model. | 5 horas | Eddo  | Done   |
+| US07       | Enviar recordatorio de cita	 	 | W202     | Crear el componente de calendario  | Creación de componentes que permiten visualizar el calendario con los eventos a los que asistira un usuario o specialista e implementacion del service y model. | 5 horas | Fabian  | Done   |
+| US08	       | Ver disponibilidad médica	 	 | W203     | Crear el componente de cita | Creación del componente que permite agendar una cita privada en el perfil del especialista, e implementacion del service y model. | 5 horas | Miguel  | Done   |
+| US09       | Buscar médico por especialidad	 	 | W204        | Crear el componente de suscripcion | Creacion del componente que permite a los usuarios pagar una suscripcion. | 5 horas | Alexander | Done   |
+| US10      | Ver detalles de cita	 	 | W205        | Crear el componente de mensajeria | Creacion del componente que permite visualizar todas las conversaciones de un usuario o un especialista, implementacion de model y service.| 3 horas | Miguel  | Done   |
+| US13       | Comentar sobre atención médica	 	 | W206       | Crear el componente de listado de hilos | Creacion del componente para visualizar hilos en el foro e implementacion de model y service. | 5 horas | Ariana  | Done   |
+| US14       | Ver calificaciones de médicos		 | W207        | Crear el componente de perfil de especialista | Creacion del componente que permite visualizar el perfil de un especialista e implementación de model y service. | 5 horas | Carlos  | Done   |
 
-#### 5.2.4.4. Development Evidence for Sprint Review
-Capturas, fragmentos de código, commits y otra evidencia del desarrollo realizado durante el Sprint.
-
-#### 5.2.4.5. Execution Evidence for Sprint Review
-Pruebas funcionales, resultados obtenidos, flujos completados y validaciones.
-
-#### 5.2.4.6. Services Documentation Evidence for Sprint Review
-Documentación técnica de los servicios implementados o modificados en el Sprint.
-
-#### 5.2.4.7. Software Deployment Evidence for Sprint Review
-Registro de despliegues realizados, versiones entregadas y entorno utilizado (dev/test/prod).
 
 #### 5.2.4.8. Team Collaboration Insights during Sprint
 
