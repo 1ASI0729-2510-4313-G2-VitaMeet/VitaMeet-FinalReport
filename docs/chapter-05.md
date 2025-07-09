@@ -689,7 +689,7 @@ Estas preguntas nos ayudarán a saber cuál es la experiencia de usuario, si nue
     <tr><td>Minuto de Inicio</td><td>0:30</td></tr>
     <tr><td>Duración</td><td>04:44 minutos</td></tr>
     <tr><td>Imagen</td><td><img src="../assets/Interview Validation 1.png" alt="Entrevista 1" height="360"/></td></tr>
-    <tr><td>Resumen</td><td>El entrevistado brindo una retroalimentación entre positiva y negativa con respecto a nuestro trabajo VitaMeed  con respecto a nuestro funcionamiento de nuestra aplicación el entrevistado mensiono que se le resulta un poco basica y algunasveses comoda. </td></tr>
+    <tr><td>Resumen</td><td>Durante la entrevista, el entrevistado brindó una retroalimentación matizada, que osciló entre lo positivo y lo negativo, con respecto al funcionamiento de nuestra aplicación VitaMeet. En sus comentarios, mencionó que, si bien la interfaz de usuario le resultó un poco básica, percibiendo quizás una simplicidad en el diseño o en la cantidad de funcionalidades visuales, simultáneamente reconoció que esa misma cualidad la hacía cómoda y fácil de usar en diversas ocasiones, lo que le permitía realizar sus tareas sin mayores complicaciones. </td></tr>
 </table><br>
 
 
@@ -700,12 +700,12 @@ Estas preguntas nos ayudarán a saber cuál es la experiencia de usuario, si nue
     <tr><td>Entrevistador</td><td>Alexander Paolo Justo Yauricasa</td></tr>
     <tr><td>Entrevistado</td><td>Renzo Baldeon</td></tr>
     <tr><td>Edad</td><td>26 años</td></tr>
-    <tr><td>Distrito</td><td>....</td></tr>
+    <tr><td>Distrito</td><td>Chorrillos</td></tr>
     <tr><td>Link del Video</td><td><a href="https://shorturl.at/n7feu">Ver Video</a></td></tr>
     <tr><td>Minuto de Inicio</td><td>04:45</td></tr>
     <tr><td>Duración</td><td>04:54 minutos</td></tr>
     <tr><td>Imagen</td><td><img src="../assets/Interview Validation 2.png" alt="Entrevista 1" height="380"/></td></tr>
-    <tr><td>Resumen</td><td>El entrevistado .....</td></tr>
+    <tr><td>Resumen</td><td>El entrevistado, mencionó que agendar y cancelar sus citas fue un proceso increíblemente fácil y rápido, destacando la claridad de los pasos y la posibilidad de seleccionar el especialista y horario deseado sin complicaciones. Sobre la gestión de sus propias citas, consideró que la herramienta es muy útil para organizar su atención médica personal, ya que le permite visualizar sus próximas consultas con orden y anticipación, evitando olvidos. Asimismo, indicó que ahora asiste más puntualmente a sus citas y se siente mucho más tranquilo. Respecto al historial médico, comentó que poder consultar su propia información clínica desde el aplicativo mejora significativamente su autonomía y le permite estar mejor preparado para cada consulta.</td></tr>
 </table><br>
 
 
@@ -721,7 +721,7 @@ Estas preguntas nos ayudarán a saber cuál es la experiencia de usuario, si nue
     <tr><td>Minuto de Inicio</td><td>09:38</td></tr>
     <tr><td>Duración</td><td>04:59 minutos</td></tr>
     <tr><td>Imagen</td><td><img src="../assets/Interview Validation 3.png" alt="Entrevista 1" height="380"/></td></tr>
-    <tr><td>Resumen</td><td>El entrevistado, brindo una retroalimentación maso menos ya que  comento que en la aplicacion se le podia complicar a las personas mayores de edad y que tambien la persona se complicaba con respecto a las citas  y entre otras cosas.</td></tr>
+    <tr><td>Resumen</td><td>El entrevistado brindó una retroalimentación mixta, señalando que, desde su perspectiva, la aplicación podría presentar ciertas dificultades para personas mayores de edad. Comentó específicamente que el proceso de gestión de citas le resultó un tanto confuso o complicado, lo cual podría impactar su experiencia al intentar realizar otras acciones dentro de la plataforma.</td></tr>
 </table><br>
 
 
@@ -1049,6 +1049,19 @@ Finalmente, en cuanto al Roadmap futuro, se recomienda continuar con el desarrol
 ## Bibliografía
 
 ## Anexos
+
+<p>Web Applications Mock-ups: 
+  <a href="https://www.figma.com/design/B20hVq5GgVN4IztJvjGKhB/VitaMeet--landing-page?node-id=0-1&t=3V5brJtfsm2snYyP-1" target="_blank">
+    Ver Application Mock-ups
+  </a>
+</p>
+
+<p>Web Applications Wireframes: 
+  <a href="https://www.figma.com/design/B20hVq5GgVN4IztJvjGKhB/VitaMeet--landing-page?node-id=0-1&t=3V5brJtfsm2snYyP-1" target="_blank">
+    Ver Application Wireframes
+  </a>
+</p>
+
 <p>Deploy Landing Page: 
   <a href="https://1asi0729-2510-4313-g2-vitameet.github.io/Landing-Page/" target="_blank">
     Ver Landing Page
@@ -1056,13 +1069,13 @@ Finalmente, en cuanto al Roadmap futuro, se recomienda continuar con el desarrol
 </p>
 
 <p>Deploy Frontend: 
-  <a href="link" target="_blank">
+  <a href="https://docs.google.com/document/d/1KKkqJXnprDayXKMM_rZoW8NQEHSPj4QnaZN2MIYOMpY/edit?usp=sharing" target="_blank">
     Ver Frontend
   </a>
 </p>
 
 <p>Deploy Backend: 
-  <a href="link" target="_blank">
+  <a href="https://docs.google.com/document/d/19Sb6eVCFyocVXzn_m6J6xLknPEr9SwkbQ5ulot4eI2E/edit?usp=sharing" target="_blank">
     Ver Backend
   </a>
 </p>
@@ -1082,32 +1095,5 @@ Finalmente, en cuanto al Roadmap futuro, se recomienda continuar con el desarrol
 <p>Diagrama C4: 
   <a href="link" target="_blank">
     Ver Diagrama C4
-  </a>
-</p>
-
-<p>Diagrama de clases del frontend: 
-  <a href="link" target="_blank">
-    Ver Diagrama del Frontend
-  </a>
-</p>
-
-<p>Diagrama de clases del boundend context ...: 
-  <a href="link" target="_blank">
-    Ver Diagrama del boundend context ...
-  </a>
-</p>
-<p>Diagrama de clases del boundend context ....: 
-  <a href="link" target="_blank">
-    Ver Diagrama del ....
-  </a>
-</p>
-<p>Diagrama de clases del boundend context ...: 
-  <a href="link" target="_blank">
-    Ver Diagrama del ...
-  </a>
-</p>
-    <p>Diagrama de clases de la base de datos: 
-  <a href="link" target="_blank">
-    Ver Diagrama de la base de datos
   </a>
 </p>
