@@ -1112,7 +1112,7 @@ Finalmente, en cuanto al Roadmap futuro, se recomienda continuar con el desarrol
 </p>
 
 <p>Diagrama C4: 
-  <a href="link" target="_blank">
+  <a href="https://drive.google.com/file/d/1cZA3g06UPZ7qBsbTPzuY6oH5_8C4oMPF/view?usp=sharing" target="_blank">
     Ver Diagrama C4
   </a>
 </p>
