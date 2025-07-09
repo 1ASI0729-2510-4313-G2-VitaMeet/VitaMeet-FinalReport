@@ -543,7 +543,6 @@ Esto se confirmará cuando los usuarios puedan interactuar con una versión func
         <ul>
           <li>Ariana Lizeth Ramírez Carrasco</li>
           <li>Fabián Alonso Reyes Trujillano</li>
-          <li>Miguel Ángel Vidal Castro</li>
           <li>Eddo Su Caletti</li>
         </ul>
       </td>
