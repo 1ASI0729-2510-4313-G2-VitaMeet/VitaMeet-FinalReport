@@ -594,16 +594,16 @@ Esto se confirmará cuando los usuarios puedan interactuar con una versión func
 
 
 #### 5.2.4.3. Sprint Backlog 4
-| User Story |  | Work-Item/Task |  |  |  |  |
-|------------|----------------|-------------|--------------------------------|-----------|------------------|--------|
-| ID         | Title          | ID          | Title                          | Description                     | Estimation | Assigned To      | Status |
-| US06       | Ver citas médicas	 	 | W201       | Crear el componente de hilo  | Creación del componente que permita visualizar información más específica de cada hilo e implementación del service y model. | 6 horas | Eddo  | Done   |
-| US07       | Enviar recordatorio de cita	 	 | W202     | Crear el componente de calendario  | Creación de componentes que permiten visualizar el calendario con los eventos a los que asistirá un usuario o especialista e implementación del service y model. | 8 horas | Fabian  | Done   |
-| US08	       | Ver disponibilidad médica	 	 | W203     | Crear el componente de cita | Creación del componente que permite agendar una cita privada en el perfil del especialista, e implementación del service y model. | 6 horas | Miguel  | Done   |
-| US09       | Buscar médico por especialidad	 	 | W204        | Crear el componente de suscripción | Creación del componente que permite a los usuarios pagar una suscripción. | 4 horas | Fabian  | Done   |
-| US10      | Ver detalles de cita	 	 | W205     | Crear el componente de mensajería | Creación del componente que permite visualizar todas las conversaciones de un usuario o un especialista, implementación de model y service. | 4 horas | Miguel  | Done   |
-| US13       | Comentar sobre atención médica	 	 | W206       | Crear el componente de listado de hilos | Creación del componente para visualizar hilos en el foro e implementación de model y service. | 6 horas | Ariana  | Done   |
-| US14       | Ver calificaciones de médicos		 | W207        | Crear el componente de perfil de especialista | Creación del componente que permite visualizar el perfil de un especialista e implementación de model y service. | 8 horas | Eddo  | Done   |
+| User Story | Title                             | Work-Item/Task | Title                                 | Description                                                                                                                                     | Estimation | Assigned To | Status |
+|------------|-----------------------------------|----------------|---------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------|------------|--------------|--------|
+| US06       | Ver citas médicas                 | W201           | Crear componente de visualización de hilos | Desarrollo de un componente que permite a los usuarios ver el historial de citas médicas en las que han participado, integrando service y model. | 6 horas    | Eddo         | Done   |
+| US07       | Enviar recordatorio de cita       | W202           | Crear componente de gestión de citas       | Implementación del componente encargado de mostrar el calendario de citas y permitir el envío de recordatorios automáticos a los usuarios.     | 8 horas    | Fabian       | Done   |
+| US08       | Ver disponibilidad médica         | W203           | Crear componente de calendario             | Desarrollo de un componente que muestre la disponibilidad médica de los especialistas para facilitar la programación de citas.                  | 6 horas    | Miguel       | Done   |
+| US09       | Buscar médico por especialidad    | W204           | Crear componente de gestión de citas       | Creación del componente que permite a los usuarios buscar médicos por especialidad, incluyendo filtros y lógica de búsqueda.                    | 4 horas    | Fabian       | Done   |
+| US10       | Ver detalles de cita              | W205           | Crear componente de calendario             | Desarrollo del componente que muestra los detalles de una cita médica seleccionada, incluyendo fecha, hora, médico y motivo de la consulta.     | 4 horas    | Miguel       | Done   |
+| US13       | Comentar sobre atención médica    | W206           | Crear componente de evaluación             | Implementación de un componente para que los usuarios dejen comentarios sobre la atención recibida, con integración de lógica de evaluación.    | 6 horas    | Ariana       | Done   |
+| US14       | Ver calificaciones de médicos     | W207           | Crear componente de perfil de especialista | Desarrollo del componente que muestra el perfil de los especialistas, incluyendo sus calificaciones y reseñas de los pacientes.                 | 8 horas    | Eddo         | Done   |
+
 
 
 #### 5.2.4.4. Development Evidence for Sprint Review
